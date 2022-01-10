@@ -25,7 +25,8 @@ redirect_from:
 ## Academic/professional activities
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-current)**
-  * Title: A natureza das teorias científicas: uma investigação lógico-filosófica. Supervisor: Prof. Jonas Arenhart. This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
+  * Title: A natureza das teorias científicas: uma investigação lógico-filosófica. Supervisor: Prof. Jonas Arenhart. 
+  * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
 
 * **Undergraduate research project in Logic and Category Theory, UFSC (2021-current)**
   * Title: Dualidade de Stone e aplicações. Supervisor: Prof. Luiz Cordeiro. 
