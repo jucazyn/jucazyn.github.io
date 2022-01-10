@@ -1,10 +1,11 @@
 ---
-permalink: /tips/
+permalink: /tips-and-links/
 title: "Tips"
 author_profile: true
 redirect_from: 
-  - /tricks/
-  - /tips.html
+  - /tips/
+  - /links/
+  - /tips-and-links.html
 ---
 
 ## tips
