@@ -25,17 +25,22 @@ redirect_from:
 ## Academic/professional activities
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-current)**
-  * Title: A natureza das teorias científicas: uma investigação lógico-filosófica. Supervisor: Prof. Jonas Arenhart. 
+  * Title: A natureza das teorias científicas: uma investigação lógico-filosófica. 
+  * Supervisor: Prof. Jonas Arenhart. 
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
 
 * **Undergraduate research project in Logic and Category Theory, UFSC (2021-current)**
-  * Title: Dualidade de Stone e aplicações. Supervisor: Prof. Luiz Cordeiro. 
+  * Title: Dualidade de Stone e aplicações. 
+  * Supervisor: Prof. Luiz Cordeiro. 
 
 * **Undergraduate research project in Operator Algebras, UFSC (2020-2021)** 
-  * Title: O Teorema de Riesz-Markov-Kakutani e dualidade. Supervisor: Prof. Luiz Cordeiro. 
+  * Title: O Teorema de Riesz-Markov-Kakutani e dualidade. 
+  * Supervisor: Prof. Luiz Cordeiro. 
 
 * **Undergraduate research project in Topology, UFSC (2019)** 
-  * Title: Um Estudo da Topologia Geral. Supervisor: Prof. Paulo Carvalho.
+  * Title: Um Estudo da Topologia Geral. 
+  * Supervisor: Prof. Paulo Carvalho.
 
-* **Undergraduate research project in Non-classical Logics, UFSC (2018)**
-  * Title: Lógicas Não-clássicas e Fundamentos de Ciência. Supervisor: Prof. Jonas Arenhart. [[pdf](https://www.academia.edu/41484025/Sobre_as_L%C3%B3gicas_Polivalentes_O_Caso_Proposicional)]
+* **Undergraduate research project in Non-classical Logics, UFSC (2018)** 
+  * Title: Lógicas Não-clássicas e Fundamentos de Ciência. [[pdf](https://www.academia.edu/41484025/Sobre_as_L%C3%B3gicas_Polivalentes_O_Caso_Proposicional)]
+  * Supervisor: Prof. Jonas Arenhart. 
