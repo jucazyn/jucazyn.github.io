@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "cv"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **B.Sc. in Mathematics and Scientific Computing at UFSC (2018-current)**
+  * Emphasis in Logic and Mathematical Physics. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Advanced Program in Mathematics at UFSC (2018-current)** 
+  *  Honours course including Introductory Analysis, Linear Algebra and Calculus on Manifolds.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Teaching
+
+* **Teaching assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
+  * Subjects: Basic Logic, elements of Number Theory, mathematical induction, etc. 
+
+# Academic/professional activities
+
+* **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-current)**
+  * Title: A natureza das teorias científicas: uma investigação lógico-filosófica. Supervisor: Prof. Jonas Arenhart. This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
+
+* **Undergraduate research project in Logic and Category Theory, UFSC (2021-current)**
+  * Title: Dualidade de Stone e aplicações. Supervisor: Prof. Luiz Cordeiro. 
+
+* **Undergraduate research project in Operator Algebras, UFSC (2020-2021)** 
+  * Title: O Teorema de Riesz-Markov-Kakutani e dualidade. Supervisor: Prof. Luiz Cordeiro. 
+
+* **Undergraduate research project in Topology, UFSC (2019)** 
+  * Title: Um Estudo da Topologia Geral. Supervisor: Prof. Paulo Carvalho.
+
+* **Undergraduate research project in Non-classical Logics, UFSC (2018)**
+  * Title: Lógicas Não-clássicas e Fundamentos de Ciência. Supervisor: Prof. Jonas Arenhart. [[pdf](https://www.academia.edu/41484025/Sobre_as_L%C3%B3gicas_Polivalentes_O_Caso_Proposicional)]
