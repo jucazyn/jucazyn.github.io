@@ -4,8 +4,8 @@ title: "hi! welcome to juca's homepage"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /about/
+  - /about.html
 ---
 
 I would like to warn you of something important - at least for me. If all goes well, in the future, I will change my name from _Júlio Cândido Veloso Júnior_ to _Júlio Cândido Veloso Barczyszyn_. But, I'm already using "barczyszyn" as part of all my users in social media. That's it.
