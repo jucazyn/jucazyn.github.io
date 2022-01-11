@@ -23,9 +23,9 @@ In addition to activities at the university, I write about Mathematics, Philosop
 
 My research interests lie in the following topics:
 
-* **Logic, Formal Methods and Mathematical Philosophy:** development of Logic and Formal Methods and its applications in Philosophy and Science in general.
-* **Isbell and Stone-type dualities:** the study of categorical relations between algebra and geometry.
-* **Operator Algebras and Mathematical Physics:** C*-algebras, mathematical foundations of Quantum Mechanics and related mathematical topics in contemporary Physics.
+* **Logic, Formal Methods and Mathematical Philosophy:** development of Logic and Formal Methods and its applications in Philosophy and science in general;
+* **Isbell and Stone-type dualities:** the study of categorical relations between algebra and geometry;
+* **Operator Algebras and Mathematical Physics:** C*-algebras, mathematical foundations of Quantum Mechanics and related mathematical topics in contemporary Physics;
 * **Philosophy and Foundations of Physics:** investigations on the nature of scientific theories, in the context of Physics, from a logical and philosophical point of view.
 
 ## Short CV
