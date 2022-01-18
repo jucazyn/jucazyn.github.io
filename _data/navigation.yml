@@ -12,8 +12,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-   - title: "mini blog"
-     url: /year-archive/
+#   - title: "mini blog"
+#     url: /year-archive/
     
    - title: "cv"
      url: /cv/
