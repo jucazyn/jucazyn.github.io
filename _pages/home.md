@@ -11,13 +11,13 @@ redirect_from:
 I would like to warn you of something important - at least for me. If all goes well, in the future, I will change my name from _Júlio Cândido Veloso Júnior_ to _Júlio Cândido Veloso Barczyszyn_. But, I'm already using "barczyszyn" as part of all my users in social media. That's it.
 {: .notice}
 
-I'm an undergraduate student in Mathematics and Scientific Computing at [UFSC](https://ufsc.br/) interested in research areas such as Logic, Category Theory, Operator Algebras and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under orientation of [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/) and Stone Duality under orientation of [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/). 
+I'm an undergraduate student in Mathematics and Scientific Computing at [UFSC](https://ufsc.br/) interested in research areas such as Logic, Category Theory, Operator Algebras and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision. 
 
 ## More about me
 
 Despite being an undergraduate student in Mathematics, I took many extra courses involving areas such as Philosophy, Physics and Linguistics. Among the classes I attended, for example, are Metalogic, Philosophy of Science, Philosophy of Physics, Methods of Mathematical Physics, Semantics, etc.
 
-In addition to activities at the university, I write about Mathematics, Philosophy and Foundations of Science, with an special emphasis on the Foundations of Physics, on my blog [Fundamentae](http://fundamentae.com) (in Portuguese).
+In addition to activities at the university, I write about Mathematics, Philosophy and Foundations of Science, with a special emphasis on the Foundations of Physics, on my blog [Fundamentae](http://fundamentae.com) (in Portuguese).
 
 ## Research interests
 
