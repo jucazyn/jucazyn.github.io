@@ -24,12 +24,16 @@ redirect_from:
 
 ## Academic/professional activities
 
+* **Undergraduate research project in Mathematical Physics, UFSC (2022-current)**
+  * Title: Formalizaçao da Mecânica Quântica I: O contexto clássico. 
+  * Supervisor: Prof. Luiz Cordeiro. 
+
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-current)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
   * Title: A natureza das teorias científicas: uma investigação lógico-filosófica. 
   * Supervisor: Prof. Jonas Arenhart. 
 
-* **Undergraduate research project in Logic and Category Theory, UFSC (2021-current)**
+* **Undergraduate research project in Logic and Category Theory, UFSC (2021-2022)**
   * Title: Dualidade de Stone e aplicações. 
   * Supervisor: Prof. Luiz Cordeiro. 
 
