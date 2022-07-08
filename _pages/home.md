@@ -41,7 +41,7 @@ My education trajectory until now is:
 And here are some of my current academic/professional activities:
 
 * **Undergraduate research project in Mathematical Physics, UFSC (2022-current)**
-  * Title: Formalizaçao da Mecânica Quântica I: O contexto clássico. 
+  * Title: Formalização da Mecânica Quântica I: O contexto clássico. 
   * Supervisor: Prof. Luiz Cordeiro. 
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-current)**
