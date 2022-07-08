@@ -1,12 +1,13 @@
 ---
-permalink: /tips-and-links/
-title: "Tips"
+permalink: /activities/
+title: "Activities"
 author_profile: true
 redirect_from: 
-  - /tips/
-  - /links/
-  - /tips-and-links.html
+  - /activities/
+  - /activities.html
 ---
 
-## tips
+## activities
+
+asda
 
