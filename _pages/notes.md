@@ -1,16 +1,11 @@
 ---
 permalink: /notes/
-title: "Notes"
+title: "notes"
 author_profile: true
 redirect_from: 
   - /writings
 ---
 
-## notes
-
 * **Mathematical Foundations of Quantum Mechanics (in Portuguese)**
-  *  
-
-* **Advanced Program in Mathematics at UFSC (2018-current)** 
-  *  Honours course including Introductory Analysis, Linear Algebra and Calculus on Manifolds.
+  *  [Notes from 8/8/22]([http://pibic.propesq.ufsc.br/](https://github.com/jcbarczyszyn/jcbarczyszyn.github.io/blob/master/files/qm_1.pdf)).
 
