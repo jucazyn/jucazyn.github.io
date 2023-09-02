@@ -32,16 +32,12 @@ My education trajectory until now is:
 * **B.Sc. in Mathematics and Scientific Computing at UFSC (2018-current)**
   * Emphasis in Logic and Mathematical Physics. 
 
-* **Advanced Program in Mathematics at UFSC (2018-current)** 
+* **Advanced Program in Mathematics at UFSC (2018-2022)** 
   *  Honours course including Introductory Analysis, Linear Algebra and Calculus on Manifolds.
 
 And here are some of my current academic/professional activities:
 
-* **Undergraduate research project in Mathematical Physics, UFSC (2022-current)**
-  * Title: Formalização da Mecânica Quântica I: O contexto clássico. 
-  * Supervisor: Prof. Luiz Cordeiro. 
-
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-current)**
+* **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
   * Title: A natureza das teorias científicas: uma investigação lógico-filosófica. 
-  * Supervisor: Prof. Jonas Arenhart. 
+  * Supervisor: Prof. Jonas Arenhart.
