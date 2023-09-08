@@ -46,7 +46,7 @@ redirect_from:
 
 * **Undergraduate research project in Analysis, UFSC (2019)** 
   * Title: "Um Estudo da Topologia Geral". 
-  * Supervisor: Prof. Paulo M. de Carvalho.
+  * Supervisor: Prof. Paulo M. de Carvalho Neto.
 
 * **Undergraduate research project in Non-classical Logics, UFSC (2018)** 
   * Title: "Lógicas Não-clássicas e Fundamentos de Ciência". [[pdf](https://www.academia.edu/41484025/Sobre_as_L%C3%B3gicas_Polivalentes_O_Caso_Proposicional)]
