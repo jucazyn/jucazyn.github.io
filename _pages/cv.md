@@ -15,7 +15,7 @@ redirect_from:
   * Emphasis in Mathematical Logic and Mathematical Physics. 
 
 * **Advanced Program in Mathematics, UFSC (2018-2022)** 
-  *  Honours course including Introductory Analysis and Linear Algebra.
+  *  Honours course including analysis-based Calculus and Linear Algebra.
 
 ## Teaching
 
