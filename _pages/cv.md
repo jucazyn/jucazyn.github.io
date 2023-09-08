@@ -49,7 +49,7 @@ redirect_from:
   * Supervisor: Prof. Paulo M. de Carvalho Neto.
 
 * **Undergraduate research project in Non-classical Logics, UFSC (2018)** 
-  * Title: "Lógicas Não-clássicas e Fundamentos de Ciência". [[pdf](https://www.academia.edu/41484025/Sobre_as_L%C3%B3gicas_Polivalentes_O_Caso_Proposicional)]
+  * Title: "Lógicas Não-clássicas e Fundamentos de Ciência".
   * Supervisor: Prof. Jonas R. Becker Arenhart.
  
 * **Undergraduate research project in Atomic and Molecular Physics, UFSC (2017-2018)**
