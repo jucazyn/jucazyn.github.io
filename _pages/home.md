@@ -29,10 +29,10 @@ My research interests lie in the following topics:
 
 My education trajectory until now is:
 
-* **B.Sc. in Mathematics and Scientific Computing at UFSC (2018-current)**
+* **B.Sc. in Mathematics, UFSC (2018-current)**
   * Emphasis in Logic and Mathematical Physics. 
 
-* **Advanced Program in Mathematics at UFSC (2018-2022)** 
+* **Advanced Program in Mathematics, UFSC (2018-2022)** 
   *  Honours course including Introductory Analysis, Linear Algebra and Calculus on Manifolds.
 
 And here are some of my current academic/professional activities:
