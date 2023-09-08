@@ -13,7 +13,7 @@ redirect_from:
 
 * **B.Sc. in Mathematics with honors, UFSC (2018-current)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
-  * Honors program: [Programa Avançado de Matemática](http://pam.mtm.ufsc.br/).
+  * Honors program: [Advanced Program in Mathematics](http://pam.mtm.ufsc.br/).
 
 ## Teaching
 
