@@ -29,9 +29,9 @@ My research interests lie in the following topics:
 
 My education trajectory until now is:
 
-* **B.Sc. in Mathematics with honors, UFSC (2018-current)**
+* **B.Sc. in Mathematics, UFSC (2018-current)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
-  * Honors program: [Advanced Program in Mathematics](http://pam.mtm.ufsc.br/).
+  * Concluded the [PAM](http://pam.mtm.ufsc.br/) honors program.
 
 And here are some of my current academic/professional activities:
 
