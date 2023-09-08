@@ -11,10 +11,10 @@ redirect_from:
 
 ## Education
 
-* **B.Sc. in Mathematics and Scientific Computing at UFSC (2018-current)**
-  * Emphasis in Logic and Mathematical Physics. 
+* **B.Sc. in Mathematics, UFSC (2018-current)**
+  * Emphasis in Mathematical Logic and Mathematical Physics. 
 
-* **Advanced Program in Mathematics at UFSC (2018-2022)** 
+* **Advanced Program in Mathematics, UFSC (2018-2022)** 
   *  Honours course including Introductory Analysis, Linear Algebra and Calculus on Manifolds.
 
 ## Teaching
