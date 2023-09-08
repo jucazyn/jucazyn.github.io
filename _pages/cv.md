@@ -13,7 +13,7 @@ redirect_from:
 
 * **B.Sc. in Mathematics, UFSC (2018-current)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
-  * Concluded the [PAM honors program](http://pam.mtm.ufsc.br/).
+  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
 
 ## Teaching
 
