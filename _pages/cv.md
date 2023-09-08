@@ -11,11 +11,9 @@ redirect_from:
 
 ## Education
 
-* **B.Sc. in Mathematics, UFSC (2018-current)**
-  * Emphasis in Mathematical Logic and Mathematical Physics. 
-
-* **Advanced Program in Mathematics, UFSC (2018-2022)** 
-  *  Honours course including analysis-based Calculus and Linear Algebra.
+* **B.Sc. in Mathematics with honors, UFSC (2018-current)**
+  * Emphasis in Mathematical Logic and Mathematical Physics.
+  * Honors program: [Advanced Program in Mathematics](http://pam.mtm.ufsc.br/).
 
 ## Teaching
 
