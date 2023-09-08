@@ -31,7 +31,7 @@ My education trajectory until now is:
 
 * **B.Sc. in Mathematics, UFSC (2018-current)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
-  * Concluded the [PAM](http://pam.mtm.ufsc.br/) honors program.
+  * Concluded the [PAM honors program](http://pam.mtm.ufsc.br/).
 
 And here are some of my current academic/professional activities:
 
