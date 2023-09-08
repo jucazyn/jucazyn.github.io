@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I'm an undergraduate student in Mathematics and Scientific Computing at [UFSC](https://ufsc.br/) interested in research areas such as Logic, Category Theory, Operator Algebras and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision. 
+I'm an undergraduate student in Mathematics at [UFSC](https://ufsc.br/) interested in research areas such as Logic, Category Theory, Operator Algebras and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision. 
 
 ## More about me
 
