@@ -40,4 +40,4 @@ And here are some of my current academic/professional activities:
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
   * Title: tba
-  * Supervisor: Prof. Jonas Arenhart.
+  * Supervisor: Prof. Jonas R. Becker Arenhart.
