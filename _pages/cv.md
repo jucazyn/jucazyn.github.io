@@ -22,9 +22,14 @@ redirect_from:
 
 ## Academic/professional activities
 
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
+* **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-current)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
   * Title: tba
+  * Supervisor: Prof. Jonas R. Becker Arenhart.
+
+* **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
+  * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
+  * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual".
   * Supervisor: Prof. Jonas R. Becker Arenhart.
 
 * **Undergraduate research project in Mathematical Physics, UFSC (2022-2023)**
