@@ -20,7 +20,7 @@ redirect_from:
 * **Teaching assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
   * Subjects: Basic Logic, elements of Number Theory, mathematical induction, etc. 
 
-## Academic/professional activities
+## Research activities
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-current)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
