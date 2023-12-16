@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I'm a Mathematical Philosophy student at [UFSC](https://ufsc.br/), namely, I'm an undergraduate student in Philosophy with a bachelor's degree in Mathematics interested in logical methods (or, more broadly, mathematical methods) and their applications to philosophical problems, scientific problems with foundational aspects, or even mathematical problems. 
+I'm a Mathematical Philosophy student at [UFSC](https://ufsc.br/), namely, I'm an undergraduate student in Philosophy (UFSC) with a bachelor's degree in Mathematics (UFSC) interested in logical methods (or, more broadly, mathematical methods) and their applications to philosophical problems, scientific problems with foundational aspects, or even mathematical problems. 
 
 Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
