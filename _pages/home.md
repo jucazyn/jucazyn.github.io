@@ -32,6 +32,7 @@ My education trajectory until now is:
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
+  * Monograph: "Dualidade de Stone: uma odisseia lógico-matemática".
   * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
 
 And here are some of my current academic/professional activities:
