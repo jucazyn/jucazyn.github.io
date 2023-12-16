@@ -12,11 +12,7 @@ I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a ba
 
 Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
-## More about me
-
-While as an undergraduate student in Mathematics, I took many extra courses involving areas such as Philosophy, Physics and Linguistics. Among the classes I attended, for example, are Metalogic, Philosophy of Physics, Methods of Mathematical Physics, Quantum Computing, Semantics, etc.
-
-In addition to activities at the university, I write about _foundations_, with a special emphasis on the Foundations of Physics, on my blog [Fundamentae](http://fundamentae.com).
+Also, I write about _foundations_ on my blog [Fundamentae](http://fundamentae.com).
 
 ## Research interests
 
