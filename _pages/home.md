@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I'm a Mathematical Philosophy undergraduate student at [UFSC](https://ufsc.br/), namely, I'm an undergraduate student in Philosophy with a bachelor's degree in Mathematics interested in research areas such as Logic, Philosophy of Science and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
+I'm a Mathematical Philosophy student at [UFSC](https://ufsc.br/), namely, I'm an undergraduate student in Philosophy with a bachelor's degree in Mathematics interested in research areas such as Logic, Philosophy of Science and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
 ## More about me
 
@@ -18,12 +18,12 @@ In addition to activities at the university, I write about _foundations_, with a
 
 ## Research interests
 
-My research interests lie in the following topics:
+I like to think I'm interested in Logic and Mathematical Philosophy, i.e., formal methods and its applications to philosophical problems. My research interests lie in the following topics:
 
-* **Logic and Mathematical Philosophy:** formal methods and its applications to philosophical problems;
 * **Dualities:** Stone-type dualities and other categorical relations between algebra and geometry;
 * **Operator Algebras and Mathematical Physics:** C*-algebras, mathematical foundations of Quantum Mechanics and related mathematical topics in Contemporary Physics;
-* **Philosophy and Foundations of Physics:** investigations on the nature of scientific theories, in the context of Physics, from a logical and philosophical point of view.
+* **Philosophy and Foundations of Physics:** investigations on the nature of scientific theories, in the context of Physics, from a logical and philosophical point of view;
+* **Philosophy and Foundations of Science:** syntax-semantics debate (if it indeed occurred) and criteria for establishing the equivalence of scientific theories.
 
 ## Short CV
 
