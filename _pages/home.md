@@ -22,10 +22,10 @@ In addition to activities at the university, I write about _foundations_, with a
 
 My research interests lie in the following topics:
 
-* **Philosophy and Foundations of Science:** aspects of the _syntax-semantics debate_ and criteria for establishing the equivalence of scientific theories;
-* **Philosophy and Foundations of Physics:** investigations on the nature of scientific theories, in the context of Physics, from a logical and philosophical point of view;
+* **Dualities:** Stone-type dualities and other categorical relations between algebra and geometry;
 * **Operator Algebras and Mathematical Physics:** C*-algebras, mathematical foundations of Quantum Mechanics and related mathematical topics in Contemporary Physics;
-* **Dualities:** Stone-type dualities and other categorical relations between algebra and geometry.
+* **Philosophy and Foundations of Physics:** investigations on the nature of scientific theories, in the context of Physics, from a logical and philosophical point of view;
+* **Philosophy and Foundations of Science:** aspects of the _syntax-semantics debate_ and criteria for establishing the equivalence of scientific theories;
 
 
 
