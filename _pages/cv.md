@@ -13,7 +13,6 @@ redirect_from:
 
 * **B.Sc. in Philosophy, UFSC (2024-current)**
   * Emphasis in Philosophical Logic and Philosophy of Science.
-  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
