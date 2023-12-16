@@ -11,7 +11,11 @@ redirect_from:
 
 ## Education
 
-* **B.Sc. in Mathematics, UFSC (2018-current)**
+* **B.Sc. in Philosophy, UFSC (2024-current)**
+  * Emphasis in Philosophical Logic and Philosophy of Science.
+  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
+
+* **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
   * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
 
