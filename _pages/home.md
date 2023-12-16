@@ -22,10 +22,10 @@ In addition to activities at the university, I write about _foundations_, with a
 
 My research interests lie in the following topics:
 
-* **Dualities:** Stone-type dualities and other bridges between algebra and geometry;
-* **Foundations of Physics:** logical and philosophical investigation of physical theories;
 * **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
+* **Foundations of Physics:** logical and philosophical investigation of physical theories;
 * **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
+* **Dualities:** Stone-type dualities and other bridges between algebra and geometry;
 
 ## Short CV
 
