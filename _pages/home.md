@@ -20,7 +20,7 @@ In addition to activities at the university, I write about _foundations_, with a
 
 My research interests lie in the following topics:
 
-* **Logic and Mathematical Philosophy:** formal methods and its applications in philosophical problems;
+* **Logic and Mathematical Philosophy:** formal methods and its applications to philosophical problems;
 * **Dualities:** Stone-type dualities and other categorical relations between algebra and geometry;
 * **Operator Algebras and Mathematical Physics:** C*-algebras, mathematical foundations of Quantum Mechanics and related mathematical topics in Contemporary Physics;
 * **Philosophy and Foundations of Physics:** investigations on the nature of scientific theories, in the context of Physics, from a logical and philosophical point of view.
