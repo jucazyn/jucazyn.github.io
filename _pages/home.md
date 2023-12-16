@@ -8,28 +8,32 @@ redirect_from:
   - /home.html
 ---
 
-I'm an undergraduate student in Mathematics at [UFSC](https://ufsc.br/) interested in research areas such as Logic, Category Theory, Operator Algebras and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision. 
+I'm a Mathematical Philosophy undergraduate student at [UFSC](https://ufsc.br/), namely, I'm an undergraduate student in Philosophy with a bachelor's degree in Mathematics interested in research areas such as Logic, Philosophy of Science and Foundations of Physics. Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
 ## More about me
 
-Despite being an undergraduate student in Mathematics, I took many extra courses involving areas such as Philosophy, Physics and Linguistics. Among the classes I attended, for example, are Metalogic, Philosophy of Science, Philosophy of Physics, Methods of Mathematical Physics, Semantics, etc.
+While as an undergraduate student in Mathematics, I took many extra courses involving areas such as Philosophy, Physics and Linguistics. Among the classes I attended, for example, are Quantum Computing, Philosophy of Physics, Methods of Mathematical Physics, Semantics, etc.
 
-In addition to activities at the university, I write about Mathematics, Philosophy and Foundations of Science, with a special emphasis on the Foundations of Physics, on my blog [Fundamentae](http://fundamentae.com) (in Portuguese).
+In addition to activities at the university, I write about _foundations_, with a special emphasis on the Foundations of Physics, on my blog [Fundamentae](http://fundamentae.com).
 
 ## Research interests
 
 My research interests lie in the following topics:
 
-* **Logic, Formal Methods and Mathematical Philosophy:** development of Logic and Formal Methods and its applications in Philosophy and Science in general;
+* **Logic and Mathematical Philosophy:** formal methods and its applications in philosophical problems or Science in general;
 * **Dualities:** Stone-type dualities and other categorical relations between algebra and geometry;
-* **Operator Algebras and Mathematical Physics:** C*-algebras, mathematical foundations of Quantum Mechanics and related mathematical topics in contemporary Physics;
+* **Operator Algebras and Mathematical Physics:** C*-algebras, mathematical foundations of Quantum Mechanics and related mathematical topics in Contemporary Physics;
 * **Philosophy and Foundations of Physics:** investigations on the nature of scientific theories, in the context of Physics, from a logical and philosophical point of view.
 
 ## Short CV
 
 My education trajectory until now is:
 
-* **B.Sc. in Mathematics, UFSC (2018-current)**
+* **B.Sc. in Philosophy, UFSC (2024-current)**
+  * Emphasis in Philosophical Logic and Philosophy of Science.
+  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
+
+* **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
   * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
 
