@@ -8,9 +8,11 @@ redirect_from:
   - /home.html
 ---
 
-I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics.
+I'm a Mathematical Philosophy student atat 
 
-Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
+I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics. I consider I'm a Mathematical Philosophy student in the sense I'm studying how to approach (some) philosophical problems, or scientific problems with foundational taste, with both philosophical methodology and logical methods (or, more broadly, mathematical methods).
+
+Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision. Fomerly, I studied Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
 Also, I write about _foundations_ on my blog [Fundamentae](http://fundamentae.com).
 
@@ -18,10 +20,11 @@ Also, I write about _foundations_ on my blog [Fundamentae](http://fundamentae.co
 
 My research interests lie in the following topics:
 
-* **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
-* **Foundations of Physics:** logical and philosophical investigation of physical theories;
-* **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
 * **Dualities:** Stone-type dualities and other bridges between algebra and geometry;
+* **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
+* **Foundations of Physics:** logical/philosophical investigation of physical theories;
+* **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
+
 
 ## Short CV
 
