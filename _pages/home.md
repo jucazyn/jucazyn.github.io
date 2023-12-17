@@ -20,10 +20,10 @@ Also, I write about _foundations_ on my blog [Fundamentae](http://fundamentae.co
 
 My research interests lie in the following topics:
 
-* **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
-* **Foundations of Physics:** logical/philosophical investigation of physical theories;
-* **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
 * **Dualities:** Stone-type dualities and other bridges between algebra and geometry;
+* **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
+* **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
+* **Foundations of Physics:** logical/philosophical investigation of physical theories;
 
 ## Short CV
 
