@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Mathematical Philosophy student atat 
 
-I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics. I consider I'm a Mathematical Philosophy student in the sense I'm studying how to approach (some) philosophical problems, or scientific problems with foundational taste, with both philosophical methodology and logical methods (or, more broadly, mathematical methods).
+I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics. I consider I'm a Mathematical Philosophy student in the sense I'm studying how to approach (some) philosophical problems, or scientific problems with foundational taste, employing both philosophical methodology and logical methods (or, more broadly, mathematical methods).
 
 Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision. Fomerly, I studied Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
