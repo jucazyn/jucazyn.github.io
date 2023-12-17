@@ -16,6 +16,8 @@ redirect_from:
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
+  * Final project: "Dualidade de Stone: uma odisseia lógico-matemática".
+  * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart.
   * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
 
 ## Teaching
