@@ -36,9 +36,9 @@ My education trajectory until now is:
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis in Mathematical Logic and Mathematical Physics.
-  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática".
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart.
+  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
 
 And here are some of my current academic/professional activities:
 
