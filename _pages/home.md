@@ -38,8 +38,7 @@ My education trajectory until now is:
   * Emphasis in Mathematical Logic and Mathematical Physics.
   * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática".
-  * Supervisor: Prof. Luiz G. Cordeiro.
-  * Co-supervisor: Prof. Jonas R. Becker Arenhart.
+  * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart.
 
 And here are some of my current academic/professional activities:
 
