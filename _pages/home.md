@@ -12,7 +12,7 @@ I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a ba
 
 Most of the topics that interest me are related to Logic, Philosophy of Science and Physics. More specifically, I'm studying how to approach (some) philosophical problems, or scientific problems with foundational taste, employing both philosophical methods and logical methods (or, more broadly, mathematical methods), a.k.a., [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029).
 
-Nowadays, I'm studying foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision. Fomerly, I studied Stone Duality under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
+Nowadays, I'm studying foundations of scientific theories (with focus on Physics) under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone-type dualities under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
 Also, I write about _foundations_ on my blog [Fundamentae](http://fundamentae.com).
 
