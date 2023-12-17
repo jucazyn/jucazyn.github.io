@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
-* **B.Sc. in Philosophy, UFSC (2024-current)**
+* **B.A. in Philosophy, UFSC (2024-current)**
   * Emphasis in Philosophical Logic and Philosophy of Science.
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
