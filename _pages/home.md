@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics.
 
-Regarding my interests, they mainly center around Logic, Philosophy of Science, and Physics. In short, I'm studying (how to approach some) philosophical problems, and scientific problems with foundational taste, employing both philosophical methods and logical methods (or, more broadly, mathematical methods). This kind of inquiry is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029).
+Regarding my interests, they mainly center around Logic, Philosophy of Science, and Physics. In short, I'm studying (how to address some) philosophical problems, and scientific problems with foundational taste, employing both philosophical methods and logical methods (or, more broadly, mathematical methods). This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029).
 
 Nowadays, I'm studying logic foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and operator-theoretic aspects of Quantum Theory's formalism under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
