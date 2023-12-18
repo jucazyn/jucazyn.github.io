@@ -16,7 +16,7 @@ In general, I'm interested in (how to) address some philosophical problems, and 
 
 Specifically, I'm studying logical foundations of scientific theories under [Prof. Jonas Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and Stone-type dualities under [Prof. Luiz Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
 
-Occasionally, I blog about these things at [Fundamentae](http://fundamentae.com).
+From time to time, I blog about these things at [Fundamentae](http://fundamentae.com).
 
 ## Research interests
 
