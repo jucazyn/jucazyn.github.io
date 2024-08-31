@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "jucazyn"
 title_separator          : "-"
-name                     : &name "juca barczyszyn"
+name                     : &name "Júlio C. V. Barczyszyn"
 description              : &description "personal description"
 url                      : https://jucazyn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "juca barczyszyn"
+  name             : "Júlio C. V. Barczyszyn"
   avatar           : "profile.jpg"
   bio              : '<em>"Logic is the beginning of wisdom, not the end."</em> ― <strong>Mr. Spock</strong>'
   location         : "Florianópolis, SC, Brazil"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jucazyn/"
   orcid            : 
   pinterest        :
   soundcloud       :
