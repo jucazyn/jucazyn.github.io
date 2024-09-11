@@ -22,14 +22,23 @@ redirect_from:
 
 ## Teaching
 
-* **Teaching assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
+* **Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
   * Subjects: Basic Logic, elements of Number Theory, mathematical induction, etc. 
 
 ## Research
 
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-current)**
+* **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
+  * Title: "Formalização da Mecânica Quântica II: O contexto quântico"
+  * Supervisor: Prof. Luiz G. Cordeiro
+
+* **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
   * Title: tba
+  * Supervisor: Prof. Jonas R. Becker Arenhart
+
+* **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-2024)**
+  * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
+  * Title: "Teorias lógicas e teorias científicas: estrutura e equivalência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
