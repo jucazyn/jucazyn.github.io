@@ -25,24 +25,24 @@ My research interests lie in the following topics:
 * **Foundations of Physics:** logical/philosophical investigations of physical theories;
 * **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
 * **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
-* **Dualities:** Stone-type dualities and other bridges between Algebra and Geometry;
+* **Dualities:** Stone-type dualities and other bridges between Algebra and Geometry.
 
 ## Short CV
 
 My education trajectory until now is:
 
 * **B.A. in Philosophy, UFSC (2024-current)**
-  * Emphasis in Philosophical Logic and Philosophy of Science.
+  * Emphasis in Philosophy of Physics
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
-  * Emphasis in Mathematical Logic and Mathematical Physics.
-  * Final project: "Dualidade de Stone: uma odisseia lógico-matemática".
-  * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart.
-  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/).
+  * Emphasis in Mathematical Logic and Mathematical Physics
+  * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf]([http://pam.mtm.ufsc.br/](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y))]
+  * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
+  * Completed the [PAM honors program](http://pam.mtm.ufsc.br/)
 
 And here are some of my current academic/professional activities:
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-current)**
-  * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
+  * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
   * Title: tba
-  * Supervisor: Prof. Jonas R. Becker Arenhart.
+  * Supervisor: Prof. Jonas R. Becker Arenhart
