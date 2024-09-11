@@ -51,7 +51,7 @@ redirect_from:
   * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-2022)**
-  * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/).
+  * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
   * Title: "A natureza das teorias científicas: uma investigação lógico-filosófica"
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
