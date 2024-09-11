@@ -36,7 +36,7 @@ My education trajectory until now is:
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis in Mathematical Logic and Mathematical Physics
-  * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf]([http://pam.mtm.ufsc.br/](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y))]
+  * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
   * Completed the [PAM honors program](http://pam.mtm.ufsc.br/)
 
