@@ -43,7 +43,7 @@ My education trajectory until now is:
 And here are some of my current academic/professional activities:
 
 * **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
-  * Title: "Formalização da Mecânica Quântica II: O contexto quântico"
+  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
