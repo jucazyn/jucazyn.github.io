@@ -79,3 +79,8 @@ redirect_from:
   * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
   * Title: "Explorando interações de longo alcance em regimes não clássicos da luz utilizando amostras atômicas"
   * Supervisor: Prof. Jorge D. Massayuki Kondo
+
+## Other
+
+* **Study group in Logic and Foundations of Science, UFSC (2023-current)**
+  * Supervisor: Prof. Jonas R. Becker Arenhart
