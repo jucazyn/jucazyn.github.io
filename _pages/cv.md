@@ -42,12 +42,12 @@ redirect_from:
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-2024)**
   * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
-  * Title: "Teorias lógicas e teorias científicas: estrutura e equivalência"
+  * Title: "Teorias lógicas e teorias científicas: estrutura e equivalência" [[video]](https://repositorio.ufsc.br/handle/123456789/259340)
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
   * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
-  * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual"
+  * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video]](https://repositorio.ufsc.br/handle/123456789/251015)
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate research project in Logic and Operator Algebras, UFSC (2022-2023)**
@@ -56,7 +56,7 @@ redirect_from:
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-2022)**
   * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
-  * Title: "A natureza das teorias científicas: uma investigação lógico-filosófica"
+  * Title: "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video]](https://repositorio.ufsc.br/handle/123456789/239384)
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate research project in Logic and Category Theory, UFSC (2021-2022)**
