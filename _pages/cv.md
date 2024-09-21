@@ -27,7 +27,7 @@ redirect_from:
 
 ## Research
 
-* **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
+* **Undergraduate research project in Logic and Operator Algebras, UFSC (forthcoming)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
  
@@ -50,7 +50,7 @@ redirect_from:
   * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual"
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate research project in Mathematical Physics, UFSC (2022-2023)**
+* **Undergraduate research project in Logic and Operator Algebras, UFSC (2022-2023)**
   * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
