@@ -86,7 +86,7 @@ author:
   location         : "Florianópolis, SC, Brazil"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=06rat5sAAAAJ"
   email            : "jucazyn@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -116,7 +116,6 @@ author:
   youtube          :
   lattes           : "http://lattes.cnpq.br/9488362508935770"
   wikipedia        :
-  google-scholar   : "https://scholar.google.com/citations?user=06rat5sAAAAJ"
 
 
 # Reading Files
