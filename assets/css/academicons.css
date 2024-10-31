@@ -325,3 +325,6 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.social-icons .fa {
+    color: #494e52 !important;
+}
