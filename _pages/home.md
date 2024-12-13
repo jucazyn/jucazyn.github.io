@@ -14,7 +14,7 @@ Regarding my research interests, they mainly center around Logic, Philosophy of 
 
 In general, I'm interested in (how to) address some philosophical problems, and scientific problems with foundational taste, employing both philosophical methods and logical methods (or, more broadly, mathematical methods). This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029). 
 
-Specifically, I'm studying foundations of scientific theories under [Prof. Jonas R. Becker Arenhart](https://fil.cfh.ufsc.br/jonas-becker-arenhart/)'s supervision and operator algebraic methods under [Prof. Luiz G. Cordeiro](http://mtm.ufsc.br/~cordeiro/)'s supervision.
+Specifically, I'm studying foundations and equivalence of scientific theories.
 
 When time permits, I blog about these things at [Fundamentae](http://fundamentae.com).
 
