@@ -74,11 +74,6 @@ redirect_from:
 * **Undergraduate research project in Non-classical Logics, UFSC (2018)** 
   * Title: "Lógicas Não-clássicas e Fundamentos de Ciência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
- 
-* **Undergraduate research project in Atomic and Molecular Physics, UFSC (2017-2018)**
-  * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
-  * Title: "Explorando interações de longo alcance em regimes não clássicos da luz utilizando amostras atômicas"
-  * Supervisor: Prof. Jorge D. Massayuki Kondo
 
 ## Other
 
