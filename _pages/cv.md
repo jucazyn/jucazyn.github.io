@@ -27,7 +27,7 @@ redirect_from:
 
 ## Research
 
-* **Undergraduate research project in Logic and Operator Algebras, UFSC (forthcoming)**
+* **Undergraduate research project in Operator Algebras, UFSC (forthcoming)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
  
@@ -50,7 +50,7 @@ redirect_from:
   * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video](https://repositorio.ufsc.br/handle/123456789/251015)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate research project in Logic and Operator Algebras, UFSC (2022-2023)**
+* **Undergraduate research project in Operator Algebras, UFSC (2022-2023)**
   * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
@@ -59,7 +59,7 @@ redirect_from:
   * Title: "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate research project in Logic and Category Theory, UFSC (2021-2022)**
+* **Undergraduate research project in Category Theory, UFSC (2021-2022)**
   * Title: "Teorema de Representação de Stone e aplicações"
   * Supervisor: Prof. Luiz G. Cordeiro
 
@@ -71,7 +71,7 @@ redirect_from:
   * Title: "Um estudo da Topologia Geral"
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Undergraduate research project in Logic, UFSC (2018)** 
+* **Undergraduate research project in Logic and Foundations of Science, UFSC (2018)** 
   * Title: "Lógicas não-clássicas e fundamentos de ciência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
