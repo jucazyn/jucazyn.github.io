@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hi! welcome to my homepage"
+title: "juca's homepage"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
