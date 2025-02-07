@@ -68,11 +68,11 @@ redirect_from:
   * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Analysis, UFSC (2019)** 
-  * Title: "Um Estudo da Topologia Geral"
+  * Title: "Um estudo da Topologia Geral"
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Undergraduate research project in Non-classical Logics, UFSC (2018)** 
-  * Title: "Lógicas Não-clássicas e Fundamentos de Ciência"
+  * Title: "Lógicas não-clássicas e fundamentos de ciência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 ## Other
