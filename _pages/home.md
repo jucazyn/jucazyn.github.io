@@ -32,10 +32,10 @@ My research interests lie in the following topics:
 My education trajectory until now is:
 
 * **B.A. in Philosophy, UFSC (2024-current)**
-  * Emphasis in Philosophical Foundations of Physics
+  * Emphasis: Philosophical Foundations of Physics
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
-  * Emphasis in Logic and Category Theory
+  * Emphasis: Logic and Category Theory
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
   * Completed the [PAM honors program](http://pam.mtm.ufsc.br/)
