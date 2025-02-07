@@ -55,5 +55,5 @@ And here are some of my current academic/professional activities:
   * Title: tba
   * Supervisor: Prof. Jonas R. Becker Arenhart
  
-* **Study group in Logic and Foundations of Science, UFSC (2023-current)**
+* **Reading group in Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
