@@ -59,7 +59,7 @@ redirect_from:
   * Title: "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate research project in Mathematical Logic, UFSC (2021-2022)**
+* **Undergraduate research project in Category Theory, UFSC (2021-2022)**
   * Title: "Teorema de Representação de Stone e aplicações"
   * Supervisor: Prof. Luiz G. Cordeiro
 
