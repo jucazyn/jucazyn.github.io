@@ -27,13 +27,13 @@ redirect_from:
 
 ## Research
 
-* **Undergraduate research project in Operator Algebras, UFSC (forthcoming)**
-  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
-  * Supervisor: Prof. Luiz G. Cordeiro
- 
 * **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
   * Title: tba
   * Supervisor: Prof. Eliezer Batista
+
+* **Undergraduate research project in Operator Algebras, UFSC (forthcoming)**
+  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
+  * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
