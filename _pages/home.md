@@ -14,7 +14,7 @@ Regarding my research interests, they mainly center around Logic, Philosophy of 
 
 In general, I'm interested in (how to) address some philosophical problems, and scientific problems with foundational taste, employing both philosophical methods and logical methods (or, more broadly, mathematical methods). This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029). 
 
-Specifically, I'm studying foundations and equivalence of scientific theories.
+Specifically, I'm studying foundations of scientific theories, including the syntax-semantics debate and the notion of equivalence of theories, under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) at the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
 
 When time permits, I blog about these things at [Fundamentae](http://fundamentae.com).
 
@@ -42,13 +42,13 @@ My education trajectory until now is:
 
 And here are some of my current academic/professional activities:
 
-* **Undergraduate research project in Operator Algebras, UFSC (forthcoming)**
-  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
-  * Supervisor: Prof. Luiz G. Cordeiro
-
 * **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
   * Title: tba
   * Supervisor: Prof. Eliezer Batista
+
+* **Undergraduate research project in Operator Algebras, UFSC (forthcoming)**
+  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
+  * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
