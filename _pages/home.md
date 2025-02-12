@@ -14,7 +14,7 @@ Regarding my research interests, they mainly center around Logic, Philosophy of 
 
 In general, I'm interested in (how to) address some philosophical problems, and scientific problems with foundational taste, employing both philosophical methods and logical methods (or, more broadly, mathematical methods). This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029). 
 
-Specifically, I'm studying foundations of scientific theories, with focus on the syntax-semantics debate and on the notion of equivalence, under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) at the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
+Specifically, I'm studying foundations of scientific theories, with a focus on the philosophical foundations of physics, under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) at the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
 
 When time permits, I blog about these things at [Fundamentae](http://fundamentae.com).
 
