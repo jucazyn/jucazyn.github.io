@@ -8,13 +8,13 @@ redirect_from:
   - /home.html
 ---
 
-I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics. 
+I'm an undergraduate student in **Philosophy** at [UFSC](https://ufsc.br/) with a bachelor's degree in **Mathematics**. 
 
 Regarding my research interests, they primarily focus on Logic, Philosophy of Science, and Physics, with a substantial part lying at the intersection of **Mathematical Physics** and **Philosophy of Physics**.
 
 In general, I'm interested in (how to) address some philosophical problems, and scientific problems featuring foundational aspects, employing both **philosophical methods** and **logical methods** (or, more broadly, **mathematical methods**). This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029).
 
-Specifically, I'm studying the notions of **equivalence**, **reduction** and **unification** of physical theories, and the relations of this notions with the so-called syntax-semantics debate, under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
+Specifically, I'm studying the notions of **equivalence**, **reduction** and **unification** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). We're also researching the relation of this notions with the so-called **syntax-semantics debate** and, in particular, with the **semantic view of theories**.
 
 ## Research interests
 
