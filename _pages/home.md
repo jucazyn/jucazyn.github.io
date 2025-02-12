@@ -16,8 +16,6 @@ In general, I'm interested in (how to) address some philosophical problems, and 
 
 Specifically, I'm studying the notions of equivalence, reduction and unification of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) at the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
 
-When time permits, I blog about these things at [Fundamentae](http://fundamentae.com).
-
 ## Research interests
 
 My research interests lie in the following topics:
