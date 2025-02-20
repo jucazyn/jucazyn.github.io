@@ -22,16 +22,16 @@ redirect_from:
 
 ## Teaching
 
-* **Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
+* **Teaching Assistent in Fundamentals of Arithmetic, UFSC (2019-2021)**
   * Subjects: Basic Logic, elements of Number Theory, mathematical induction, etc. 
 
 ## Research
 
-* **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
-  * Title: tba
+* **Undergraduate research project in Mathematical Physics, UFSC (2025-current)**
+  * Title: "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisor: Prof. Eliezer Batista
 
-* **Undergraduate research project in Operator Algebras, UFSC (forthcoming)**
+* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
