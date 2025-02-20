@@ -40,11 +40,11 @@ My education trajectory until now is:
 
 And here are some of my current academic/professional activities:
 
-* **Undergraduate research project in Mathematical Physics, UFSC (forthcoming)**
-  * Title: tba
+* **Undergraduate research project in Mathematical Physics, UFSC (2025-current)**
+  * Title: "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisor: Prof. Eliezer Batista
 
-* **Undergraduate research project in Operator Algebras, UFSC (forthcoming)**
+* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
