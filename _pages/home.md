@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics. 
+I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics (UFSC, 2023). 
 
 My research interests primarily focus on Logic, Philosophy of Science, and Physics, with a substantial part of it notably lying at the intersection of **Mathematical Physics** and **Philosophy of Physics**.
 
