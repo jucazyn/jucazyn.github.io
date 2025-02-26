@@ -16,7 +16,7 @@ In general, I'm interested in (how to) address some philosophical problems, and 
 
 Specifically, I'm studying the notions of **equivalence**, **reduction** and **unification** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). In addition, we're examining the connection between these notions and the so-called **syntax-semantics debate**.
 
-In summary, one can say I work on the **Foundations of Science** in the context of physical sciences.
+In summary, one could say I work on the **Foundations of Science** in the context of physical sciences.
 
 ## Research interests
 
