@@ -22,8 +22,8 @@ redirect_from:
 
 ## Teaching
 
-* **Teaching Assistent in Fundamentals of Arithmetic, UFSC (2019-2021)**
-  * Subjects: Basic Logic, elements of Number Theory, mathematical induction, etc. 
+* **Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
+  * Subjects: Peano's axioms, elements of Number Theory, basic proof technics, etc. 
 
 ## Research
 
