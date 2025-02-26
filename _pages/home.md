@@ -12,7 +12,7 @@ I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a ba
 
 Regarding my research interests, they mainly center around Logic, Philosophy of Science and Physics, with a substantial part of it notably lying at the intersection of **Mathematical Physics** and **Philosophy of Physics**. 
 
-More precisely, my focus is on **Foundations of Science**, with special emphasis on Foundations of Physics.
+More precisely, my focus is on **Foundations of Science**, with a special emphasis on Foundations of Physics.
 
 In general, I'm interested in (how to) address some philosophical problems, and scientific problems featuring foundational aspects, employing both mathematical methods and philosophical methods. This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029).
 
