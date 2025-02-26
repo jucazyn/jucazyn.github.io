@@ -10,13 +10,11 @@ redirect_from:
 
 I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics (UFSC, 2023). 
 
-Regarding my research interests, they mainly center around Logic, Philosophy of Science and Physics, with a substantial part of it notably lying at the intersection of **Mathematical Physics** and **Philosophy of Physics**.
+My research interests mainly center around Logic, Philosophy of Science and Physics, with a substantial part of it notably lying at the intersection of **Mathematical Physics** and **Philosophy of Physics**. More precisely, my focus is on **Foundations of Science** with special emphasis on Foundations of Physics.
 
 In general, I'm interested in (how to) address some philosophical problems, and scientific problems featuring foundational aspects, employing both mathematical methods and philosophical methods. This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029).
 
 Specifically, I'm studying the notions of **equivalence**, **reduction** and **unification** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). In addition, we're examining the connection between these notions and the so-called **syntax-semantics debate**.
-
-In summary, my focus is **Foundations of Science** within the context of the physical sciences.
 
 ## Research interests
 
