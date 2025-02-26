@@ -23,7 +23,7 @@ redirect_from:
 ## Teaching
 
 * **Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
-  * Subjects: Peano axioms, elements of Number Theory and some basic proof technics. 
+  * Subjects: Peano axioms, elements of Number Theory and basic proof technics
 
 ## Research
 
