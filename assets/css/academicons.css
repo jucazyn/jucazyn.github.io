@@ -325,6 +325,6 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
-.social-icons .fa {
+.social-icons .fa, .social-icons .fa-linkedin, .social-icons .fa-linkedin-square {
     color: #494e52 !important;
 }
