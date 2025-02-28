@@ -28,7 +28,7 @@ redirect_from:
 ## Research (affiliated and funded)
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
-  * Currently funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title: tba
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
