@@ -29,11 +29,11 @@ My research interests lie in the following topics:
 
 My education trajectory until now is:
 
-* **B.A. in Philosophy focusing on Physics, UFSC (2024-current)**
+* **B.A. in Philosophy, UFSC (2024-current)**
   * Emphasis: Philosophy of Physics, <span style="color: #999999;">(Philosophical)</span> Logic
   * Formal coursework in Theoretical Physics
 
-* **B.Sc. in Mathematics with honours track, UFSC (2018-2023)**
+* **B.Sc. in Mathematics, UFSC (2018-2023)**
   * Emphasis: Mathematical Physics, <span style="color: #999999;">(Mathematical)</span> Logic
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
