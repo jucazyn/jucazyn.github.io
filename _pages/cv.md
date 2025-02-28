@@ -61,7 +61,7 @@ redirect_from:
   * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Category Theory, UFSC (2021-2022)**
+* **Undergraduate research project in Operator Algebras, UFSC (2021-2022)**
   * Title: "Teorema de Representação de Stone e aplicações"
   * Supervisor: Prof. Luiz G. Cordeiro
 
