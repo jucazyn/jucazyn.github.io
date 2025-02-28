@@ -28,7 +28,7 @@ redirect_from:
 ## Research (affiliated and funded)
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
-  * Funded project in Philosophy by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Parallel study in Mathematics further exploring Classical Mechanics
   * Title (phil. part): tba
   * Title (math. part): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
