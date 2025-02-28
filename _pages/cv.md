@@ -49,15 +49,15 @@ redirect_from:
  
 ## Research (affiliated but unfunded)
 
-* **Undergraduate research project in Mathematical Physics, UFSC (2025-current)**
-  * Linked to funded undergraduate research projects
-  * Title: "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
-  * Supervisor: Prof. Eliezer Batista
-
 * **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
   * Linked to funded undergraduate research projects
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
+
+* **Undergraduate research project in Mathematical Physics, UFSC (2025-current)**
+  * Linked to funded undergraduate research projects
+  * Title: "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
+  * Supervisor: Prof. Eliezer Batista
 
 * **Undergraduate research project in Operator Algebras, UFSC (2022-2023)**
   * Linked to funded undergraduate research projects
