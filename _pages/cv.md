@@ -11,8 +11,9 @@ redirect_from:
 
 ## Education
 
-* **B.A. in Philosophy, UFSC (2024-current)**
+* **B.A. in Philosophy focusing on Physics, UFSC (2024-current)**
   * Emphasis: Philosophy of Physics, <span style="color: #999999;">(Philosophical)</span> Logic
+  * Formal coursework in Theoretical Physics
 
 * **B.Sc. in Mathematics with honours track, UFSC (2018-2023)**
   * Emphasis: Mathematical Physics, <span style="color: #999999;">(Mathematical)</span> Logic
