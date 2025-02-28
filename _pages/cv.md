@@ -25,15 +25,7 @@ redirect_from:
 * **Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
   * Subjects: Peano axioms, elements of Number Theory and basic proof technics
 
-## Research
-
-* **Undergraduate research project in Mathematical Physics, UFSC (2025-current)**
-  * Title: "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
-  * Supervisor: Prof. Eliezer Batista
-
-* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
-  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
-  * Supervisor: Prof. Luiz G. Cordeiro
+## Research (affiliated and funded)
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
   * This research is being funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
@@ -50,20 +42,34 @@ redirect_from:
   * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video](https://repositorio.ufsc.br/handle/123456789/251015)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate research project in Operator Algebras, UFSC (2022-2023)**
-  * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
-  * Supervisor: Prof. Luiz G. Cordeiro
-
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-2022)**
   * This research was funded by the [PIBIC/CNPq undergraduate program](http://pibic.propesq.ufsc.br/)
   * Title: "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
+ 
+## Research (affiliated but unfunded)
+
+* **Undergraduate research project in Mathematical Physics, UFSC (2025-current)**
+  * Related to the funded undergraduate research projects
+  * Title: "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
+  * Supervisor: Prof. Eliezer Batista
+
+* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
+  * Related to the funded undergraduate research projects
+  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
+  * Supervisor: Prof. Luiz G. Cordeiro
+
+* **Undergraduate research project in Operator Algebras, UFSC (2022-2023)**
+  * Related to the funded undergraduate research projects 
+  * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
+  * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Category Theory, UFSC (2021-2022)**
+  * Related to the funded undergraduate research projects
   * Title: "Teorema de Representação de Stone e aplicações"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Operator Algebras, UFSC (2020-2021)** 
+* **Undergraduate research project in Operator Algebras, UFSC (2020-2021)**
   * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade"
   * Supervisor: Prof. Luiz G. Cordeiro
 
