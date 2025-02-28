@@ -30,8 +30,8 @@ redirect_from:
 * **Undergraduate collaborative research in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Collab joining Philosophy (main, funded) and Mathematics (unfunded)
-  * Title (phil. project): tba
-  * Title (math. project): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
+  * Title (phil. part): tba
+  * Title (math. part): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisor: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-2024)**
@@ -47,8 +47,8 @@ redirect_from:
 * **Undergraduate collaborative research in Logic and Foundations of Science, UFSC (2021-2022)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Collab joining Philosophy (main, funded) and Mathematics (unfunded)
-  * Title (phil. project): "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
-  * Title (math. project): "Teorema de Representação de Stone e aplicações"
+  * Title (phil. part): "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
+  * Title (math. part): "Teorema de Representação de Stone e aplicações"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Luiz G. Cordeiro
  
 ## Research (affiliated but unfunded)
