@@ -46,7 +46,7 @@ redirect_from:
 
 * **Undergraduate collaborative research in Logic and Foundations of Science, UFSC (2021-2022)**
   * Funded project in Philosophy by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Parallel unfuunded project in Mathematics further exploring Stone Duality
+  * Parallel unfunded project in Mathematics further exploring Stone Duality
   * Title (phil. part): "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
   * Title (math. part): "Teorema de Representação de Stone e aplicações"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Luiz G. Cordeiro
