@@ -14,7 +14,7 @@ redirect_from:
 * **B.A. in Philosophy, UFSC (2024-current)**
   * Emphasis: Philosophy of Physics, <span style="color: #999999;">(Philosophical)</span> Logic
 
-* **B.Sc. in Mathematics, UFSC (2018-2023)**
+* **B.Sc. in Mathematics via honours track, UFSC (2018-2023)**
   * Emphasis: Mathematical Physics, <span style="color: #999999;">(Mathematical)</span> Logic
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
