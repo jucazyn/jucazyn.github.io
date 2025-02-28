@@ -29,8 +29,9 @@ My research interests lie in the following topics:
 
 My education trajectory until now is:
 
-* **B.A. in Philosophy, UFSC (2024-current)**
+* **B.A. in Philosophy specializing in Physics, UFSC (2024-current)**
   * Emphasis: Philosophy of Physics, <span style="color: #999999;">(Philosophical)</span> Logic
+  * Completed core disciplines like Thermodynamics, Quantum Mechanics, etc.
 
 * **B.Sc. in Mathematics with honours track, UFSC (2018-2023)**
   * Emphasis: Mathematical Physics, <span style="color: #999999;">(Mathematical)</span> Logic
