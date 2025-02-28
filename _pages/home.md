@@ -31,7 +31,6 @@ My education trajectory until now is:
 
 * **B.A. in Philosophy, UFSC (2024-current)**
   * Emphasis in Philosophy of Physics and <span style="color: #999999;">(Philosophical)</span> Logic
-  * Formal coursework in Theoretical Physics
 
 * **B.Sc. in Mathematics with honors, UFSC (2018-2023)**
   * Emphasis in Mathematical Physics and <span style="color: #999999;">(Mathematical)</span> Logic
