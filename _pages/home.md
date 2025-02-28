@@ -40,13 +40,13 @@ My education trajectory until now is:
 
 And here are some of my current academic/professional activities:
 
-* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
-  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
-  * Supervisor: Prof. Luiz G. Cordeiro
-
 * **Undergraduate research project in Mathematical Physics, UFSC (2025-current)**
   * Title: "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisor: Prof. Eliezer Batista
+
+* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
+  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
+  * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
