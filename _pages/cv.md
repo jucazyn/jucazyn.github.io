@@ -74,7 +74,7 @@ redirect_from:
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Undergraduate research project in Non-classical Logics, UFSC (2018)** 
-  * Title: "Lógicas não-clássicas e fundamentos de ciência"
+  * Title: "Lógicas Não-clássicas e Fundamentos de Ciência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 ## Other
