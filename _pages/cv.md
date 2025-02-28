@@ -69,7 +69,7 @@ redirect_from:
   * Title: "Um estudo da Topologia Geral"
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Undergraduate research project in Non-classical Logics, UFSC (2018-2019)** 
+* **Undergraduate research project in Non-classical Logic, UFSC (2018-2019)** 
   * Title: "Lógicas Não-clássicas e Fundamentos de Ciência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
