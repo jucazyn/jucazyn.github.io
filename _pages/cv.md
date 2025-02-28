@@ -73,7 +73,7 @@ redirect_from:
   * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Analysis, UFSC (2019)** 
+* **Undergraduate research project in General Topology, UFSC (2019)** 
   * Title: "Um estudo da Topologia Geral"
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
