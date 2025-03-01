@@ -68,12 +68,13 @@ redirect_from:
 ## Other
 
 * **Reading group in Logic and Foundations of Science, UFSC (2023-current)**
+  * Interdisciplinary reading group on the logical foundations of science
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Directed study in General Topology, UFSC (2019-2020)** 
+* **Directed study in General Topology, UFSC (2019-2020)**
   * Title: "Um estudo da Topologia Geral"
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Directed study in Non-classical Logics, UFSC (2018-2019)** 
+* **Directed study in Non-classical Logics, UFSC (2018-2019)**
   * Title: "Lógicas Não-clássicas e Fundamentos de Ciência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
