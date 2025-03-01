@@ -29,7 +29,7 @@ redirect_from:
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Parallel study in Mathematics further exploring Classical Mechanics
+  * Parallel study in Mathematical Physics further exploring Classical Mechanics
   * Title (phil. part): tba
   * Title (math. part): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
