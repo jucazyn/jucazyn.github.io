@@ -70,7 +70,7 @@ redirect_from:
 * **Reading group on Logic and Foundations of Science, UFSC (2023-2010)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Supervised reading as an introduction to Topology, UFSC (2019-2020)**
+* **Supervised reading on introductory General Topology, UFSC (2019-2020)**
   * Based on chapters 1-5 of [Munkres' book](https://books.google.com.br/books/about/Topology.html?id=XjoZAQAAIAAJ&redir_esc=y)
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
