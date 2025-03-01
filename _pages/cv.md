@@ -70,8 +70,8 @@ redirect_from:
 * **Reading group on Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Supervised reading on General Topology, UFSC (2019-2020)**
+* **Supervised reading on General Topology, UFSC (2019-2020)**
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Supervised reading on Modal and Many-valued Logic, UFSC (2018-2019)**
+* **Supervised reading on Modal and Many-valued Logic, UFSC (2018-2019)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
