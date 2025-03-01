@@ -52,5 +52,4 @@ And here are some of my current academic/professional activities:
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
  
 * **Reading group in Logic and Foundations of Science, UFSC (2023-current)**
-  * Interdisciplinary reading group on foundations
   * Supervisor: Prof. Jonas R. Becker Arenhart
