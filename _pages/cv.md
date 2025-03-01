@@ -71,10 +71,10 @@ redirect_from:
   * Interdisciplinary reading group on foundations
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Supervised reading in General Topology, UFSC (2019-2020)**
-  * Based on chapters 1-5 of [Munkres's book](https://books.google.com.br/books/about/Topology.html?id=XjoZAQAAIAAJ&redir_esc=y)
+* **Supervised reading on General Topology, UFSC (2019-2020)**
+  * Based on chapters 1-5 of [Munkres' book](https://books.google.com.br/books/about/Topology.html?id=XjoZAQAAIAAJ&redir_esc=y)
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Supervised reading in Non-classical Logic, UFSC (2018-2019)**
+* **Supervised reading on Non-classical Logic, UFSC (2018-2019)**
   * Based on chapters 1-11 of [Priest's book](https://books.google.com.br/books?id=rMXVbmAw3YwC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
   * Supervisor: Prof. Jonas R. Becker Arenhart
