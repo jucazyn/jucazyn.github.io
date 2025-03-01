@@ -32,7 +32,7 @@ My education trajectory until now is:
 * **B.A. in Philosophy, UFSC (2024-current)**
   * Emphasis in Philosophy of Physics and <span style="color: #999999;">(Philosophical)</span> Logic
 
-* **B.Sc. in Mathematics <a href="https://pam-mtm-ufsc-br.translate.goog/oquee.html?_x_tr_sch=http&_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="font-weight: 500; color: #494e52 !important;text-decoration-color: rgb(0 0 0 / 50%);">through the PAM honors program</a>, UFSC (2018-2023)**
+* **B.Sc. in Mathematics <a href="https://pam-mtm-ufsc-br.translate.goog/oquee.html?_x_tr_sch=http&_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="font-weight: 600; color: #494e52 !important;text-decoration-color: rgb(0 0 0 / 45%);">through the PAM honors program</a>, UFSC (2018-2023)**
   * Emphasis in Mathematical Physics and <span style="color: #999999;">(Mathematical)</span> Logic
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
