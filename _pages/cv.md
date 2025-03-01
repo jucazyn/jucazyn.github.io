@@ -72,11 +72,9 @@ redirect_from:
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Supervised reading in General Topology, UFSC (2019-2020)**
-  * Followed Topology by Munkres
-  * Title: "Um estudo da Topologia Geral"
+  * Followed _Topology_ by Munkres
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Supervised reading in Non-classical Logics, UFSC (2018-2019)**
-  * Followed An Intro. to Non-classical Logic by Priest
-  * Title: "Lógicas Não-clássicas e Fundamentos de Ciência"
+  * Followed _An Introduction to Non-classical Logic_ by Priest
   * Supervisor: Prof. Jonas R. Becker Arenhart
