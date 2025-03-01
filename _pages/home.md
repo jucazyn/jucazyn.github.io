@@ -31,8 +31,6 @@ My education trajectory until now is:
 
 * **B.A. in Philosophy, UFSC (2024-current)**
   * Emphasis in Philosophy of Physics and <span style="color: #999999;">(Philosophical)</span> Logic
-  * Final project: tba
-  * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **B.Sc. in Mathematics <a href="https://pam-mtm-ufsc-br.translate.goog/oquee.html?_x_tr_sch=http&_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp" target="_blank" style="font-weight: 500; color: #494e52 !important;text-decoration-color: rgb(0 0 0 / 50%);">with honors</a>, UFSC (2018-2023)**
   * Emphasis in Mathematical Physics and <span style="color: #999999;">(Mathematical)</span> Logic
