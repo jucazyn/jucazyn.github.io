@@ -28,24 +28,24 @@ redirect_from:
 ## Research (affiliated and funded)
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * This research is being funded by [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Parallel study in Mathematical Physics further exploring Classical Mechanics
   * Title (phil. part): tba
   * Title (math. part): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-2024)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * This research was funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title: "Teorias lógicas e teorias científicas: estrutura e equivalência" [[video](https://repositorio.ufsc.br/handle/123456789/259340)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * This research was funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video](https://repositorio.ufsc.br/handle/123456789/251015)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-2022)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * This research was funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Parallel study in Mathematical Logic further exploring Stone Duality
   * Title (phil. part): "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
   * Title (math. part): "Teorema de Representação de Stone e aplicações"
