@@ -72,9 +72,9 @@ redirect_from:
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Supervised reading in General Topology, UFSC (2019-2020)**
-  * Based on Topology by Munkres
+  * Based on Part I of [Munkres's book](https://people.math.ethz.ch/~dkosanovic/24-FS/Munkres-Topology.pdf)
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Supervised reading in Non-classical Logic, UFSC (2018-2019)**
-  * Based on An Introduction to Non-classical Logic by Priest
+  * Based on Part I of [Priest's book](https://eclass.uoa.gr/modules/document/file.php/MATH707/James%20R.%20Munkres%20Topology%20%20Prentice%20Hall%2C%20Incorporated%2C%202000%20by%20James%20R.%20Munkres%20%28z-lib.org%29.pdf)
   * Supervisor: Prof. Jonas R. Becker Arenhart
