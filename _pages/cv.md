@@ -72,7 +72,7 @@ redirect_from:
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Supervised reading in General Topology, UFSC (2019-2020)**
-  * Based on <span style="font-style: oblique 10deg; font-family: 'Lora', serif;">_Topology_</span> by Munkres
+  * Based on <span style="font-style: oblique 20deg; font-family: 'Lora', serif;">_Topology_</span> by Munkres
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Supervised reading in Non-classical Logic, UFSC (2018-2019)**
