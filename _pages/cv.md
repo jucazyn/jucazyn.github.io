@@ -73,5 +73,5 @@ redirect_from:
 * **Supervised reading on General Topology, UFSC (2019-2020)**
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Supervised reading on Modal and Many-valued Logic, UFSC (2018-2019)**
+* **Supervised reading on Modal and Many-valued Logic, UFSC (2018-2019)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
