@@ -68,7 +68,7 @@ redirect_from:
 ## Other
 
 * **Reading group in Logic and Foundations of Science, UFSC (2023-current)**
-  * Interdisciplinary reading group on foundations
+  * Interdisciplinary group on foundations
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Supervised reading on General Topology, UFSC (2019-2020)**
