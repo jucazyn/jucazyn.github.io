@@ -62,7 +62,7 @@ redirect_from:
   * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Logic and Operator Algebras, UFSC (2020-2021)**
-  * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade" [[pdf](#)]
+  * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade"
   * Supervisor: Prof. Luiz G. Cordeiro
 
 ## Other
