@@ -33,7 +33,7 @@ redirect_from:
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title (main): tba
   * Parallel study in **Mathematical Physics** further exploring **Classical Mechanics**
-  * Title (math project): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
+  * Title (math project): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
 
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2023-2024)**
@@ -43,14 +43,14 @@ redirect_from:
 
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2022-2023)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video](https://repositorio.ufsc.br/handle/123456789/251015)]
+  * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video](https://repositorio.ufsc.br/handle/123456789/251015)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2021-2022)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title (main): "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
   * Parallel study in **Category Theory** further exploring **Stone Duality**
-  * Title (math project): "Teorema de Representação de Stone e aplicações"
+  * Title (math project): "Teorema de Representação de Stone e aplicações"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Luiz G. Cordeiro
  
 ## Research (affiliated but unfunded)
