@@ -15,7 +15,7 @@ redirect_from:
   * Emphasis in Philosophy of Physics and <span style="color: #999999;">(Philosophical)</span> Logic
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
-  * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
+  * Completed the [PAM undergraduate honors program](http://pam.mtm.ufsc.br/)
   * Emphasis in Mathematical Physics and <span style="color: #999999;">(Mathematical)</span> Logic
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
