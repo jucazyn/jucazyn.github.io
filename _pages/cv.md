@@ -35,12 +35,12 @@ redirect_from:
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-2024)**
-  * This research was funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title: "Teorias lógicas e teorias científicas: estrutura e equivalência" [[video](https://repositorio.ufsc.br/handle/123456789/259340)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
-  * This research was funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video](https://repositorio.ufsc.br/handle/123456789/251015)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
