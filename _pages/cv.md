@@ -53,15 +53,15 @@ redirect_from:
  
 ## Research (affiliated but unfunded)
 
-* **Undergraduate research project in Logic and Operator Algebras, UFSC (2025-current)**
+* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Logic and Operator Algebras, UFSC (2022-2023)**
+* **Undergraduate research project in Operator Algebras, UFSC (2022-2023)**
   * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Logic and Operator Algebras, UFSC (2020-2021)**
+* **Undergraduate research project in Operator Algebras, UFSC (2020-2021)**
   * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade"
   * Supervisor: Prof. Luiz G. Cordeiro
 
