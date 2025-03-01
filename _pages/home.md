@@ -40,16 +40,16 @@ My education trajectory until now is:
 
 And here are some of my current academic/professional activities:
 
-* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
+* **Undergraduate Research Project in Operator Algebras, UFSC (2025-current)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
+* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title (main): tba
   * Parallel study in **Mathematical Physics** further exploring **Classical Mechanics**
   * Title (math project): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
  
-* **Reading group in Logic and Foundations of Science, UFSC (2023-current)**
+* **Reading Group in Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
