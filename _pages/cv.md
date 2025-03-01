@@ -23,7 +23,7 @@ redirect_from:
 ## Teaching
 
 * **Undergraduate Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
-  * Funded by the [UFSC tutoring program](https://monitoria.ufsc.br/)
+  * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
   * Subjects: Peano axioms, elements of Number Theory and basic proof technics
 
 ## Research (affiliated and funded)
