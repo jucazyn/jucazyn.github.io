@@ -27,24 +27,24 @@ redirect_from:
 
 ## Research (affiliated and funded)
 
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
+* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title (main): tba
   * Parallel study in **Mathematical Physics** further exploring **Classical Mechanics**
   * Title (math project): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
 
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2023-2024)**
+* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2023-2024)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title: "Teorias lógicas e teorias científicas: estrutura e equivalência" [[video](https://repositorio.ufsc.br/handle/123456789/259340)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2022-2023)**
+* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2022-2023)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual" [[video](https://repositorio.ufsc.br/handle/123456789/251015)]
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate research project in Logic and Foundations of Science, UFSC (2021-2022)**
+* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2021-2022)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Title (main): "A natureza das teorias científicas: uma investigação lógico-filosófica" [[video](https://repositorio.ufsc.br/handle/123456789/239384)]
   * Parallel study in **Category Theory** further exploring **Stone Duality**
@@ -53,25 +53,25 @@ redirect_from:
  
 ## Research (affiliated but unfunded)
 
-* **Undergraduate research project in Operator Algebras, UFSC (2025-current)**
+* **Undergraduate Research Project in Operator Algebras, UFSC (2025-current)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Operator Algebras, UFSC (2022-2023)**
+* **Undergraduate Research Project in Operator Algebras, UFSC (2022-2023)**
   * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-* **Undergraduate research project in Operator Algebras, UFSC (2020-2021)**
+* **Undergraduate Research Project in Operator Algebras, UFSC (2020-2021)**
   * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade"
   * Supervisor: Prof. Luiz G. Cordeiro
 
 ## Other
 
-* **Reading group on Logic and Foundations of Science, UFSC (2023-current)**
+* **Reading Group on Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Supervised reading on General Topology, UFSC (2019-2020)**
+* **Supervised Reading on General Topology, UFSC (2019-2020)**
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Supervised reading on Modal and Many-valued Logic, UFSC (2018-2019)**
+* **Supervised Reading on Modal and Many-valued Logic, UFSC (2018-2019)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
