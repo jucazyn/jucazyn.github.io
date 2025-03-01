@@ -45,10 +45,10 @@ And here are some of my current academic/professional activities:
   * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate research project in Logic and Foundations of Science, UFSC (2024-current)**
-  * This research is being funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * Funded by [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * Title (main): tba
   * Parallel study in Mathematical Physics further exploring Classical Mechanics
-  * Title (phil. part): tba
-  * Title (math. part): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
+  * Title (math project): "Simetrias e Mecânica Clássica: as várias faces de uma teoria científica"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
  
 * **Reading group in Logic and Foundations of Science, UFSC (2023-current)**
