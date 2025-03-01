@@ -71,10 +71,12 @@ redirect_from:
   * Interdisciplinary reading group on foundations
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Directed study in General Topology, UFSC (2019-2020)**
+* **Supervised reading in General Topology, UFSC (2019-2020)**
+  * Followed Topology by Munkres
   * Title: "Um estudo da Topologia Geral"
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
-* **Directed study in Non-classical Logics, UFSC (2018-2019)**
+* **Supervised reading in Non-classical Logics, UFSC (2018-2019)**
+  * Followed An Intro. to Non-classical Logic by Priest
   * Title: "Lógicas Não-clássicas e Fundamentos de Ciência"
   * Supervisor: Prof. Jonas R. Becker Arenhart
