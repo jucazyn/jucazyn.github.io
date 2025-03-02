@@ -90,7 +90,7 @@ The rest are key courses I took during my Mathematics degree.
   - In a nutshell: Model Theory, Gödel's theorems, etc. 
 - **Differential Geometry** taught by Prof. Marianna R. Vago  
   - In a nutshell: geometry of curves and surfaces  
-- **Calculus on Manifolds** taught by Prof. Eduardo Tengan  
+- **Calculus on Manifolds** taught by Prof. Eduardo Tengan (PAM honors course)
   - In a nutshell: differential forms, Stokes' Theorem  
 
 ## 2019/1
@@ -100,9 +100,11 @@ The rest are key courses I took during my Mathematics degree.
 ## 2018/2
 - **Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: fundamentals of First-order Logic  
-- **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto  
+- **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
   - In a nutshell: introductory Functional Analysis  
 
 ## 2018/1
 - **Logic I** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: fundamentals of Propositional Logic  
+  - In a nutshell: fundamentals of Propositional Logic
+- **Fundamentals of Arithmetic** taught by Prof. A. D. M. Mortari
+  - In a nutshell: introductory Number Theory
