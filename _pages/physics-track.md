@@ -77,7 +77,7 @@ The rest are key courses I took during my Mathematics degree.
 - **Philosophy of Science** (part b) taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: scientific theories, realism vs. anti-realism debate
 - **Philosophy of Physics** taught by Prof. Décio Krause  
-  - In a nutshell: philosophical foundations of Physics 
+  - In a nutshell: philosophical foundations of physical theories
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
