@@ -6,7 +6,7 @@ redirect_from:
   - /tailor-made-track
 ---
 
-some highlights of courses I took until now (rolling release)
+Some highlights of courses I took until now (rolling release):
 
 ## 2025/1
 - **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
