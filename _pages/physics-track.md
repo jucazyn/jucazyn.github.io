@@ -30,13 +30,14 @@ In construction. Some highlights of courses I took since 2018:
   - Description: study of Curves and Surfaces
 - Introduction to Topology taught by Prof. Alda D. M. Mortari
   - Description: topological study of metric spaces 
-- Calculus on Manifolds (Prof. Eduardo Tengan)
+- Calculus on Manifolds taught by Prof. Eduardo Tengan
   - Description: differential forms and Stokes' Theorem 
 
 ## 2020/1
-- Methods of Mathematical Physics (Prof. Tiago Nunes)
+- Methods of Mathematical Physics taught by Prof. Tiago Nunes
   - Description: Einstein notation, ODE, PDE and stuff :D
-- Complex Variables (Prof. Marianna R. Vago)
+- Complex Variables taught by Prof. Marianna R. Vago
+  - Description: introductory Complex Analysis
 
 ## 2020/2
 - Philosophy of Physics (Prof. Décio Krause)
