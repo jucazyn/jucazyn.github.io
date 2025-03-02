@@ -67,16 +67,16 @@ The rest are (some) courses I took during my math journey.
   - In a nutshell: formal study of natural languages  
 
 ## 2020/2
-- **Algebraic Structures** taught by Prof. Gilles G. de Castro  
-  - In a nutshell: based mainly on Aluffi's big book
-- **Topology** taught by Prof. Daniel Gonçalves  
-  - In a nutshell: based mainly on Munkres's book
+- **Philosophy of Physics** taught by Prof. Décio Krause  
+  - In a nutshell: philosophical foundations of physical theories
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
   - In a nutshell: Kuhn, Popper, Feyerabend, Vienna Circle, etc.
 - **Philosophy of Science** (part b) taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: scientific theories, realism vs. anti-realism debate
-- **Philosophy of Physics** taught by Prof. Décio Krause  
-  - In a nutshell: philosophical foundations of physical theories
+- **Algebraic Structures** taught by Prof. Gilles G. de Castro  
+  - In a nutshell: based mainly on Aluffi's big book
+- **Topology** taught by Prof. Daniel Gonçalves  
+  - In a nutshell: based mainly on Munkres's book
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
