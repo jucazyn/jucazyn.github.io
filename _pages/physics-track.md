@@ -12,7 +12,7 @@ Below are some key courses I have taken so far during my years at UFSC.
 - **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
   - In a nutshell: fundamental theorems, some Spectral Theory
 - **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
-  - In a nutshell: Maxwell's equations, Special Relativity, radiation
+  - In a nutshell: Electrodynamics, Special Relativity
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
   - In a nutshell: mainly Classical Field Theory
 
