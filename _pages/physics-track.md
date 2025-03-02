@@ -39,6 +39,8 @@ The rest I took during my mathematical journey.
   - In a nutshell: based mainly on Nielsen & Chuang's book  
 - **Quantum Chemistry** taught by Prof. Luis H. da S. Lacerda  
   - In a nutshell: based mainly on McQuarrie's book
+- **Python Programming** taught by Prof. Giovanni F. Caramori  
+  - In a nutshell: science-oriented introduction to Python
 
 ## 2021/2
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
