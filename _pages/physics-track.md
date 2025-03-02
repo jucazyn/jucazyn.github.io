@@ -64,6 +64,7 @@ redirect_from:
 - Introduction to Quantum Information (graduate course, Prof. Eduardo I. Duzzioni)  
 
 ## 2025/1
+- Functional Analysis (graduate course, Prof. Vladimir Pestov)
 - Electromagnetic Theory II (Prof. Pawel Klimas)
 - Introduction to Field Theory (Prof. Marco A. C. Kneipp)  
 
