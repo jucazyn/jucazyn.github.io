@@ -12,70 +12,90 @@ In construction. Some highlights of courses I took since 2018:
 - Logic I taught by Prof. Cezar A. Mortari
   - In a nutshell: fundamentals of Propositional Logic
 
-
 ## 2018/2
-- Logic II taught by Prof. Cezar Mortari
-  - In a nutshell: fundamentals of First-order Logic 
+- Logic II taught by Prof. Cezar A. Mortari
+  - In a nutshell: fundamentals of First-order Logic
 - Linear Analysis taught by Prof. Paulo M. de Carvalho Neto
   - In a nutshell: introductory Functional Analysis
 
 ## 2019/1
 - Set Theory taught by Prof. Décio Krause
-  - In a nutshell: ZFC and other axiomatic set theories 
+  - In a nutshell: ZFC and other axiomatic set theories
 
 ## 2019/2
 - Metalogic taught by Prof. Cezar A. Mortari
-  - In a nutshell: a deeper dive into Logica I-II   
+  - In a nutshell: a deeper dive into Logic I-II
 - Differential Geometry taught by Prof. Marianna R. Vago
-  - Description: geometry of Curves and Surfaces
+  - In a nutshell: geometry of curves and surfaces
 - Calculus on Manifolds taught by Prof. Eduardo Tengan
-  - Description: differential forms, Stokes' Theorem 
+  - In a nutshell: differential forms, Stokes' Theorem
 
 ## 2020/1
 - Methods of Mathematical Physics taught by Prof. Tiago Nunes
-  - Description: Einstein notation, ODE, PDE and stuff :D
+  - In a nutshell: Einstein notation, ODE, PDE and stuff :D
 - Complex Variables taught by Prof. Marianna R. Vago
-  - Description: introductory Complex Analysis
+  - In a nutshell: introductory Complex Analysis
 
 ## 2020/2
-- Philosophy of Physics (Prof. Décio Krause)
-- Philosophy of Science (Prof. Ivan Cunha & Prof. Jonas R. Becker Arenhart)
-- Algebraic Structures (Prof. Gilles G. de Castro)
-- Topology (Prof. Daniel Gonçalves)
+- Philosophy of Physics taught by Prof. Décio Krause
+  - In a nutshell: philosophical foundations of Physics
+- Philosophy of Science taught by Prof. Ivan Cunha & Prof. Jonas R. Becker Arenhart
+  - In a nutshell: Kuhn, Popper, Vienna Circle, etc.
+- Algebraic Structures taught by Prof. Gilles G. de Castro
+  - In a nutshell: based mainly on Aluffi's big book
+- Topology taught by Prof. Daniel Gonçalves
+  - In a nutshell: based mainly on Munkres's book
 
 ## 2021/1
-- Philosophy of Logic (Prof. Jonas R. Becker Arenhart)
-- Non-Classical Logics (Prof. Décio Krause)
-- Semantics (Prof. Roberta P. de Oliveira)
+- Philosophy of Logic taught by Prof. Jonas R. Becker Arenhart
+  - In a nutshell: based mainly on Haack's book
+- Non-Classical Logics taught by Prof. Décio Krause
+  - In a nutshell: other logics beyond Classical Logic
+- Semantics taught by Prof. Roberta P. de Oliveira
+  - In a nutshell: formal study of natural languages
 
 ## 2021/2
-- Analytic Ontology (Prof. Jonas R. Becker Arenhart)
-- Classical Mechanics (mainly Newtonian Mechanics)  
+- Analytic Ontology taught by Prof. Jonas R. Becker Arenhart
+  - In a nutshell: Frege, Meinong, Russell, Quine, etc.
+- Classical Mechanics taught by Prof. Paulo J. Liebgott
+  - In a nutshell: mainly Newtonian Mechanics
 
 ## 2022/1
-- History of Logic (Prof. Cezar A. Mortari)
+- History of Logic taught by Prof. Cezar A. Mortari
+  - In a nutshell: based mainly on Kneale & Kneale's book
 
 ## 2022/2
-- Quantum Computing (Prof. Eduardo I. Duzzioni)
-- Fundamentals of Quantum Chemistry (Prof. Luis H. da Silveira Lacerda)
-- Introduction to Python Programming (Prof. Giovanni F. Caramori)  
+- Quantum Computing taught by Prof. Eduardo I. Duzzioni
+  - In a nutshell: based mainly on Nielsen & Chuang's book
+- Fundamentals of Quantum Chemistry taught by Prof. Luis H. da Silveira Lacerda
+  - In a nutshell: based mainly on McQuarrie's book
+- Introduction to Python Programming taught by Prof. Giovanni F. Caramori
+  - In a nutshell: science-oriented introduction to Python
 
 ## 2023/1
-- Analytical Mechanics (Prof. José C. Brunelli)
+- Analytical Mechanics taught by Prof. José C. Brunelli
+  - In a nutshell: based partly on Goldstein's book
 
 ## 2024/1
-- Logic (graduate course, Prof. Jonas R. Becker Arenhart)
-- Philosophy of Language (Prof. Jerzy A. Brzozowski)
-- Quantum Mechanics I (Prof. Eduardo I. Duzzioni)
+- Logic (graduate course) taught by Prof. Jonas R. Becker Arenhart
+  - In a nutshell: based mainly on Sider's and Mendelson's books
+- Quantum Mechanics I taught by Prof. Eduardo I. Duzzioni
+  - In a nutshell: intermediate course starting from postulates
 
 ## 2024/2
-- Philosophy of Mathematics (Prof. Jonas R. Becker Arenhart)
-- Fundamentals of Thermodynamics (Prof. José F. Custódio Filho)
-- Electromagnetic Theory I (Prof. José C. Brunelli)
-- Introduction to Quantum Information (graduate course, Prof. Eduardo I. Duzzioni)  
+- Philosophy of Mathematics taught by Prof. Jonas R. Becker Arenhart
+  - In a nutshell: philosophical aspects of mathematics
+- Fundamentals of Thermodynamics taught by Prof. José F. Custódio Filho
+  - In a nutshell: traditional approach from a macroscopic perspective
+- Electromagnetic Theory I taught by Prof. José C. Brunelli
+  - In a nutshell: based mainly on Reitz & Milford's book
+- Quantum Information (graduate course) taught by Prof. Eduardo I. Duzzioni
+  - In a nutshell: based mainly on Nielsen & Chuang's book
 
 ## 2025/1
-- Functional Analysis (graduate course, Prof. Vladimir Pestov)
-- Electromagnetic Theory II (Prof. Pawel Klimas)
-- Introduction to Field Theory (Prof. Marco A. C. Kneipp)  
-
+- Functional Analysis (graduate course) taught by Prof. Vladimir Pestov
+  - In a nutshell: fundamental theorems, some Spectral Theory
+- Electromagnetic Theory II taught by Prof. Pawel Klimas
+  - In a nutshell: idk yet :D
+- Introduction to Field Theory taught by Prof. Marco A. C. Kneipp
+  - In a nutshell: idk yet :D
