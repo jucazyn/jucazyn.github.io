@@ -96,7 +96,7 @@ The rest are (some) courses I took during my math journey.
 
 ## 2019/1
 - **Set Theory** taught by Prof. Décio Krause  
-  - In a nutshell: ZFC, other set theories
+  - In a nutshell: ZFC, other axiomatic set theories
 
 ## 2018/2
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
