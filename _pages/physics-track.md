@@ -35,7 +35,7 @@ In construction. Some highlights of courses I took since 2018:
 
 ## 2020/1
 - Methods of Mathematical Physics (Prof. Tiago Nunes)
-  - Description: index notation, differential equations and stuff like that :D 
+  - Description: Einstein notation, ODE, PDE and stuff :D
 - Complex Variables (Prof. Marianna R. Vago)
 
 ## 2020/2
