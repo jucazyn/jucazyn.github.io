@@ -6,10 +6,6 @@ redirect_from:
   - /tailor-made-track
 ---
 
-em construção...
-
-# Courses Timeline
-
 ## 2017/2
 - Introduction to Modern Physics  
 
