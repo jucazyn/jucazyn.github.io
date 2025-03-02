@@ -18,11 +18,11 @@ Below are (some) key courses I have taken so far at UFSC.
 
 ## 2024/2
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
-  - In a nutshell: based mainly on Nielsen & Chuang's book 
-- **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
-  - In a nutshell: traditional approach from a macroscopic perspective  
+  - In a nutshell: based mainly on Nielsen & Chuang's book
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli  
   - In a nutshell: based mainly on Reitz & Milford's book
+- **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
+  - In a nutshell: traditional approach from a macroscopic perspective  
 - **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: logicism, intuitionism and formalism 
 
@@ -53,16 +53,16 @@ The rest are (some) courses I took during my math journey.
   - In a nutshell: based mainly on Kneale & Kneale's book  
 
 ## 2021/2
-- **Analytic Ontology** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: Frege, Meinong, Russell, Quine, etc.  
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
   - In a nutshell: mainly Newtonian Mechanics  
+- **Analytic Ontology** taught by Prof. Jonas R. Becker Arenhart  
+  - In a nutshell: Frege, Meinong, Russell, Quine, etc.  
 
 ## 2021/1
-- **Philosophy of Logic** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: based mainly on Haack's book  
 - **Non-Classical Logics** taught by Prof. Décio Krause  
-  - In a nutshell: other logics beyond Classical Logic  
+  - In a nutshell: other logics beyond Classical Logic
+- **Philosophy of Logic** taught by Prof. Jonas R. Becker Arenhart  
+  - In a nutshell: based mainly on Haack's book    
 - **Semantics** taught by Prof. Roberta P. de Oliveira  
   - In a nutshell: formal study of natural languages  
 
@@ -70,13 +70,13 @@ The rest are (some) courses I took during my math journey.
 - **Algebraic Structures** taught by Prof. Gilles G. de Castro  
   - In a nutshell: based mainly on Aluffi's big book
 - **Topology** taught by Prof. Daniel Gonçalves  
-  - In a nutshell: based mainly on Munkres's book   
+  - In a nutshell: based mainly on Munkres's book
+- **Philosophy of Physics** taught by Prof. Décio Krause  
+  - In a nutshell: philosophical foundations of physical theories
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
   - In a nutshell: Kuhn, Popper, Feyerabend, Vienna Circle, etc.
 - **Philosophy of Science** (part b) taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: scientific theories, realism vs. anti-realism debate
-- **Philosophy of Physics** taught by Prof. Décio Krause  
-  - In a nutshell: philosophical foundations of physical theories
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
@@ -87,33 +87,33 @@ The rest are (some) courses I took during my math journey.
   - In a nutshell: rings, domains and fields
 
 ## 2019/2
-- **Metalogic** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: Model Theory, Gödel's theorems, etc. 
-- **Differential Geometry** taught by Prof. Marianna R. Vago  
-  - In a nutshell: geometry of curves and surfaces  
 - **Calculus on Manifolds** taught by Prof. Eduardo Tengan (PAM honors course)
   - In a nutshell: differential forms, Stokes' Theorem
+- **Differential Geometry** taught by Prof. Marianna R. Vago  
+  - In a nutshell: geometry of curves and surfaces  
 - **Introduction to Topology** taught by Prof. Alda D. M. Mortari
   - In a nutshell: metric spaces as topological spaces
+- **Metalogic** taught by Prof. Cezar A. Mortari  
+  - In a nutshell: Model Theory, Gödel's theorems, etc. 
 
 ## 2019/1
 - **Set Theory** taught by Prof. Décio Krause  
-  - In a nutshell: ZFC and other set theories
+  - In a nutshell: ZFC, other set theories
 - **Group Theory** taught by Prof. Sérgio Tadao Martins 
   - In a nutshell: group theory, exact sequences
 
 ## 2018/2
+- **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
+  - In a nutshell: analytic tools for differential equations  
 - **Discrete Mathematics** taught by Prof. Melissa W. Mendonça  
   - In a nutshell: combinatorics, discrete probability
 - **Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: First-order Logic  
-- **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
-  - In a nutshell: analytic tools for differential equations  
 
 ## 2018/1 (or *revalidated 2017 courses)
 - ***Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni
   - In a nutshell: seminar-style course covering some research areas
-- **Logic I** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: Propositional Logic
 - **Fundamentals of Arithmetic** taught by Prof. Alda D. M. Mortari
   - In a nutshell: elements of Number Theory
+- **Logic I** taught by Prof. Cezar A. Mortari  
+  - In a nutshell: Propositional Logic
