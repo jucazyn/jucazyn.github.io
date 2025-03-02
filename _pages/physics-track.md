@@ -37,7 +37,7 @@ The rest I took during my mathematical journey.
 ## 2022/2
 - **Quantum Computing** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book  
-- **Quantum Chemistry** taught by Prof. Luis H. da S. Lacerda  
+- **Quantum Chemistry** taught by Prof. Luis H. da Silveira Lacerda  
   - In a nutshell: based mainly on McQuarrie's book
 - **Python Programming** taught by Prof. Giovanni F. Caramori  
   - In a nutshell: science-oriented introduction to Python
