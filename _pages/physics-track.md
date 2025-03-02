@@ -1,18 +1,12 @@
 ---
 permalink: /physics-track/
-title: 'natural philosophy as back in the days...'
+title: '"tailor-made" physical science track'
 author_profile: true
 redirect_from: 
   - /tailor-made-track
 ---
 
 em construção...
-
-2020/1
-Methods of Mathematical Physics
-
-2020/2
-Philosophy of Physics
 
 2021/2
 Classical Mechanics (mainly Newtonian Mechanics)
