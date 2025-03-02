@@ -38,7 +38,7 @@ The rest are (some) courses I took during my math journey.
 
 ## 2023/1
 - **Analytical Mechanics** taught by Prof. José C. Brunelli  
-  - In a nutshell: based partly on Goldstein's book  
+  - In a nutshell: based partly on Goldstein's book
 
 ## 2022/2
 - **Quantum Computing** taught by Prof. Eduardo I. Duzzioni  
@@ -46,7 +46,7 @@ The rest are (some) courses I took during my math journey.
 - **Fundamentals of Quantum Chemistry** taught by Prof. Luis H. da Silveira Lacerda  
   - In a nutshell: based mainly on McQuarrie's book  
 - **Introduction to Python Programming** taught by Prof. Giovanni F. Caramori  
-  - In a nutshell: science-oriented introduction to Python  
+  - In a nutshell: science-oriented introduction to Python
 
 ## 2022/1
 - **History of Logic** taught by Prof. Cezar A. Mortari  
@@ -100,7 +100,7 @@ The rest are (some) courses I took during my math journey.
 
 ## 2018/2
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
-  - In a nutshell: analytic tools for differential equations  
+  - In a nutshell: algebraic and analytic tools for differential equations  
 - **Discrete Mathematics** taught by Prof. Melissa W. Mendonça  
   - In a nutshell: combinatorics, discrete probability
 - **Logic II** taught by Prof. Cezar A. Mortari  
