@@ -6,6 +6,8 @@ redirect_from:
   - /tailor-made-track
 ---
 
+In construction. Some highlights of courses I took since 2018:
+
 ## 2018/1
 - Logic I (Prof. Cezar Mortari)
 
