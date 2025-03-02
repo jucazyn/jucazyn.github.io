@@ -6,7 +6,7 @@ redirect_from:
   - /tailor-made-track
 ---
 
-Below are some key courses I have taken so far during my years at UFSC.
+Below are some courses I have taken so far during my years at UFSC.
 
 ## 2025/1
 - **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
