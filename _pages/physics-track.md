@@ -67,12 +67,12 @@ The rest are some of the extra courses I took during my math journey.
   - In a nutshell: formal study of natural languages  
 
 ## 2020/2
-- **Philosophy of Physics** taught by Prof. Décio Krause  
-  - In a nutshell: philosophical foundations of physical theories
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
   - In a nutshell: Kuhn, Popper, Feyerabend, Vienna Circle, etc.
 - **Philosophy of Science** (part b) taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: scientific theories, realism vs. anti-realism debate
+- **Philosophy of Physics** taught by Prof. Décio Krause  
+  - In a nutshell: philosophical foundations of physical theories
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
