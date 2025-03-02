@@ -60,7 +60,7 @@ The rest I took during my mathematical journey.
 - **Philosophy of Physics** taught by Prof. Décio Krause  
   - In a nutshell: philosophical foundations of physical theories
 - **University Physics I** taught by Prof. Tiago Nunes   
-  - In a nutshell: Newtonian Mechanics basics
+  - In a nutshell: kinematics and dynamics basics
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
