@@ -37,18 +37,18 @@ The rest I took during my mathematical journey.
 ## 2022/2
 - **Quantum Computing** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book  
-- **Fundamentals of Quantum Chemistry** taught by Prof. Luis H. da S. Lacerda  
+- **Quantum Chemistry** taught by Prof. Luis H. da S. Lacerda  
   - In a nutshell: based mainly on McQuarrie's book
 
 ## 2021/2
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
   - In a nutshell: intermediate course in (Newtonian) Mechanics
-- **Physics III** taught by Prof. Pawel Klimas  
-  - In a nutshell: electricity, magnetism, Maxwell's equations
+- **University Physics III** taught by Prof. Pawel Klimas  
+  - In a nutshell: electricity and magnetism basics
 
 ## 2021/1
-- **Physics II** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: rotations, heat, waves, etc.
+- **University Physics II** taught by Prof. Paulo J. Liebgott  
+  - In a nutshell: vibrations, waves, heat, etc.
 
 ## 2020/2
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
@@ -57,8 +57,8 @@ The rest I took during my mathematical journey.
   - In a nutshell: scientific theories, realism vs. anti-realism debate
 - **Philosophy of Physics** taught by Prof. Décio Krause  
   - In a nutshell: philosophical foundations of physical theories
-- **Physics I** taught by Prof. Tiago Nunes   
-  - In a nutshell: introductory Mechanics
+- **University Physics I** taught by Prof. Tiago Nunes   
+  - In a nutshell: Newtonian Mechanics basics
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
