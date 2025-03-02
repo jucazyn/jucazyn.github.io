@@ -12,13 +12,13 @@ Here are the physics-related courses I've taken.
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
   - In a nutshell: mainly Classical Field Theory
 - **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
-  - In a nutshell: Special Relativity, Maxwell's equations
+  - In a nutshell: Special Relativity, more Maxwell's equations
 
 ## 2024/2
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
-  - In a nutshell: intermediate course in Electrodynamics
+  - In a nutshell: intermediate course in electricity and magnetism
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective
 - **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
