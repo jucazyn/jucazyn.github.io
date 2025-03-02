@@ -6,73 +6,64 @@ redirect_from:
   - /tailor-made-track
 ---
 
-## 2017/2
-- Introduction to Modern Physics  
-
 ## 2018/1
-- Logic I  
+- Logic I (Prof. Cezar Mortari)
 
 ## 2018/2
-- Logic II  
-- H-Linear Analysis  
+- Logic II (Prof. Cezar Mortari)
+- Linear Analysis (Prof. Paulo Carvalho)
 
 ## 2019/1
-- Set Theory  
+- Set Theory (Prof. Décio Krause)
 
 ## 2019/2
-- Metalogic  
-- Differential Geometry  
-- Introduction to Topology  
-- H-Calculus IV  
+- Metalogic (Prof. Cezar A. Mortari)  
+- Differential Geometry (Prof. Marianna R. Vago)
+- Introduction to Topology (Prof. Alda D. M. Mortari)
+- Calculus on Manifolds (Prof. Eduardo Tengan)
 
 ## 2020/1
-- Methods of Mathematical Physics  
-- Complex Variables  
+- Methods of Mathematical Physics (Prof. Tiago Nunes)
+- Complex Variables (Prof. Marianna R. Vago)
 
 ## 2020/2
-- Philosophy of Physics  
-- Philosophy of Science  
-- Algebraic Structures  
-- Topology  
+- Philosophy of Physics (Prof. Décio Krause)
+- Philosophy of Science (Prof. Ivan Cunha & Prof. Jonas R. Becker Arenhart)
+- Algebraic Structures (Prof. Gilles G. de Castro)
+- Topology (Prof. Daniel Gonçalves)
 
 ## 2021/1
-- Philosophy of Logic  
-- Non-Classical Logics  
-- Semantics  
-- Ordinary Differential Equations  
+- Philosophy of Logic (Prof. Jonas R. Becker Arenhart)
+- Non-Classical Logics (Prof. Décio Krause)
+- Semantics (Prof. Roberta P. de Oliveira)
 
 ## 2021/2
-- Ontology I  
-- Ontology II  
+- Analytic Ontology (Prof. Jonas R. Becker Arenhart)
 - Classical Mechanics (mainly Newtonian Mechanics)  
 
 ## 2022/1
-- History of Logic  
-- Probability and Statistics  
-- H-Calculus I  
+- History of Logic (Prof. Cezar A. Mortari)
 
 ## 2022/2
-- Quantum Computing  
-- Fundamentals of Quantum Chemistry  
-- Introduction to Python Programming (science-oriented course)  
+- Quantum Computing (Prof. Eduardo I. Duzzioni)
+- Fundamentals of Quantum Chemistry (Prof. Luis H. da Silveira Lacerda)
+- Introduction to Python Programming (Prof. Giovanni F. Caramori)  
 
 ## 2023/1
-- Analytical Mechanics  
-
-## 2023/2
-- Numerical Methods  
+- Analytical Mechanics (Prof. José C. Brunelli)
 
 ## 2024/1
-- Quantum Mechanics  
+- Logic (graduate course, Prof. Jonas R. Becker Arenhart)
+- Philosophy of Language (Prof. Jerzy A. Brzozowski)
+- Quantum Mechanics I (Prof. Eduardo I. Duzzioni)
 
 ## 2024/2
-- Philosophy of Mathematics  
-- Fundamentals of Thermodynamics  
-- Electromagnetic Theory I  
-- Euclidean and Non-Euclidean Geometry  
-- Introduction to Quantum Information (graduate course)  
+- Philosophy of Mathematics (Prof. Jonas R. Becker Arenhart)
+- Fundamentals of Thermodynamics (Prof. José F. Custódio Filho)
+- Electromagnetic Theory I (Prof. José C. Brunelli)
+- Introduction to Quantum Information (graduate course, Prof. Eduardo I. Duzzioni)  
 
 ## 2025/1
-- Electromagnetic Theory II  
-- Introduction to Field Theory (mainly Classical Field Theory)  
+- Electromagnetic Theory II (Prof. Pawel Klimas)
+- Introduction to Field Theory (Prof. Marco A. C. Kneipp)  
 
