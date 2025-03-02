@@ -37,7 +37,7 @@ The rest I took during my mathematical journey.
   - In a nutshell: based partly on [Goldstein's book](https://books.google.de/books?id=EE-wQgAACAAJ&hl=pt-BR&source=gbs_book_other_versions)
 
 ## 2022/2
-- **Quantum Computing** taught by Prof. Eduardo I. Duzzioni  
+- **Quantum Computation** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)  
 - **Fundamentals of Quantum Chemistry** taught by Prof. Luis H. da S. Lacerda  
   - In a nutshell: Quantum Mechanics, based on [McQuarrie's book](https://books.google.com.br/books?id=zzxLTIljQB4C&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
