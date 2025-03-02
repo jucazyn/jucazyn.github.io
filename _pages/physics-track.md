@@ -94,7 +94,7 @@ The rest are key courses I took during my Mathematics degree.
   - In a nutshell: geometry of curves and surfaces  
 - **Calculus on Manifolds** taught by Prof. Eduardo Tengan (PAM honors course)
   - In a nutshell: differential forms, Stokes' Theorem
-- **Introduction to Topology** taught by Prof. A. D. M. Mortari
+- **Introduction to Topology** taught by Prof. Alda D. M. Mortari
   - In a nutshell: metric spaces as topological spaces
 
 ## 2019/1
@@ -104,13 +104,17 @@ The rest are key courses I took during my Mathematics degree.
   - In a nutshell: group theory, exact sequences
 
 ## 2018/2
+- **Discrete Mathematics** taught by Prof. Melissa W. Mendonça  
+  - In a nutshell: combinatorics, discrete probability
 - **Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: First-order Logic  
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
   - In a nutshell: analytic tools for differential equations  
 
-## 2018/1
+## 2018/1 (or 2017 revalidated disciplines)
+- **Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni  
+  - In a nutshell: seminar-style course covering some research areas
 - **Logic I** taught by Prof. Cezar A. Mortari  
   - In a nutshell: Propositional Logic
-- **Fundamentals of Arithmetic** taught by Prof. A. D. M. Mortari
+- **Fundamentals of Arithmetic** taught by Prof. Alda D. M. Mortari
   - In a nutshell: elements of Number Theory
