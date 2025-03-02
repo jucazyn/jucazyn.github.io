@@ -1,9 +1,9 @@
 ---
-permalink: /notes/
+permalink: /physics-track/
 title: "notes"
 author_profile: true
 redirect_from: 
-  - /writings
+  - /undergrad-physics-track
 ---
 
 * **Mathematical Foundations of Quantum Mechanics (in Portuguese)**
