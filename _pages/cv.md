@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * **B.A. in Philosophy, UFSC (2024-current)**
-  * Pursued with a ["tailor-made" Physics track](https://jucazyn.github.io/physics-track/)
+  * Pursued with a ["tailor-made" Physics track](https://jucazyn.github.io/physics-track/)
   * Emphasis in Philosophy of Physics and <span style="color: #999999;">(Philosophical)</span> Logic
 
 * **B.Sc. in Mathematics, UFSC (2018-2023)**
