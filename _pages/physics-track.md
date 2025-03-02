@@ -71,12 +71,12 @@ The rest are (some) courses I took during my math journey.
   - In a nutshell: based mainly on Aluffi's big book
 - **Topology** taught by Prof. Daniel Gonçalves  
   - In a nutshell: based mainly on Munkres's book
-- **Philosophy of Physics** taught by Prof. Décio Krause  
-  - In a nutshell: philosophical foundations of physical theories
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
   - In a nutshell: Kuhn, Popper, Feyerabend, Vienna Circle, etc.
 - **Philosophy of Science** (part b) taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: scientific theories, realism vs. anti-realism debate
+- **Philosophy of Physics** taught by Prof. Décio Krause  
+  - In a nutshell: philosophical foundations of physical theories
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
@@ -100,16 +100,16 @@ The rest are (some) courses I took during my math journey.
 
 ## 2018/2
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
-  - In a nutshell: algebraic and analytic tools for differential equations  
-- **Discrete Mathematics** taught by Prof. Melissa W. Mendonça  
-  - In a nutshell: combinatorics, discrete probability
+  - In a nutshell: algebraic and analytic tools for differential equations
 - **Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: First-order Logic  
+- **Discrete Mathematics** taught by Prof. Melissa W. Mendonça  
+  - In a nutshell: combinatorics, discrete probability
 
 ## 2018/1 (or before)
 - **Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni
   - In a nutshell: seminar-style course covering some research areas
-- **Fundamentals of Arithmetic** taught by Prof. Alda D. M. Mortari
-  - In a nutshell: elements of Number Theory
 - **Logic I** taught by Prof. Cezar A. Mortari  
   - In a nutshell: Propositional Logic
+- **Fundamentals of Arithmetic** taught by Prof. Alda D. M. Mortari
+  - In a nutshell: elements of Number Theory
