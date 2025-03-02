@@ -66,4 +66,9 @@ The rest I took during my mathematical journey.
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
-  - In a nutshell: Einstein notation, ODE, PDE and stuff :D  
+  - In a nutshell: Einstein notation, ODE, PDE and stuff :D
+
+
+&nbsp;
+
+Before this date, I was mainly studying math.
