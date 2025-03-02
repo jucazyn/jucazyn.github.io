@@ -111,7 +111,7 @@ The rest are (some) courses I took during my Mathematics degree.
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
   - In a nutshell: analytic tools for differential equations  
 
-## 2018/1 (or 2017 revalidated disciplines)
+## 2018/1 (or revalidated 2017 courses)
 - **Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: seminar-style course covering some research areas
 - **Logic I** taught by Prof. Cezar A. Mortari  
