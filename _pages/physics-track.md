@@ -13,7 +13,7 @@ In construction. Some highlights of courses I took since 2018:
 
 ## 2018/2
 - Logic II (Prof. Cezar Mortari)
-- Linear Analysis (Prof. Paulo Carvalho)
+- Linear Analysis (Prof. Paulo M. de Carvalho Neto)
 
 ## 2019/1
 - Set Theory (Prof. Décio Krause)
