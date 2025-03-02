@@ -101,7 +101,7 @@ The rest are (some) courses I took during my math journey.
 ## 2018/2
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
   - In a nutshell: algebraic and analytic tools for differential equations
-- **Logic II** taught by Prof. Cezar A. Mortari  
+- **Introductory Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: First-order Logic  
 - **Discrete Mathematics** taught by Prof. Melissa W. Mendonça  
   - In a nutshell: combinatorics, discrete probability
@@ -109,7 +109,7 @@ The rest are (some) courses I took during my math journey.
 ## 2018/1 (or before)
 - **Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni
   - In a nutshell: seminar-style course covering some research areas
-- **Logic I** taught by Prof. Cezar A. Mortari  
+- **Introductory Logic I** taught by Prof. Cezar A. Mortari  
   - In a nutshell: Propositional Logic
 - **Fundamentals of Arithmetic** taught by Prof. Alda D. M. Mortari
   - In a nutshell: elements of Number Theory
