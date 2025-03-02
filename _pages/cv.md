@@ -76,16 +76,3 @@ redirect_from:
 
 * **Supervised Reading on Modal and Many-valued Logic, UFSC (2018-2019)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
-
-## Experiência Acadêmica
-
-| Período          | Descrição                                                    |
-|------------------|--------------------------------------------------------------|
-| 2024 - 2025      | **Programa Avançado de Matemática** - Universidade XYZ       |
-| 2023 - 2024      | **Mestrado em Física Teórica** - Universidade ABC            |
-
-## Formação Acadêmica
-
-| Período          | Descrição                                                    |
-|------------------|--------------------------------------------------------------|
-| 2020 - 2023      | **Bacharelado em Filosofia** - Universidade DEF              |
