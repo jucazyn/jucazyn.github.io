@@ -83,8 +83,6 @@ The rest are (some) courses I took during my math journey.
   - In a nutshell: Einstein notation, ODE, PDE and stuff :D  
 - **Complex Variables** taught by Prof. Marianna R. Vago  
   - In a nutshell: introductory Complex Analysis
-- **Ring Theory** taught by Prof. Felipe L. Castro
-  - In a nutshell: rings, domains and fields
 
 ## 2019/2
 - **Calculus on Manifolds** taught by Prof. Eduardo Tengan (PAM honors course)
@@ -99,8 +97,6 @@ The rest are (some) courses I took during my math journey.
 ## 2019/1
 - **Set Theory** taught by Prof. Décio Krause  
   - In a nutshell: ZFC, other set theories
-- **Group Theory** taught by Prof. Sérgio Tadao Martins 
-  - In a nutshell: group theory, exact sequences
 
 ## 2018/2
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
