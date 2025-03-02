@@ -6,11 +6,9 @@ redirect_from:
   - /tailor-made-track
 ---
 
-Below are some courses I have taken so far during my years at UFSC.
+Below are the physics-related courses I have taken so far at UFSC.
 
 ## 2025/1
-- **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
-  - In a nutshell: fundamental theorems, some Spectral Theory
 - **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
   - In a nutshell: Electrodynamics, Special Relativity
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
@@ -23,20 +21,14 @@ Below are some courses I have taken so far during my years at UFSC.
   - In a nutshell: electricity, magnetism, Maxwell's equations
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective
-- **Euclidian and Non-euclidian Geometry** taught by Fábio Margotti
-  - In a nutshell: based mainly on Greenberg's book
-- **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: logicism, intuitionism and formalism 
 
 ## 2024/1
-- **Logic (graduate course)** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: based mainly on Sider's and Mendelson's books  
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: intermediate course starting from postulates  
 
 &nbsp;
 
-The rest are some of the extra courses I took during my math journey.
+The rest are the physics-related courses I took during my math journey.
 
 ## 2023/1
 - **Analytical Mechanics** taught by Prof. José C. Brunelli  
@@ -45,28 +37,12 @@ The rest are some of the extra courses I took during my math journey.
 ## 2022/2
 - **Quantum Computing** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book  
-- **Fundamentals of Quantum Chemistry** taught by Prof. Luis H. da Silveira Lacerda  
-  - In a nutshell: based mainly on McQuarrie's book  
-- **Introduction to Python Programming** taught by Prof. Giovanni F. Caramori  
-  - In a nutshell: science-oriented introduction to Python
-
-## 2022/1
-- **History of Logic** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: based mainly on Kneale & Kneale's book  
+- **Fundamentals of Quantum Chemistry** taught by Prof. Luis H. da S. Lacerda  
+  - In a nutshell: based mainly on McQuarrie's book
 
 ## 2021/2
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: mainly Newtonian Mechanics  
-- **Analytic Ontology** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: Frege, Meinong, Russell, Quine, etc.  
-
-## 2021/1
-- **Non-Classical Logics** taught by Prof. Décio Krause  
-  - In a nutshell: other logics beyond Classical Logic
-- **Philosophy of Logic** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: based mainly on Haack's book    
-- **Semantics** taught by Prof. Roberta P. de Oliveira  
-  - In a nutshell: formal study of natural languages  
+  - In a nutshell: mainly Newtonian Mechanics   
 
 ## 2020/2
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
@@ -79,19 +55,3 @@ The rest are some of the extra courses I took during my math journey.
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
   - In a nutshell: Einstein notation, ODE, PDE and stuff :D  
-
-## 2019/2
-- **Metalogic** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: Model Theory, Gödel's theorems
-
-## 2019/1
-- **Set Theory** taught by Prof. Décio Krause  
-  - In a nutshell: ZFC, other axiomatic set theories
-
-## 2018/2
-- **Logic II** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: introductory First-Order Logic  
-
-## 2018/1
-- **Logic I** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: introductory Propositional Logic
