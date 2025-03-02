@@ -65,8 +65,10 @@ Some highlights of courses I took until now (rolling release):
 ## 2020/2
 - **Philosophy of Physics** taught by Prof. Décio Krause  
   - In a nutshell: philosophical foundations of Physics  
-- **Philosophy of Science** taught by Prof. Ivan F. Cunha & Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: Kuhn, Popper, Vienna Circle, etc.  
+- **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
+  - In a nutshell: Kuhn, Popper, Feyerabend, Vienna Circle, etc.
+- **Philosophy of Science** (part b) taught by Prof. Jonas R. Becker Arenhart  
+  - In a nutshell: scientific theories, realism vs. anti-realism debate
 - **Algebraic Structures** taught by Prof. Gilles G. de Castro  
   - In a nutshell: based mainly on Aluffi's big book  
 - **Topology** taught by Prof. Daniel Gonçalves  
