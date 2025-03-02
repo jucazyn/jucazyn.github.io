@@ -90,6 +90,6 @@ The rest are some of the extra courses I took during my math journey.
 - **Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: basics of First-Order Logic  
 
-## 2018/1 (or before)
+## 2018/1
 - **Logic I** taught by Prof. Cezar A. Mortari  
   - In a nutshell: basics of Propositional Logic
