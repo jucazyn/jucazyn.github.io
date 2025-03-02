@@ -6,7 +6,7 @@ redirect_from:
   - /tailor-made-track
 ---
 
-Below are the physics-related courses I have taken until now.
+Here are the physics-related courses I've taken.
 
 ## 2025/1
 - **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
@@ -28,7 +28,7 @@ Below are the physics-related courses I have taken until now.
 
 &nbsp;
 
-The rest are the ones I took during my mathematical journey.
+The rest I took during my mathematical journey.
 
 ## 2023/1
 - **Analytical Mechanics** taught by Prof. José C. Brunelli  
