@@ -20,7 +20,7 @@ Here are the physics-related courses I've taken.
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
   - In a nutshell: intermediate course in electricity and magnetism
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
-  - In a nutshell: traditional approach from a macroscopic perspective
+  - In a nutshell: intermediate course, macroscopic perspective
 - **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: also covered Wigner, Einstein, Poincaré, etc.
 
