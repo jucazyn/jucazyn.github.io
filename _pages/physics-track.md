@@ -5,8 +5,7 @@ author_profile: true
 redirect_from: 
   - /tailor-made-track
 ---
-
-Below are the physics-related courses I have taken so far at UFSC.
+_the physics-related courses I have taken so far_
 
 ## 2025/1
 - **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
