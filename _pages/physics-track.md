@@ -6,7 +6,7 @@ redirect_from:
   - /tailor-made-track
 ---
 
-Below are some key courses I did until now.
+Below are some key courses I did at UFSC until now.
 
 ## 2025/1
 - **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
@@ -32,7 +32,11 @@ Below are some key courses I did until now.
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: intermediate course starting from postulates  
 
-Below are some key courses I did during my Mathematics degree.
+
+
+
+
+The rest are the key courses I did during my Mathematics degree.
 
 ## 2023/1
 - **Analytical Mechanics** taught by Prof. José C. Brunelli  
