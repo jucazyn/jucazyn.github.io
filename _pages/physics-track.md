@@ -12,13 +12,13 @@ Here are the physics-related courses I've taken.
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
   - In a nutshell: mainly Classical Field Theory
 - **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
-  - In a nutshell: Electrodynamics, Special Relativity
+  - In a nutshell: Special Relativity, Maxwell's equations
 
 ## 2024/2
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
-  - In a nutshell: electricity, magnetism, Maxwell's equations
+  - In a nutshell: intermediate course in Electrodynamics
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective
 
@@ -42,7 +42,13 @@ The rest I took during my mathematical journey.
 
 ## 2021/2
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: mainly Newtonian Mechanics   
+  - In a nutshell: intermediate course in (Newtonian) Mechanics
+- **Physics III** taught by Prof. Pawel Klimas  
+  - In a nutshell: electricity, magnetism, Maxwell's equations
+
+## 2021/1
+- **Physics II** taught by Prof. Paulo J. Liebgott  
+  - In a nutshell: rotations, heat, waves, etc.
 
 ## 2020/2
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
@@ -51,6 +57,8 @@ The rest I took during my mathematical journey.
   - In a nutshell: scientific theories, realism vs. anti-realism debate
 - **Philosophy of Physics** taught by Prof. Décio Krause  
   - In a nutshell: philosophical foundations of physical theories
+- **Physics I** taught by Prof. Tiago Nunes   
+  - In a nutshell: introductory Mechanics
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
