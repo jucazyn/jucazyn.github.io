@@ -83,7 +83,9 @@ The rest are key courses I took during my Mathematics degree.
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
   - In a nutshell: Einstein notation, ODE, PDE and stuff :D  
 - **Complex Variables** taught by Prof. Marianna R. Vago  
-  - In a nutshell: introductory Complex Analysis  
+  - In a nutshell: introductory Complex Analysis
+- **Ring Theory** taught by Prof. Felipe L. Castro
+  - In a nutshell: rings, domains and fields
 
 ## 2019/2
 - **Metalogic** taught by Prof. Cezar A. Mortari  
@@ -91,20 +93,24 @@ The rest are key courses I took during my Mathematics degree.
 - **Differential Geometry** taught by Prof. Marianna R. Vago  
   - In a nutshell: geometry of curves and surfaces  
 - **Calculus on Manifolds** taught by Prof. Eduardo Tengan (PAM honors course)
-  - In a nutshell: differential forms, Stokes' Theorem  
+  - In a nutshell: differential forms, Stokes' Theorem
+- **Introduction to Topology** taught by Prof. A. D. M. Mortari
+  - In a nutshell: metric spaces as topological spaces
 
 ## 2019/1
 - **Set Theory** taught by Prof. Décio Krause  
-  - In a nutshell: ZFC and other axiomatic set theories  
+  - In a nutshell: ZFC and other set theories
+- **Group Theory** taught by Prof. Sérgio Tadao Martins 
+  - In a nutshell: group theory, exact sequences
 
 ## 2018/2
 - **Logic II** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: fundamentals of First-order Logic  
+  - In a nutshell: First-order Logic  
 - **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
-  - In a nutshell: introductory Functional Analysis  
+  - In a nutshell: analytic tools for differential equations  
 
 ## 2018/1
 - **Logic I** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: fundamentals of Propositional Logic
+  - In a nutshell: Propositional Logic
 - **Fundamentals of Arithmetic** taught by Prof. A. D. M. Mortari
-  - In a nutshell: introductory Number Theory
+  - In a nutshell: elements of Number Theory
