@@ -18,7 +18,7 @@ Some highlights of courses I took until now (rolling release):
 
 ## 2024/2
 - **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: philosophical aspects of mathematics  
+  - In a nutshell: philosophical foundations of mathematics  
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective  
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli  
