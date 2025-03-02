@@ -24,7 +24,7 @@ In construction. Some highlights of courses I took since 2018:
 
 ## 2019/2
 - Metalogic taught by Prof. Cezar A. Mortari
-  - In a nutshell: a deeper dive into Logic I-II
+  - In a nutshell: a (meta) deeper dive into Logic I-II
 - Differential Geometry taught by Prof. Marianna R. Vago
   - In a nutshell: geometry of curves and surfaces
 - Calculus on Manifolds taught by Prof. Eduardo Tengan
