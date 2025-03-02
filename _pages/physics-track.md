@@ -18,7 +18,7 @@ Here are the physics-related courses I've taken.
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
-  - In a nutshell: intermediate course in electricity and magnetism
+  - In a nutshell: intermediate course in Electrodynamics
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective
 
@@ -46,11 +46,11 @@ The rest I took during my mathematical journey.
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
   - In a nutshell: intermediate course in (Newtonian) Mechanics
 - **University Physics III** taught by Prof. Pawel Klimas  
-  - In a nutshell: fundamentals of electricity and magnetism
+  - In a nutshell: electricity and magnetism
 
 ## 2021/1
 - **University Physics II** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: oscillations, heat and thermodynamics, etc.
+  - In a nutshell: rotations, oscillations, heat, etc.
 
 ## 2020/2
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
@@ -60,7 +60,7 @@ The rest I took during my mathematical journey.
 - **Philosophy of Physics** taught by Prof. Décio Krause  
   - In a nutshell: philosophical foundations of physical theories
 - **University Physics I** taught by Prof. Tiago Nunes   
-  - In a nutshell: fundamentals of kinematics and dynamics
+  - In a nutshell: kinematics and dynamics basics
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
