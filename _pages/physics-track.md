@@ -1,6 +1,6 @@
 ---
 permalink: /physics-track/
-title: '"tailor-made" physical science track'
+title: 'natural philosophy as back in the days...'
 author_profile: true
 redirect_from: 
   - /tailor-made-track
