@@ -50,7 +50,7 @@ The rest I took during my mathematical journey.
 
 ## 2021/1
 - **University Physics II** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: rotations, waves, heat and thermodynamics, etc.
+  - In a nutshell: oscillations, heat and thermodynamics, etc.
 
 ## 2020/2
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
