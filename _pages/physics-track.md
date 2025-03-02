@@ -82,7 +82,7 @@ The rest are some of the extra courses I took during my math journey.
 
 ## 2019/2
 - **Metalogic** taught by Prof. Cezar A. Mortari  
-  - In a nutshell: models, theories, Gödel's theorems
+  - In a nutshell: Model Theory, Gödel's theorems
 
 ## 2019/1
 - **Set Theory** taught by Prof. Décio Krause  
