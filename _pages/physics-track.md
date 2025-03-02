@@ -10,15 +10,17 @@ Below are some key courses I have taken so far during my years at UFSC.
 
 ## 2025/1
 - **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
-  - In a nutshell: fundamental theorems, some Spectral Theory   
+  - In a nutshell: fundamental theorems, some Spectral Theory
+- **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
+  - In a nutshell: Special Relativity, Electrodynamics  
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
   - In a nutshell: mainly Classical Field Theory
-- **Electromagnetic Theory** taught by Prof. Pawel Klimas  
-  - In a nutshell: Special Relativity, Electrodynamics 
 
 ## 2024/2
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book
+- **Electromagnetic Theory I** taught by Prof. José C. Brunelli
+  - In a nutshell: Electricity, Magnetism, Maxwell's equations 
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective  
 - **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
