@@ -6,7 +6,7 @@ redirect_from:
   - /tailor-made-track
 ---
 
-Below are (some) key courses I have taken so far at UFSC.
+Below are some key courses I have taken so far during my years at UFSC.
 
 ## 2025/1
 - **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
@@ -34,7 +34,7 @@ Below are (some) key courses I have taken so far at UFSC.
 
 &nbsp;
 
-The rest are (some) courses I took during my math journey.
+The rest are some of the extra courses I took during my math journey.
 
 ## 2023/1
 - **Analytical Mechanics** taught by Prof. José C. Brunelli  
@@ -73,24 +73,12 @@ The rest are (some) courses I took during my math journey.
   - In a nutshell: Kuhn, Popper, Feyerabend, Vienna Circle, etc.
 - **Philosophy of Science** (part b) taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: scientific theories, realism vs. anti-realism debate
-- **Algebraic Structures** taught by Prof. Gilles G. de Castro  
-  - In a nutshell: based mainly on Aluffi's big book
-- **Topology** taught by Prof. Daniel Gonçalves  
-  - In a nutshell: based mainly on Munkres's book
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
   - In a nutshell: Einstein notation, ODE, PDE and stuff :D  
-- **Complex Variables** taught by Prof. Marianna R. Vago  
-  - In a nutshell: introductory Complex Analysis
 
 ## 2019/2
-- **Calculus on Manifolds** taught by Prof. Eduardo Tengan (PAM honors course)
-  - In a nutshell: differential forms, Stokes' Theorem
-- **Differential Geometry** taught by Prof. Marianna R. Vago  
-  - In a nutshell: geometry of curves and surfaces  
-- **Introduction to Topology** taught by Prof. Alda D. M. Mortari
-  - In a nutshell: metric spaces as topological spaces
 - **Metalogic** taught by Prof. Cezar A. Mortari  
   - In a nutshell: Model Theory, Gödel's theorems, etc. 
 
@@ -99,17 +87,9 @@ The rest are (some) courses I took during my math journey.
   - In a nutshell: ZFC, other axiomatic set theories
 
 ## 2018/2
-- **Linear Analysis** taught by Prof. Paulo M. de Carvalho Neto (PAM honors course)
-  - In a nutshell: algebraic and analytic tools for differential equations
-- **Introductory Logic II** taught by Prof. Cezar A. Mortari  
+- **Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: basics of First-Order Logic  
-- **Discrete Mathematics** taught by Prof. Melissa W. Mendonça  
-  - In a nutshell: combinatorics, discrete probability
 
 ## 2018/1 (or before)
-- **Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni
-  - In a nutshell: seminar-style course covering some research areas
-- **Introductory Logic I** taught by Prof. Cezar A. Mortari  
+- **Logic I** taught by Prof. Cezar A. Mortari  
   - In a nutshell: basics of Propositional Logic
-- **Fundamentals of Arithmetic** taught by Prof. Alda D. M. Mortari
-  - In a nutshell: elements of Number Theory
