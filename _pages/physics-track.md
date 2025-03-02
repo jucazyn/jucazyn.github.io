@@ -6,7 +6,7 @@ redirect_from:
   - /tailor-made-track
 ---
 
-Below are the physics-related courses I have taken so far.
+Below are the physics-related courses I have taken until now.
 
 ## 2025/1
 - **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
