@@ -32,8 +32,9 @@ Below are some key courses I did at UFSC until now.
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: intermediate course starting from postulates  
 
+&nbsp;
 
-
+&nbsp;
 
 
 The rest are the key courses I did during my Mathematics degree.
