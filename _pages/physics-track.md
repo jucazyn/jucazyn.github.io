@@ -6,7 +6,7 @@ redirect_from:
   - /tailor-made-track
 ---
 
-Some highlights of courses I took until now (rolling release):
+Below are some key courses I did until now.
 
 ## 2025/1
 - **Functional Analysis (graduate course)** taught by Prof. Vladimir Pestov  
@@ -31,6 +31,8 @@ Some highlights of courses I took until now (rolling release):
   - In a nutshell: based mainly on Sider's and Mendelson's books  
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: intermediate course starting from postulates  
+
+Below are some key courses I did during my Mathematics degree.
 
 ## 2023/1
 - **Analytical Mechanics** taught by Prof. José C. Brunelli  
