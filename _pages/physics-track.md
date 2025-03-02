@@ -20,7 +20,7 @@ Below are some key courses I have taken so far during my years at UFSC.
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: based mainly on Nielsen & Chuang's book
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
-  - In a nutshell: Electricity, Magnetism, Maxwell's equations 
+  - In a nutshell: electricity, magnetism, Maxwell's equations 
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective  
 - **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
