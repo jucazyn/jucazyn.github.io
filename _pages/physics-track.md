@@ -10,28 +10,26 @@ In construction. Some highlights of courses I took since 2018:
 
 ## 2018/1
 - Logic I taught by Prof. Cezar A. Mortari
-  - Description: fundamentals of Propositional Logic
+  - In a nutshell: fundamentals of Propositional Logic
 
 
 ## 2018/2
 - Logic II taught by Prof. Cezar Mortari
-  - Description: fundamentals of First-order Logic 
+  - In a nutshell: fundamentals of First-order Logic 
 - Linear Analysis taught by Prof. Paulo M. de Carvalho Neto
-  - Description: introductory Functional Analysis
+  - In a nutshell: introductory Functional Analysis
 
 ## 2019/1
 - Set Theory taught by Prof. Décio Krause
-  - Description: ZFC and other axiomatic set theories 
+  - In a nutshell: ZFC and other axiomatic set theories 
 
 ## 2019/2
 - Metalogic taught by Prof. Cezar A. Mortari
-  - Description: elements of Model Theory, Gödel's theorems, etc.   
+  - In a nutshell: a deeper dive into Logica I-II   
 - Differential Geometry taught by Prof. Marianna R. Vago
-  - Description: study of Curves and Surfaces
-- Introduction to Topology taught by Prof. Alda D. M. Mortari
-  - Description: topological study of metric spaces 
+  - Description: geometry of Curves and Surfaces
 - Calculus on Manifolds taught by Prof. Eduardo Tengan
-  - Description: differential forms and Stokes' Theorem 
+  - Description: differential forms, Stokes' Theorem 
 
 ## 2020/1
 - Methods of Mathematical Physics taught by Prof. Tiago Nunes
