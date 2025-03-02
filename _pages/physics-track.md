@@ -106,8 +106,8 @@ The rest are (some) courses I took during my math journey.
 - **Logic II** taught by Prof. Cezar A. Mortari  
   - In a nutshell: First-order Logic  
 
-## 2018/1 (or *revalidated 2017 courses)
-- ***Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni
+## 2018/1 (or before)
+- **Introduction to (Modern) Physics** taught by Prof. Eduardo I. Duzzioni
   - In a nutshell: seminar-style course covering some research areas
 - **Fundamentals of Arithmetic** taught by Prof. Alda D. M. Mortari
   - In a nutshell: elements of Number Theory
