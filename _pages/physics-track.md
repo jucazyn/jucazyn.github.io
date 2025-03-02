@@ -9,10 +9,10 @@ redirect_from:
 Here are the physics-related courses I've taken.
 
 ## 2025/1
-- **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
-  - In a nutshell: Electrodynamics, Special Relativity
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
   - In a nutshell: mainly Classical Field Theory
+- **Electromagnetic Theory II** taught by Prof. Pawel Klimas  
+  - In a nutshell: Electrodynamics, Special Relativity
 
 ## 2024/2
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
