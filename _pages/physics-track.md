@@ -42,7 +42,7 @@ The rest I took during my mathematical journey.
 - **Fundamentals of Quantum Chemistry** taught by Prof. Luis H. da S. Lacerda  
   - In a nutshell: based mainly on [McQuarrie's book](https://books.google.com.br/books?id=zzxLTIljQB4C&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
 - **Introduction to Python Programming** taught by Prof. Giovanni F. Caramori  
-  - In a nutshell: hands on, based on [Hill's book](https://scipython.com/about/the-book/)
+  - In a nutshell: hands on course, based on [Hill's book](https://scipython.com/about/the-book/)
 
 ## 2021/2
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
