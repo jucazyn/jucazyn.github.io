@@ -9,15 +9,16 @@ redirect_from:
 In construction. Some highlights of courses I took since 2018:
 
 ## 2018/1
-- Logic I (Prof. Cezar Mortari)
-  -- sds
+- Logic I taught by Prof. Cezar A. Mortari -- fundamentals of Propositional Logic
+
 
 ## 2018/2
-- Logic II (Prof. Cezar Mortari)
-- Linear Analysis (Prof. Paulo M. de Carvalho Neto)
+- Logic II taught by Prof. Cezar Mortari -- fundamentals of First-order Logic 
+- Linear Analysis taught by Prof. Paulo M. de Carvalho Neto -- fundamentals of Functional Analysis
 
 ## 2019/1
 - Set Theory (Prof. Décio Krause)
+  - Bibliography: 
 
 ## 2019/2
 - Metalogic (Prof. Cezar A. Mortari)  
