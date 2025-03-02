@@ -17,22 +17,20 @@ Below are some key courses I took at UFSC until now.
   - In a nutshell: idk yet :D  
 
 ## 2024/2
-- **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
-  - In a nutshell: logicism, intuitionism and formalism
+- **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
+  - In a nutshell: based mainly on Nielsen & Chuang's book 
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective  
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli  
-  - In a nutshell: based mainly on Reitz & Milford's book  
-- **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
-  - In a nutshell: based mainly on Nielsen & Chuang's book  
+  - In a nutshell: based mainly on Reitz & Milford's book
+- **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
+  - In a nutshell: logicism, intuitionism and formalism 
 
 ## 2024/1
 - **Logic (graduate course)** taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: based mainly on Sider's and Mendelson's books  
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
   - In a nutshell: intermediate course starting from postulates  
-
-&nbsp;
 
 &nbsp;
 
