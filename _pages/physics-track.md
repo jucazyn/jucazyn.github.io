@@ -21,6 +21,8 @@ Here are the physics-related courses I've taken.
   - In a nutshell: intermediate course in Electrodynamics
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
   - In a nutshell: traditional approach from a macroscopic perspective
+- **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
+  - In a nutshell: also covered applicability of math to the world
 
 ## 2024/1
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
