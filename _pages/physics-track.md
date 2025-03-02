@@ -16,7 +16,7 @@ Here are the physics-related courses I've taken.
 
 ## 2024/2
 - **Quantum Information (graduate course)** taught by Prof. Eduardo I. Duzzioni  
-  - In a nutshell: based mainly on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)
+  - In a nutshell: based on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
   - In a nutshell: intermediate course in electricity and magnetism
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
@@ -34,15 +34,15 @@ The rest I took during my mathematical journey.
 
 ## 2023/1
 - **Analytical Mechanics** taught by Prof. José C. Brunelli  
-  - In a nutshell: based partly on [Goldstein's book](https://books.google.de/books?id=EE-wQgAACAAJ&hl=pt-BR&source=gbs_book_other_versions)
+  - In a nutshell: based mainly on [Goldstein's book](https://books.google.de/books?id=EE-wQgAACAAJ&hl=pt-BR&source=gbs_book_other_versions)
 
 ## 2022/2
 - **Quantum Computing** taught by Prof. Eduardo I. Duzzioni  
-  - In a nutshell: based mainly on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)  
+  - In a nutshell: based on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)  
 - **Fundamentals of Quantum Chemistry** taught by Prof. Luis H. da Silveira Lacerda  
   - In a nutshell: based mainly on [McQuarrie's book](https://books.google.com.br/books?id=zzxLTIljQB4C&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
 - **Introduction to Python Programming** taught by Prof. Giovanni F. Caramori  
-  - In a nutshell: based mainly on [Hill's book](https://scipython.com/about/the-book/)
+  - In a nutshell: based on [Hill's book](https://scipython.com/about/the-book/)
 
 ## 2021/2
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
