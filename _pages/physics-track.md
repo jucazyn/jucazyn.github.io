@@ -39,7 +39,7 @@ In construction. Some highlights of courses I took since 2018:
 ## 2020/2
 - Philosophy of Physics taught by Prof. Décio Krause
   - In a nutshell: philosophical foundations of Physics
-- Philosophy of Science taught by Prof. Ivan Cunha & Prof. Jonas R. Becker Arenhart
+- Philosophy of Science taught by Prof. Ivan F. Cunha & Prof. Jonas R. Becker Arenhart
   - In a nutshell: Kuhn, Popper, Vienna Circle, etc.
 - Algebraic Structures taught by Prof. Gilles G. de Castro
   - In a nutshell: based mainly on Aluffi's big book
