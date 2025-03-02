@@ -61,11 +61,11 @@ The rest I took during my mathematical journey.
   - In a nutshell: scientific theories, realism vs. anti-realism debate
 - **Philosophy of Physics** taught by Prof. Décio Krause  
   - In a nutshell: philosophical foundations of physical theories
-- **University Physics I** taught by Prof. Tiago Nunes   
+- **University Physics I** taught by Prof. Tiago Nunes da Silva   
   - In a nutshell: introduction to kinematics and dynamics
 
 ## 2020/1
-- **Methods of Mathematical Physics** taught by Prof. Tiago Nunes  
+- **Methods of Mathematical Physics** taught by Prof. Tiago Nunes da Silva  
   - In a nutshell: Einstein notation, ODE, PDE and stuff :D
 
 
