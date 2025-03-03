@@ -15,8 +15,8 @@ Here are the physics-related courses I've taken.
   - In a nutshell: tba
 
 ## 2024/2
-- **Quantum Information** taught by Prof. Eduardo I. Duzzioni (graduate-level)
-  - In a nutshell: based on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)
+- **Quantum Information** taught by Prof. Eduardo I. Duzzioni
+  - In a nutshell: graduate-level, based on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
   - In a nutshell: intermediate course in electricity and magnetism
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
