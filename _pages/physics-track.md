@@ -18,15 +18,15 @@ Here are the physics-related courses I've taken.
 - **Quantum Information** taught by Prof. Eduardo I. Duzzioni
   - In a nutshell: grad-level, based on [Nielsen & Chuang's book](https://books.google.com.br/books?id=aai-P4V9GJ8C&printsec=frontcover&hl=pt-BR#v=onepage&q&f=false)
 - **Electromagnetic Theory I** taught by Prof. José C. Brunelli
-  - In a nutshell: intermediate course in electricity and magnetism
+  - In a nutshell: intermediate, electrodynamics, Maxwell's equations
 - **Fundamentals of Thermodynamics** taught by Prof. José F. Custódio Filho  
-  - In a nutshell: intermediate course, macroscopic perspective
+  - In a nutshell: intermediate, traditional macroscopic perspective
 - **Philosophy of Mathematics** taught by Prof. Jonas R. Becker Arenhart  
   - In a nutshell: also covered Wigner, Einstein, Poincaré, etc.
 
 ## 2024/1
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
-  - In a nutshell: intermediate course starting from postulates  
+  - In a nutshell: intermediate, starting from postulates  
 
 &nbsp;
 
@@ -46,13 +46,13 @@ The rest I took during my mathematical journey.
 
 ## 2021/2
 - **Classical Mechanics** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: intermediate course in (Newtonian) Mechanics
+  - In a nutshell: intermediate, (Newtonian) Mechanics
 - **University Physics III** taught by Prof. Pawel Klimas  
-  - In a nutshell: introduction to electricity and magnetism
+  - In a nutshell: introductory, electricity, magnetism
 
 ## 2021/1
 - **University Physics II** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: rotations, oscillations, heat, etc.
+  - In a nutshell: introductory, oscillations, heat, etc.
 
 ## 2020/2
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
@@ -62,7 +62,7 @@ The rest I took during my mathematical journey.
 - **Philosophy of Physics** taught by Prof. Décio Krause  
   - In a nutshell: philosophical foundations of physical theories
 - **University Physics I** taught by Prof. Tiago Nunes da Silva   
-  - In a nutshell: introduction to kinematics and dynamics
+  - In a nutshell: introductory, kinematics and dynamics
 
 ## 2020/1
 - **Methods of Mathematical Physics** taught by Prof. Tiago Nunes da Silva  
