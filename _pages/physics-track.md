@@ -26,7 +26,7 @@ Here are the physics-related courses I've taken.
 
 ## 2024/1
 - **Quantum Mechanics I** taught by Prof. Eduardo I. Duzzioni  
-  - In a nutshell: intermediate, starting from postulates  
+  - In a nutshell: intermediate, bra-ket, starting from postulates  
 
 &nbsp;
 
@@ -52,7 +52,7 @@ The rest I took during my mathematical journey.
 
 ## 2021/1
 - **University Physics II** taught by Prof. Paulo J. Liebgott  
-  - In a nutshell: introductory, oscillations, heat, etc.
+  - In a nutshell: introductory, oscillations, waves, heat, etc.
 
 ## 2020/2
 - **Philosophy of Science** (part a) taught by Prof. Ivan F. Cunha  
