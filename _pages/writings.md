@@ -6,6 +6,6 @@ redirect_from:
   - /notes
 ---
 
-* **Mathematical Foundations of Quantum Mechanics (in Portuguese)**
-  *  [Notes (in Portuguese)](https://github.com/jcbarczyszyn/jcbarczyszyn.github.io/blob/master/files/notas_fmq.pdf)
+* **Notes**
+  *  Transpose of Lorentz Transformation [[pdf](https://github.com/jucazyn/jucazyn.github.io/blob/master/files/transpose_lorentz_transformation_draft.pdf)]
 
