@@ -1,9 +1,9 @@
 ---
-permalink: /notes/
-title: "notes"
+permalink: /writings/
+title: "writings"
 author_profile: true
 redirect_from: 
-  - /writings
+  - /notes
 ---
 
 * **Mathematical Foundations of Quantum Mechanics (in Portuguese)**
