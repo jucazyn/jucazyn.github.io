@@ -8,5 +8,5 @@ redirect_from:
 
 ## Notes
 
-- Transpose of Lorentz Transformation [[pdf](https://github.com/jucazyn/jucazyn.github.io/raw/master/files/transpose_lorentz_transformation_draft.pdf)]
+- Transpose of Lorentz Transformation [[pdf](https://jucazyn.github.io/files/transpose_lorentz_transformation_draft.pdf)]
 
