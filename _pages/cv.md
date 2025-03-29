@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+## education
 
 * **B.A. in Philosophy, UFSC (2024-current)**
   * Pursued with a ["tailor-made" Physics track](https://jucazyn.github.io/physics-track/)
@@ -21,13 +21,13 @@ redirect_from:
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
 
-## Teaching
+## teaching
 
 * **Undergraduate Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
   * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
   * Subjects: Peano axioms, elements of Number Theory and basic proof technics
 
-## Research (affiliated and funded)
+## research (affiliated and funded)
 
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
@@ -53,7 +53,7 @@ redirect_from:
   * Title (math project): "Teorema de Representação de Stone e aplicações"
   * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Luiz G. Cordeiro
  
-## Research (affiliated but unfunded)
+## research (affiliated but unfunded)
 
 * **Undergraduate Research Project in Operator Algebras, UFSC (2025-current)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
@@ -67,7 +67,7 @@ redirect_from:
   * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade"
   * Supervisor: Prof. Luiz G. Cordeiro
 
-## Other
+## other
 
 * **Reading Group on Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
