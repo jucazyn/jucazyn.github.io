@@ -6,7 +6,7 @@ redirect_from:
   - /notes
 ---
 
-## Notes
+## notes
 
 - Transpose of Lorentz Transformation [[pdf](https://jucazyn.github.io/files/transpose_lorentz_transformation_draft.pdf)]
 
