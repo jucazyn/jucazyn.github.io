@@ -16,7 +16,7 @@ In general, I'm interested in (how to) address some philosophical problems, and 
 
 Specifically, I'm studying the notions of **equivalence**, **reduction** and **unification** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). In addition, we're examining the connection between these notions and the so-called **syntax-semantics debate**.
 
-## Research interests
+## research interests
 
 My research interests lie in the following topics:
 
@@ -25,7 +25,7 @@ My research interests lie in the following topics:
 * **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
 * **Dualities:** Stone-type dualities and other bridges between Algebra and Geometry.
 
-## Short CV
+## short cv
 
 My education trajectory until now is:
 
