@@ -6,7 +6,7 @@ author_profile: true
 
 ## invited talks
 
-- Sobre teorias e teoremas de representação [[pdf](https://jucazyn.github.io/files/slide_seminariosI_24_2.pdf)]
+- De onde vêm os axiomas das teorias matemáticas? [[pdf](https://jucazyn.github.io/files/slide_seminariosI_24_2.pdf)]
 
 ## other presentations
 
