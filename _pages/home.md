@@ -8,13 +8,20 @@ redirect_from:
   - /home.html
 ---
 
-I'm an undergraduate student in Philosophy at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics (UFSC, 2023). 
+I'm an aspiring --- kind of _applied_ --- Mathematical Philosopher concerned about Physics and Technology. In more words, I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods. This approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
-Regarding my research interests, they mainly center around Logic, Philosophy of Science and Physics, with a substantial part of it notably lying at the intersection of **Mathematical Physics** and **Philosophy of Physics**.
+My background combines Mathematics, Philosophy, and Physics, bridging the gap beetwen **logical foundations** and **modern applications**. This interdisciplinary training uniquely positions me to tackle deep conceptual and complex practical problems such as those on the frontiers of science and industry --- from unification in Physics to foundational questions in Artificial Intelligence.
 
-In general, I'm interested in (how to) address some philosophical problems, and scientific problems featuring foundational aspects, employing both mathematical methods and philosophical methods. This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/10.1111/meta.12029).
+My academic life until now primarily centered around Logic, Philosophy of Science and Physics, with a substantial part of it notably lying at the intersection of **Mathematical Physics** and **Philosophy of Physics**. Specifically, I'm studying the notions of **equivalence**, **reduction** and **unification** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). In addition, we're examining the connection between these notions and the so-called **syntax-semantics debate**.
 
-Specifically, I'm studying the notions of **equivalence**, **reduction** and **unification** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). In addition, we're examining the connection between these notions and the so-called **syntax-semantics debate**.
+In 2026, I'll hopefully begin my master's degree, continuing my research on physical theories. Alongside my academic goals, I'm also open to part-time, remote, entry-level opportunities in Artificial Intelligence. If you believe my profile aligns with the needs of your team or projects, I would welcome the opportunity to connect. Please feel free to email me.
+
+## technical skills
+
+My technical proficiency includes:
+
+* **Theoretical:** Category Theory, Functional Analysis and Probability Theory;
+* **Applied/computational:** Quantum Computing, Machine Learning and Python.
 
 ## research interests
 
@@ -23,7 +30,8 @@ My research interests lie in the following topics:
 * **Foundations of Physics:** logical/philosophical investigations of physical theories;
 * **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
 * **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
-* **Dualities:** Stone-type dualities and other bridges between Algebra and Geometry.
+* **Dualities:** Stone-type dualities and other bridges between Algebra and Geometry;
+* **Artificial Intelligence:** _coming soon_.
 
 ## short cv
 
@@ -40,10 +48,6 @@ My education trajectory until now is:
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
 
 And here are some of my current academic/professional activities:
-
-* **Undergraduate Research Project in Operator Algebras, UFSC (2025-current)**
-  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
-  * Supervisor: Prof. Luiz G. Cordeiro
 
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
