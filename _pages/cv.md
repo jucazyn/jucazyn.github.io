@@ -55,7 +55,7 @@ redirect_from:
  
 ## research (affiliated but unfunded)
 
-* **Undergraduate Research Project in Operator Algebras, UFSC (2025-current)**
+* **Undergraduate Research Project in Operator Algebras, UFSC (2026)**
   * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
   * Supervisor: Prof. Luiz G. Cordeiro
 
