@@ -21,7 +21,7 @@ In 2026, I'll begin my master's degree, continuing my research on physical theor
 My technical proficiency includes:
 
 * **Theoretical:** Category Theory, Functional Analysis and Probability Theory;
-* **Applied/computational:** Quantum Computing, Machine Learning and Python.
+* **Computational:** Quantum Computing, Machine Learning and Python.
 
 ## research interests
 
