@@ -18,7 +18,7 @@ In 2026, I'll begin my master's degree, continuing my research on physical theor
 
 ## technical skills
 
-My technical proficiency includes:
+My technical proficiency beyond Logic includes:
 
 * **Theoretical:** Category Theory, Functional Analysis and Probability Theory;
 * **Computational:** Quantum Computing, Machine Learning and Python.
