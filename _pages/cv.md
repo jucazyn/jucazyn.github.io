@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This is an academic-oriented cv. For a more industry-oriented, please see the [pdf version](https://jucazyn.github.io/files/cv.pdf).
+
 ## education
 
 * **B.A. in Philosophy, UFSC (2024-current)**
