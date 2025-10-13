@@ -21,7 +21,8 @@ In 2026, I'll begin my master's degree, continuing my research on physical theor
 My technical proficiency (beyond Logic) includes:
 
 * **Theoretical:** Category Theory, Functional Analysis and Probability Theory;
-* **Applied:** Quantum Computing, (entry-level) Machine Learning and Python.
+* **Computational:** Quantum Computing and (entry-level) Machine Learning;
+* **Coding:** (entry-level) Python and R for scientists, HTML/CSS and LaTeX. 
 
 ## research interests
 
