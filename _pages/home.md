@@ -20,8 +20,8 @@ In 2026, I'll begin my master's degree, continuing my research on physical theor
 
 My technical proficiency (beyond Logic) includes:
 
-* **Theoretical:** Category Theory, Functional Analysis and Probability Theory;
-* **Computational:** Quantum Computing and (entry-level) Machine Learning;
+* **Theoretical:** Category Theory, Functional Analysis, Probability Theory;
+* **Computational:** Quantum Computing, (entry-level) Machine Learning;
 * **Coding:** (entry-level) Python libraries for scientists, HTML/CSS and LaTeX. 
 
 ## research interests
@@ -30,7 +30,7 @@ My research interests lie in the following topics:
 
 * **Foundations of Physics:** logico-philosophical investigations of physical theories;
 * **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
-* **Operator Algebras:** Stone-type dualities, C*-algebras and Quantum Logic;
+* **Operator Algebras:** Stone-type dualities, C*-algebras, Quantum Logic;
 * **Artificial Intelligence:** coming soon.
 
 ## short cv
