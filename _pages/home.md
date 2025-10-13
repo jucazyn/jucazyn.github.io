@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I'm an aspiring mathematical philosopher focused on Physics and Technology. In more words, I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods. This approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
+I'm an aspiring **mathematical philosopher** focused on Physics and Technology. In more words, I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods. This approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
 My background combines Mathematics, Philosophy, and Physics, bridging the gap between **logical foundations** and **modern applications**. This interdisciplinary training uniquely positions me to tackle deep conceptual and complex practical problems such as those on the frontiers of science and industry --- from the Foundations of Physics to problems in Artificial Intelligence.
 
