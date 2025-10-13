@@ -22,7 +22,7 @@ My technical proficiency (beyond Logic) includes:
 
 * **Theoretical:** Category Theory, Functional Analysis and Probability Theory;
 * **Computational:** Quantum Computing and (entry-level) Machine Learning;
-* **Coding:** (entry-level) Python and R for scientists, HTML/CSS and LaTeX. 
+* **Coding:** (entry-level) Python libraries for scientists, HTML/CSS and LaTeX. 
 
 ## research interests
 
