@@ -14,7 +14,7 @@ My background combines Mathematics, Philosophy, and Physics, bridging the gap be
 
 Regarding my academic life, research has been mainly centered on Logic, Philosophy of Science and Physics, with a substantial part of it notably lying at the intersection of Mathematical Physics and Philosophy of Physics. Specifically, I'm studying the notion of **equivalence** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at UFSC. In addition, we're examining the connection between this notion and the **syntax-semantics debate**.
 
-In 2026, I'll begin my master's degree, continuing my research on physical theories. Alongside my academic goals for next year, I'm also _open to part-time, remote opportunities_. My curriculum can be found [here](https://jucazyn.github.io/cv/), or in [pdf version](https://jucazyn.github.io/files/cv.pdf). If my profile aligns with your needs, please feel free to contact me.
+In 2026, I'll begin my master's degree, continuing my research on physical theories. Alongside my academic goals for next year, I'm also _open to part-time, remote opportunities_. My curriculum can be found [here](https://jucazyn.github.io/cv/) or in [pdf version](https://jucazyn.github.io/files/cv.pdf). If my profile aligns with your needs, please feel free to contact me.
 
 ## technical skills
 
