@@ -25,7 +25,7 @@ My research interests lie in the following topics:
 * **Foundations of Physics:** logico-philosophical investigations of physical theories;
 * **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
 * **Operator Algebras:** C*-algebras, mathematical foundations of Quantum Mechanics;
-* **Dualities:** Stone-type dualities, other algebro-geometric dualities, applications.
+* **Dualities:** Stone-type dualities, other algebro-geometric dualities and applications.
 
 ## short cv
 
