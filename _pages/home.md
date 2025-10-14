@@ -12,7 +12,7 @@ I'm an aspiring **mathematical philosopher** focused on Logic, Philosophy of Sci
 
 The guiding thread of my research is the study of **equivalences** and **dualities**: how different things can be understood as _the same_. Manifesting in Mathematics through relations between algebras and spaces, its relevance extends across a broad _spectrum_ --- from the foundations of Logic and Quantum Physics to the frontiers of Linguistics and Artificial Intelligence.
 
-Currently, under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0), I'm studying the equivalence of physical theories and its connection to the broader **syntax-semantics debate** about the nature of scientific theories.
+Currently, under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0), I'm studying the equivalence of physical theories and its relation to the broader **syntax-semantics debate** about the nature of scientific theories.
 
 In 2026, I'll begin my master's degree to continue my research on physical theories. Alongside my academic goals for next year, I'm also **open to part-time, remote opportunities**. My curriculum can be found [here](https://jucazyn.github.io/cv/). If my profile aligns with the needs of your team or projects, please feel free to contact me.
 
