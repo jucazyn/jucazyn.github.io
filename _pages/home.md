@@ -14,7 +14,7 @@ The guiding thread of my work is the study of **equivalence** --- the central qu
 
 Currently, I'm studying under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). We're investigating the notions of equivalence of scientific theories and their relations to the **syntax-semantics debate** about the nature of scientific theories.
 
-I'm also open to part-time, remote opportunities. The ideal position would involve Quantum Physics, Artificial Intelligence and (possibly) Category Theory. My curriculum can be found [here](https://jucazyn.github.io/cv/). If my profile aligns with the needs of your team or projects, please feel free to contact me.
+I'm also open to part-time, remote opportunities. My curriculum can be found [here](https://jucazyn.github.io/cv/). If my profile aligns with the needs of your team or projects, please feel free to contact me.
 
 ## technical skills
 
