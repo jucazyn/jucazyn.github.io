@@ -8,11 +8,13 @@ redirect_from:
   - /home.html
 ---
 
-I'm an aspiring **mathematical philosopher** focused on Physics and Technology. In more words, I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods. This approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
+I'm an aspiring **mathematical philosopher** focused on Logic, Philosophy of Science and Physics. In more words, I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods. This approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
-My background combines Mathematics, Philosophy, and Physics, bridging the gap between **logical foundations** and **modern applications**. This interdisciplinary training uniquely positions me to tackle deep conceptual and complex practical problems such as those on the frontiers of science and industry --- from the Foundations of Physics to problems in Artificial Intelligence.
+The guiding thread of my research is the study of **equivalences** and **dualities**. My interest centers on how different things can be viewed, in some sense, as "the same" --- something with profound theoretical and practical implications. In Mathematics, for example, this manifest as certain algebras and spaces being dual of each other. The relevance of this extends across a broad spectrum, from the foundations of Logic and Quantum Physics to the frontiers of Linguistics and Artificial Intelligence.
 
-Regarding my academic life, research has been mainly centered on Logic, Philosophy of Science and Physics, with a substantial part of it notably lying at the intersection of Mathematical Physics and Philosophy of Physics. Specifically, I'm studying the notion of **equivalence** of physical theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at UFSC. In addition, we're examining the connection between this notion and the **syntax-semantics debate**.
+Nowadays, one of the best formal tools for mathematically approaching the question about when two things are the same is **Category Theory**, a metamathematical framework for comparing mathematical theories. And one of the main tools I _enthusiastically_ use. Using Category Theory, the notion of equivalence and duality can be formalized in a very useful way and it can be shown that Syntax and Semantics are dual of each other, a consequence of an important theorem called [Stone duality](https://en.wikipedia.org/wiki/Stone_duality).
+
+In my current research, conducted at the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR), I'm studying the (possible) notions of equivalence of physical theories and we're examining the connection between those notions and the **syntax-semantics debate** about the nature of scientific theories.
 
 In 2026, I'll begin my master's degree, continuing my research on physical theories. Alongside my academic goals for next year, I'm also _open to part-time, remote opportunities_. My curriculum can be found [here](https://jucazyn.github.io/cv/). If my profile aligns with the needs of your team or projects, please feel free to contact me.
 
@@ -30,8 +32,7 @@ My research interests lie in the following topics:
 
 * **Foundations of Physics:** logico-philosophical investigations of physical theories;
 * **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
-* **Operator Algebras:** Stone-type dualities, C*-algebras, Algebraic Quantum Logic;
-* **Artificial Intelligence:** tba.
+* **Operator Algebras:** Stone-type dualities, other algebro-geometric dualities;
 
 ## short cv
 
