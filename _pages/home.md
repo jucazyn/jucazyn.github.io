@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an aspiring **mathematical philosopher** focused on Logic, Philosophy of Science and Physics, i.e., I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods; this approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
-The guiding thread of my research is the study of **equivalences** and **dualities**: how different things can be understood as "the same". This principle has profound implications, manifesting in Mathematics through relations between algebras and spaces, and its relevance extends across a broad spectrum --- from the foundations of Logic and Quantum Physics to the frontiers of Linguistics and Artificial Intelligence.
+The guiding thread of my research is the study of **equivalences** and **dualities**: how different things can be understood as "the same". This principle has profound implications, manifesting in Mathematics through relations between algebras and spaces, and its relevance extends across a broad _spectrum_ --- from the foundations of Logic and Quantum Physics to the frontiers of Linguistics and Artificial Intelligence.
 
 In my current research, conducted at the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR), I'm studying the (possible) notions of equivalence of physical theories and we're examining how these notions connect to the broader **syntax-semantics debate** about the nature of scientific theories.
 
