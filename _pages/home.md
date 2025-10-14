@@ -10,9 +10,11 @@ redirect_from:
 
 I'm an aspiring **mathematical philosopher** focused on Logic, Philosophy of Science and Physics, i.e., I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods; this approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
-The guiding thread of my work is the study of **equivalences** and their applications, focusing on the central question of when different structures can be understood as _the same_. This inquiry has profound theoretical and practical implications. In Mathematics, it manifests in canonical dualities, such as those between certain algebraic and geometric structures. Its relevance extends across a broad _spectrum_ of disciplines — from Logic and Quantum Physics to Linguistics, with significant and growing applications in Artificial Intelligence, where it provides the formal tools to bridge syntax with semantics in language models.
+The guiding thread of my work is the study of **equivalences** and their applications, focusing on the central question of when different structures can be understood as _the same_. In Mathematics, it manifests in canonical dualities, such as those between algebraic and geometric structures. Its relevance extends across a broad _spectrum_ of disciplines — from Logic and Quantum Physics to Linguistics.
 
-Currently, I'm studying under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at [UFSC](https://ufsc.br/). We're investigating the notion(s) of equivalence of physical theories and its relations to the broader **syntax-semantics debate** about the nature of scientific theories.
+AQUI
+
+Currently, I'm studying under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at [UFSC](https://ufsc.br/). We're investigating the notion(s) of equivalence of physical theories and its relations to the broader debate about the nature of scientific theories.
 
 In 2026, I'll begin my master's degree to continue my research on physical theories. Alongside my academic goals for next year, I'm also **open to part-time, remote opportunities**. My curriculum can be found [here](https://jucazyn.github.io/cv/). If my profile aligns with the needs of your team or projects, please feel free to contact me.
 
