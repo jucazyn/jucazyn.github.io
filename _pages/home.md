@@ -8,7 +8,7 @@ redirect_from:
   - /home.html
 ---
 
-I'm an aspiring __mathematical philosopher__ focused on Logic, Philosophy of Science and Physics, i.e., I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods; this approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
+I'm an aspiring _mathematical philosopher_ focused on Logic, Philosophy of Science and Physics, i.e., I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods; this approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
 The guiding thread of my work is the study of **equivalence** --- the central question of when different things can be understood as the same. Currently, my research is conducted under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at [UFSC](https://ufsc.br/). We're investigating the notions of equivalence of scientific theories and their relations to the **syntax-semantics debate** about the nature of scientific theories.
 
