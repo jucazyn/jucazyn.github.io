@@ -8,7 +8,9 @@ redirect_from:
   - /home.html
 ---
 
-I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree (UFSC, 2023), interested in Logic, Philosophy of Science and Physics. In short, I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods; this approach is sometimes refered as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
+I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics (UFSC, 2023). 
+
+Regarding my research interests, they mainly center around Logic, Philosophy of Science and Physics. In short, I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods; this approach is sometimes reffered to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
 The guiding thread of my work is the study of **equivalence** --- the central question of when different things can be understood as the same. Currently, I'm studying logical foundations of scientific theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). We're investigating the notions of equivalence between physical theories and their relations to the broader **syntax-semantics debate** about the nature of scientific theories.
 
