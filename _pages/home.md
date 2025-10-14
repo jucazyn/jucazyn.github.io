@@ -10,11 +10,11 @@ redirect_from:
 
 I'm an aspiring **mathematical philosopher** focused on Logic, Philosophy of Science and Physics, i.e., I'm interested in addressing foundational and applied problems that emerge from these areas by employing both mathematical and philosophical methods; this approach is often referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029).
 
-The guiding thread of my work is the study of **equivalence**, the central question of when different things can be understood as _the same_, and their applications. In Mathematics, it manifests in dualities between algebraic and geometric structures. Its relevance extends across a broad _spectrum_ of disciplines — from Logic and Quantum Physics to Linguistics.
+The guiding thread of my work is the study of **equivalence**, the central question of when different things can be understood as _the same_, and their applications. In Mathematics, it manifests in dualities between algebraic and geometric structures. Its relevance extends across a broad _spectrum_ of disciplines --- from Logic and Quantum Physics to Linguistics.
 
 Currently, I'm studying under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at [UFSC](https://ufsc.br/). We're investigating the notion(s) of equivalence of physical theories and its relations to the **syntax-semantics debate** about the nature of scientific theories.
 
-In 2026, I'll begin my master's degree to continue my research on physical theories. Alongside my academic goals, **I'm also open to part-time, remote opportunities**. The ideal position would include Quantum Physics, Artificial Intelligence and possibly Category Theory. My cv can be found [here](https://jucazyn.github.io/cv/). If my profile aligns with the needs of your team or projects, please feel free to contact me.
+In 2026, I'll begin my master's degree to continue my research on physical theories. Alongside my academic goals, I'm also open to _part-time, remote opportunities_. The ideal position would include Quantum Physics, Artificial Intelligence and possibly Category Theory. My cv can be found [here](https://jucazyn.github.io/cv/). If my profile aligns with the needs of your team or projects, please feel free to contact me.
 
 ## technical skills
 
@@ -30,8 +30,7 @@ My research interests lie in the following topics:
 
 * **Foundations of Physics:** logico-philosophical investigations of physical theories;
 * **Philosophy of Science:** syntax-semantics debate, equivalence of scientific theories;
-* **Dualities:** Stone-type dualities, algebro-geometric dualities and applications;
-* **Artificial Intelligence:** tba.
+* **Dualities:** Stone-type dualities, algebro-geometric dualities and applications.
 
 ## short cv
 
