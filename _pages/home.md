@@ -47,8 +47,8 @@ And here are some of my current academic/professional activities:
 
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2024-current)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Title (main): tba
-  * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Eliezer Batista
+  * Title: tba
+  * Supervisors: Prof. Jonas R. Becker Arenhart
  
 * **Reading Group in Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
