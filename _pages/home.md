@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Philosophy student at [UFSC](https://ufsc.br/) who holds a bachelor's degree in Mathematics (UFSC, 2023).
 
-Regarding my research interests, they mainly center around Logic, Philosophy of Science and Physics. As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), I'm training to approach problems that interest me from these fields employing both mathematical and philosophical methods. 
+Regarding my research interests, they mainly center around Logic, Philosophy of Science and Physics. As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), I'm training to approach problems that interest me from these fields employing both mathematical and philosophical methods. 
 
 A notable part of the Physics-related problems that intrigues me <span style="color: #999999;">[unsurprisingly]</span> lies at the intersection of **Mathematical Physics** and **Philosophy of Physics**. Furthermore, I've become increasingly interested in mathematical and philosophical challenges in cutting-edge **Artificial Intelligence** research.
  
