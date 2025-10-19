@@ -27,14 +27,13 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 
 * **Undergraduate Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
   * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
-  * Subjects: Peano axioms, elements of Number Theory and basic proof technics
+  * Subjects: Peano axioms, elements of Number Theory, basic proof technics
 
 ## research (affiliated and funded)
 
 * **Undergraduate Research Project in Philosophy, UFSC (2021-2025)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Periods: 2021-2022, 2022-2023, 2023-2024, 2024-2025
-  * Area: Logic
   * Subjects: scientific theories, equivalence, formulations of Classical Mechanics
   * Supervisor: Prof. Jonas R. Becker Arenhart
  
@@ -42,20 +41,17 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 
 * **Undergraduate Research Project in Mathematics, UFSC (2020-2023)**
   * Periods: 2020-2021, 2021-2022, 2022-2023, tba
-  * Area: Operator Algebras
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
   * Supervisor: Prof. Luiz G. Cordeiro
 
 ## research (supervised reading)
 
 * **Supervised Reading on Mathematics, UFSC (2019-2020)**
-  * Area: General Topology
-  * Subjects: topological spaces, bases, continuous functions, weak topology
+  * Reading: Topology by Munkres
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Supervised Reading on Philosophy, UFSC (2018-2019)**
-  * Area: Logic
-  * Subjects: propositional modal logics, propositional many-valued logics
+  * Reading: An Introduction to Non-classical Logic by Priest 
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 ## other
