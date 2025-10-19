@@ -31,15 +31,15 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 
 ## research (affiliated and funded)
 
-* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2021-2022)**
+* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2021-2025)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Periods: 2021-2022, 2022-2023, 2023-2024, 2024-2025
   * Supervisors: Prof. Jonas R. Becker Arenhart
  
 ## research (affiliated but unfunded)
 
-* **Undergraduate Research Project in Operator Algebras, UFSC (2020-2021)**
-  * Periods: 2020-2021, 2021-2022, 2022-2023 
+* **Undergraduate Research Project in Operator Algebras, UFSC (2020-2023)**
+  * Periods: 2020-2021, 2021-2022, 2022-2023
   * Supervisor: Prof. Luiz G. Cordeiro
 
 ## other
