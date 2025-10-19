@@ -1,5 +1,5 @@
 ---
-permalink: /steam-track/
+permalink: /applied-track/
 title: 'interdisciplinarity as back in the days...'
 author_profile: true
 redirect_from: 
@@ -7,7 +7,7 @@ redirect_from:
   - /physics-track
 ---
 
-Here are the STEAM-related courses I've taken.
+Here are the science- and technology-related courses I've taken.
 
 ## 2025/1
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
