@@ -41,13 +41,3 @@ My education trajectory until now is:
   * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
-
-And here are some of my current academic/professional activities:
-
-* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2024-current)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Title: tba
-  * Supervisors: Prof. Jonas R. Becker Arenhart
- 
-* **Reading Group in Logic and Foundations of Science, UFSC (2023-current)**
-  * Supervisor: Prof. Jonas R. Becker Arenhart
