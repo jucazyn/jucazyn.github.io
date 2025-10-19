@@ -20,6 +20,6 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 My research interests lie in the following areas:
 
-* **Foundations of Physics**
 * **Philosophy of Science**
+* **Foundations of Physics**
 * **Artificial Intelligence**
