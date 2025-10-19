@@ -39,7 +39,7 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
  
 ## research (affiliated but unfunded)
 
-* **Undergraduate Research Project in Operator Algebras, UFSC (2020-2023)**
+* **Undergraduate Research Project in Logic and Operator Algebras, UFSC (2020-2023)**
   * Periods: 2020-2021, 2021-2022, 2022-2023
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
   * Supervisor: Prof. Luiz G. Cordeiro
