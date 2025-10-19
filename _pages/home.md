@@ -22,4 +22,4 @@ My research interests lie in the following areas:
 
 * **Logic** and **Philosophy of Science**
 * **Mathematical Physics** and **Philosophy of Physics**
-* **Artificial Intelligence**
+* **Artificial Intelligence** and **Machine Learning**
