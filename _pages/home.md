@@ -35,7 +35,7 @@ My education trajectory until now is:
 
 * **Bachelor's degree in Philosophy, UFSC (2024-current)**
   * Pursued with a ["tailor-made" Physics track](https://jucazyn.github.io/physics-track/)
-  * mphasis on Logic and Foundations of Science
+  * Emphasis on Logic and Foundations of Science
 
 * **Bachelor's degree in Mathematics, UFSC (2018-2023)**
   * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
