@@ -29,7 +29,7 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
   * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
   * Subjects: Peano axioms, elements of Number Theory, basic proof technics
 
-## undergraduate research
+## research
 
 * **Undergraduate Research Project in Philosophy, UFSC (2021-2025)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
@@ -42,6 +42,11 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
   * Supervisor: Prof. Luiz G. Cordeiro
 
+## other
+
+* **Reading Group on Logic and Foundations of Science, UFSC (2023-current)**
+  * Supervisor: Prof. Jonas R. Becker Arenhart
+
 * **Supervised Reading on Mathematics, UFSC (2019-2020)**
   * Reading: Topology by Munkres
   * Supervisor: Prof. Paulo M. de Carvalho Neto
@@ -49,9 +54,3 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 * **Supervised Reading on Philosophy, UFSC (2018-2019)**
   * Reading: An Introduction to Non-Classical Logic by Priest 
   * Supervisor: Prof. Jonas R. Becker Arenhart
-
-## other
-
-* **Reading Group on Logic and Foundations of Science, UFSC (2023-current)**
-  * Supervisor: Prof. Jonas R. Becker Arenhart
- 
