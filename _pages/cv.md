@@ -14,9 +14,9 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 ## education
 
 * **Bachelor's degree in Philosophy, UFSC (2024-current)**
-  * Pursued with a ["tailor-made" Physics track](https://jucazyn.github.io/physics-track/)
+  * Pursued with a ["tailor-made" applied track](https://jucazyn.github.io/applied-track/)
   * Final project: tba
-  * Supervisors: Prof. Jonas R. Becker Arenhart
+  * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Bachelor's degree in Mathematics, UFSC (2018-2023)**
   * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
