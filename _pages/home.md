@@ -33,7 +33,7 @@ My research interests lie in the following areas:
 My education trajectory until now is:
 
 * **Bachelor's degree in Philosophy, UFSC (2024-current)**
-  * Pursued with a ["tailor-made" applied track](https://jucazyn.github.io/applied-track/)
+  * Pursued with a ["tailor-made" applied track](https://jucazyn.github.io/applied-track/)
   * Emphasis on Logic and Foundations of Science
 
 * **Bachelor's degree in Mathematics, UFSC (2018-2023)**
