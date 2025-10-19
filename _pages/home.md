@@ -21,6 +21,9 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 My research interests lie in the following areas:
 
 **Logic.** Categorical Logic, Stone-type dualities and other algebro-geometric dualities.
-**Philosophy of Science.** Logical foundations of scientific theories, theoretical equivalence. 
+
+**Philosophy of Science.** Logical foundations of scientific theories, theoretical equivalence.
+
 **Physics.** Mathematical Physics, History of Physics and Philosophy of Physics.
+
 **Artificial Intelligence.** Philosophy of Artificial Intelligence and mathematical methods for Machine Learning.
