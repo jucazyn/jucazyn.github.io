@@ -16,18 +16,6 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 **I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
-## main research areas
-
-My research interests lie in the following areas:
-
-**Foundations of Physics.** logico-philosophical investigations of physical theories...
-
-**Philosophy of Science.** syntax-semantics debate, equivalence of scientific theories...
-
-**Dualities.** Stone-type dualities, other algebro-geometric dualities and applications;
-
-**Artificial Intelligence.** ...
-
 ## short cv
 
 My education trajectory until now is:
