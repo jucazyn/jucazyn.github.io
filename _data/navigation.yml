@@ -11,6 +11,9 @@ main:
         
 #  - title: "mini blog"
 #    url: /year-archive/
+
+   - title: "about"
+     url: /about/
     
    - title: "cv"
      url: /cv/
