@@ -26,4 +26,4 @@ My research interests lie in the following areas:
 
 **Physics.** Mathematical Physics, History of Physics and Philosophy of Physics.
 
-**Artificial Intelligence.** Philosophy of Artificial Intelligence and mathematical methods for Machine Learning.
+**AI.** Mathematical foundations of Machine Learning, Philosophy of Artificial Intelligence.
