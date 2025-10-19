@@ -12,7 +12,7 @@ In a highly specialized world, I've always been driven by the challenge of conne
 
 I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics (UFSC, 2023). Currently, I study under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
 
-As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), my training allows me to approach cutting-edge research or industry problems that require sophisticated mathematical methods, rigorous conceptual analysis and, of great importance, the translation of all this theoretical stuff into applicable tools.
+As a [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), my training equips me to tackle cutting-edge research and industry problems that demand a blend of sophisticated mathematical methods, rigorous conceptual analysis, and --- of great importance --- the translation of these theoretical frameworks into applicable tools.
 
 **I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
