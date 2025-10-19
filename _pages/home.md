@@ -18,9 +18,9 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 ## research areas
 
-My research interests lie in the following (grouped) areas:
+My research interests lie in the following areas:
 
-* **Mathematical Logic** and **Philosophical Logic**
-* **Philosophy of Science** and **History of Science**
-* **Mathematical Physics** and **Philosophy of Physics**
-* **Artificial Intelligence** and **Machine Learning**
+* **Categorical Logic**; **Applied Category Theory**;
+* **Philosophy of Science**; **History of Science**;
+* **Mathematical Physics**; **Philosophy of Physics**;
+* **Artificial Intelligence**; **Machine Learning**.
