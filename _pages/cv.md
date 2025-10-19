@@ -31,40 +31,15 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 
 ## research (affiliated and funded)
 
-* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2024-current)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Title: tba
-  * Supervisors: Prof. Jonas R. Becker Arenhart
-
-* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2023-2024)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Title: "Teorias lógicas e teorias científicas: estrutura e equivalência"
-  * Supervisor: Prof. Jonas R. Becker Arenhart
-
-* **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2022-2023)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Title: "Lógica e fundamentos de teorias científicas: a emergência de uma visão dual"
-  * Supervisor: Prof. Jonas R. Becker Arenhart
-
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2021-2022)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Title (main): "A natureza das teorias científicas: uma investigação lógico-filosófica"
-  * Parallel study in **Category Theory** further exploring **Stone Duality**
-  * Title (math project): "Teorema de Representação de Stone e aplicações"
-  * Supervisors: Prof. Jonas R. Becker Arenhart, Prof. Luiz G. Cordeiro
+  * Periods: 2021-2022, 2022-2023, 2023-2024, 2024-2025
+  * Supervisors: Prof. Jonas R. Becker Arenhart
  
 ## research (affiliated but unfunded)
 
-* **Undergraduate Research Project in Operator Algebras, UFSC (2026)**
-  * Title: "Formalização da Mecânica Quântica II: o contexto quântico"
-  * Supervisor: Prof. Luiz G. Cordeiro
-
-* **Undergraduate Research Project in Operator Algebras, UFSC (2022-2023)**
-  * Title: "Formalização da Mecânica Quântica I: o contexto clássico"
-  * Supervisor: Prof. Luiz G. Cordeiro
-
 * **Undergraduate Research Project in Operator Algebras, UFSC (2020-2021)**
-  * Title: "O Teorema de Riesz-Markov-Kakutani e dualidade"
+  * Periods: 2020-2021, 2021-2022, 2022-2023 
   * Supervisor: Prof. Luiz G. Cordeiro
 
 ## other
