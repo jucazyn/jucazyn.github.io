@@ -35,11 +35,11 @@ My education trajectory until now is:
 
 * **Bachelor's degree in Philosophy, UFSC (2024-current)**
   * Pursued with a ["tailor-made" Physics track](https://jucazyn.github.io/physics-track/)
-  * Emphasis on Philosophy of Physics and <span style="color: #999999;">[Philosophical]</span> Logic
+  * mphasis on Logic and Foundations of Science
 
 * **Bachelor's degree in Mathematics, UFSC (2018-2023)**
   * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
-  * Emphasis on Mathematical Physics and <span style="color: #999999;">[Mathematical]</span> Logic
+  * Emphasis on Logic and Foundations of Science
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
 
