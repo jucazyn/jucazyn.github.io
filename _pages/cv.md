@@ -13,11 +13,11 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 
 ## education
 
-* **B.A. in Philosophy, UFSC (2024-current)**
+* **Bachelor's degree in Philosophy, UFSC (2024-current)**
   * Pursued with a ["tailor-made" Physics track](https://jucazyn.github.io/physics-track/)
   * Emphasis on Logic and Foundations of Science
 
-* **B.Sc. in Mathematics, UFSC (2018-2023)**
+* **Bachelor's degree in Mathematics, UFSC (2018-2023)**
   * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
   * Emphasis on Logic and Foundations of Science
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
