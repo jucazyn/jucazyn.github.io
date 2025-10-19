@@ -1,12 +1,13 @@
 ---
-permalink: /physics-track/
-title: 'natural philosophy as back in the days...'
+permalink: /steam-track/
+title: 'interdisciplinarity as back in the days...'
 author_profile: true
 redirect_from: 
   - /tailor-made-track
+  - /physics-track
 ---
 
-Here are the physics-related courses I've taken.
+Here are the STEAM-related courses I've taken.
 
 ## 2025/1
 - **Introduction to Field Theory** taught by Prof. Marco A. C. Kneipp  
