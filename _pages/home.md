@@ -8,11 +8,9 @@ redirect_from:
   - /home.html
 ---
 
-I'm a Philosophy student at [UFSC](https://ufsc.br/) who holds a bachelor's degree in Mathematics (UFSC, 2023).
+In a highly specialized world, I've always been driven by the challenge of connecting not only distinct theoretical fields but also theory and applications. This led me to an interdisciplinary education. Currently, I'm a student in Philosophy at UFSC, who holds a bachelor's degree in Mathematics (UFSC, 2023) and work under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
 
-As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), I'm training to approach problems that interest me from these fields employing both mathematical and philosophical methods. 
- 
-The guiding thread of my work is the study of **equivalence** --- the central question of when different things can be understood as the same. Currently, I'm studying logical foundations of scientific theories under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0). We're investigating the notions of equivalence between physical theories and their relations to the broader **syntax-semantics debate** about the nature of scientific theories.
+As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), my training allows me to approach cutting-edge research or industry problemas that require both sophisticated mathematical methods, rigorous conceptual analysis and, of great importance, translate all this into applicable tools.
 
 **I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
