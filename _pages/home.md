@@ -20,6 +20,6 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 My research interests lie in the following (grouped) areas:
 
-* **Logic** (broad sense) and **Philosophy of Science**
+* **Logic** and **Philosophy of Science**
 * **Mathematical Physics** and **Philosophy of Physics**
 * **Artificial Intelligence** and **Machine Learning**
