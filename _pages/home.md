@@ -16,16 +16,10 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 **I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
-## short cv
+## main research areas
 
-My education trajectory until now is:
+My research interests lie in the following areas:
 
-* **Bachelor's degree in Philosophy, UFSC (2024-current)**
-  * Pursued with a ["tailor-made" applied track](https://jucazyn.github.io/applied-track/)
-  * Final project: tba
-  * Supervisor: Prof. Jonas R. Becker Arenhart
-
-* **Bachelor's degree in Mathematics, UFSC (2018-2023)**
-  * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
-  * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
-  * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
+* **Foundations of Physics**
+* **Philosophy of Science**
+* **Artificial Intelligence**
