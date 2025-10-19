@@ -8,9 +8,9 @@ redirect_from:
   - /home.html
 ---
 
-In a highly specialized world, I've always been driven by the challenge of connecting not only distinct fields but also foundations with applications. This led me to an interdisciplinary education. 
+In a highly specialized world, I've always been driven by the challenge of connecting not only distinct fields but also foundations with applications. This led me to an interdisciplinary education. I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in Mathematics (UFSC, 2023). 
 
-I hold a bachelor's degree in Mathematics (UFSC, 2023) and, currently, I'm a Philosophy student at [UFSC](https://ufsc.br/) working under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
+Currently, I study under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
 
 As a [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), my training equips me to tackle cutting-edge research and industry problems while being able to use sophisticated mathematical methods, make rigorous conceptual analysis, and --- of great importance --- translate these theoretical frameworks into applicable tools.
 
