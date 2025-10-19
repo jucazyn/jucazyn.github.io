@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-under construction 🤓
+this page is under development 🤓
