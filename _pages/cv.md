@@ -34,12 +34,14 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 * **Undergraduate Research Project in Logic and Foundations of Science, UFSC (2021-2025)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Periods: 2021-2022, 2022-2023, 2023-2024, 2024-2025
+  * Subjects: Logic, Philosophy of Science, Philosophy of Physics
   * Supervisors: Prof. Jonas R. Becker Arenhart
  
 ## research (affiliated but unfunded)
 
 * **Undergraduate Research Project in Operator Algebras, UFSC (2020-2023)**
-  * Periods: 2020-2021, 2021-2022, 2022-2023
+  * Periods: 2020-2021, 2021-2022, 2022-2023, 2026-?
+  * Subjects: Logic, Category Theory, Stone Duality, Quantum Physics
   * Supervisor: Prof. Luiz G. Cordeiro
 
 ## other
@@ -47,7 +49,7 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 * **Reading Group on Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Supervised Reading on General Topology, UFSC (2019-2020)**
+* **Supervised Reading on General Topology, UFSC (2019-2020)**
   * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Supervised Reading on Modal and Many-valued Logic, UFSC (2018-2019)**
