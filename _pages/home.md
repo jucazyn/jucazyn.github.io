@@ -16,14 +16,14 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 **I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
-## research areas
+## main interests
 
-My research interests lie in the following areas:
+My foundational and applied interests lie in the following areas:
 
-**Logic.** Categorical Logic, Stone-type dualities and other algebro-geometric dualities.
+**Logic.** My primary training in Mathematics, with an emphasis on Categorical Logic. My focus lies in dualities, such as Stone-type dualities (e.g., Stone, Gelfand), others algebro-geometric dualities, and their applications to the relationship between syntax and semantics.
 
-**Philosophy of Science.** Logical foundations of scientific theories, theoretical equivalence.
+**Philosophy of Science.** My main philosophical area of research. I focus on the history and nuances of the debate on the logical foundations of scientific theories, covering topics such as the Vienna Circle's received view, the linguistic versus model-theoretic views of theories, the role of models and theories in scientific practice, and theoretical equivalence.
 
-**Physics.** Mathematical Physics, History of Physics and Philosophy of Physics.
+**Foundations of Physics.** The core motivation for my academic journey. In this interdisciplinary field, I try to blend Mathematical Physics, History of Physics, and Philosophy of Physics, in a pursuit of mathematical and philosophical understanding of physical theories.
 
-**AI.** Mathematical aspects of Machine Learning, Philosophy of Artificial Intelligence.
+**Artificial Intelligence** A growing area of interest where I seek to connect theory with aplications. My interests here involves investigating the mathematical foundations of Machine Learning and its applications, as well as developing research in the Philosophy of Artificial Intelligence to address real life challenges in our recent AI-driven world.
