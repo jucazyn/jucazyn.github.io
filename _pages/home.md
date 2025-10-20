@@ -20,10 +20,10 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 My foundational and applied interests lie in the following areas:
 
-**Logic.** My primary training in Mathematics, with a focus on Categorical Logic and dualities, such as the so-called Stone-type dualities (e.g., Stone, Gelfand), other algebro-geometric dualities, and their applications to the relationship between syntax and semantics.
+**Logic.** The logic-related topics that I'm interested are Categorical Logic and dualities, such as the so-called Stone-type dualities (e.g., Stone, Gelfand), other algebro-geometric dualities, and their applications in Computer Science.
 
 **Philosophy of Science.** My main philosophical area of research. I focus on the history and nuances of the debate on the logical foundations of scientific theories, covering topics such as the Vienna Circle's received view, the linguistic vs. model-theoretic views of theories debate, the relation between Philosophy of Science and scientific practice, and theoretical equivalence.
 
-**Foundations of Physics.** The core motivation for my academic journey. In this interdisciplinary field, I blend Mathematical Physics, History of Physics, and Philosophy of Physics, in a pursuit of a mathematical and philosophical understanding of physical theories.
+**Foundations of Physics.** In this interdisciplinary field, I combine Mathematical Physics, History of Physics, and Philosophy of Physics, to conduct mathematical and philosophical inquiry into physical theories.
 
-**Artificial Intelligence** Also of academic interest to me, but here my primary goal is to use my background to translate academic concepts into practical and accessible things. My interests involve investigating the mathematical foundations of Machine Learning and its applications, as well as developing research in the Philosophy of Artificial Intelligence to address the conceptual and practical challenges in a world increasingly shaped by Artificial Intelligence.
+**Artificial Intelligence** Also of academic interest to me, but here my goal is to use my background to translate academic stuff into practical and accessible things. My interests involve investigating the mathematical foundations of Machine Learning and its applications, as well as developing research in the Philosophy of Artificial Intelligence to contribute with a world increasingly shaped by Artificial Intelligence.
