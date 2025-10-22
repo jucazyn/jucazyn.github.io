@@ -14,7 +14,7 @@ I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in
 
 As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), I have in my utility belt the tools to tackle cutting-edge research and industry problems, being able to use sophisticated mathematical methods, make rigorous conceptual analysis, and --- of great importance --- translate these theoretical frameworks into applicable features.
 
-**I'm open to part-time, remote opportunities in Quantum Computing**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
+**I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
 ## main interests
 
@@ -24,4 +24,4 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 **Foundations of Physics.** In this interdisciplinary field, I combine Mathematical Physics, History of Physics, and Philosophy of Physics, to conduct mathematical and philosophical inquiry into physical theories.
 
-**Quantum Physics.** Here, my interest is twofold: foundations and applications. Since my degree in Mathematics, I've been studying mathematical foundations of (algebraic) Quantum Mechanics, i.e., operator-theoretic techniques, and Quantum Logic. At the same time, I took many _quantum courses_, namely Quantum Mechanics, Quantum Chemistry, Quantum Computing and Quantum Information, with the aim of developing a profile capable of translating clarifications and advances on the foundations into applications.
+**Quantum Physics.** Here, my interest is twofold: foundations and applications. Since the beginning of my journey in Mathematics, I've been studying mathematical foundations of (algebraic) Quantum Mechanics, i.e., operator-theoretic techniques, and Quantum Logic. At the same time, I took many _quantum courses_, namely Quantum Mechanics, Quantum Chemistry, Quantum Computing and Quantum Information, with the aim of developing a profile capable of translating clarifications and advances on the foundations into applications.
