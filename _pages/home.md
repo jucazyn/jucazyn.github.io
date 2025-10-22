@@ -18,9 +18,11 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 ## skills
 
-**Hard.** Logic, Functional Analysis, Category Theory, Quantum Computing;
-**Soft.** Interdisciplinarity, problem-solving, proactivity, communication, writing
-**Code.** I'm not a programmer, but I can work with Python, R and MATLAB
+**Hard.** Logic, Functional Analysis, Category Theory, Quantum Computing.
+
+**Soft.** Interdisciplinarity, problem-solving, proactivity, communication, writing.
+
+**Code.** I'm not a programmer, but I can work with Python, R and MATLAB.
 
 
 ## main interests
