@@ -16,6 +16,13 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 **I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
+## skills
+
+**Hard.** Logic, Functional Analysis, Category Theory, Quantum Computing;
+**Soft.** Interdisciplinarity, problem-solving, proactivity, communication, writing
+**Code.** I'm not a programmer, but I can work with Python, R and MATLAB
+
+
 ## main interests
 
 My foundational and applied interests lie in the following areas:
