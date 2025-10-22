@@ -18,7 +18,7 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 ## skills
 
-**Hard.** Logic, Functional Analysis, Category Theory, Quantum Computing.
+**Hard.** Logic, Functional Analysis, Category Theory, Quantum Computation.
 
 **Soft.** Interdisciplinarity, problem-solving, proactivity, communication, writing.
 
