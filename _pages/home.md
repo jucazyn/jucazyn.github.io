@@ -14,25 +14,14 @@ I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in
 
 As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029), I have in my utility belt the tools to tackle cutting-edge research and industry problems, being able to use sophisticated mathematical methods, make rigorous conceptual analysis, and --- of great importance --- translate these theoretical frameworks into applicable features.
 
-**I'm open to part-time, remote opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
-
-## skills
-
-**Hard.** Logic, Functional Analysis, Category Theory, Quantum Computation.
-
-**Soft.** Interdisciplinarity, problem-solving, proactivity, communication, writing.
-
-**Coding.** I'm not a programmer, but I can work with Python, R and MATLAB.
-
+**I'm open to part-time, remote opportunities in Quantum Computing**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
 ## main interests
 
-My foundational and applied interests lie in the following areas:
-
-**Logic.** The Logic-related topics that I'm interested are Categorical Logic and dualities, such as the so-called Stone-type dualities (e.g., Stone, Gelfand), other algebro-geometric dualities, and their applications.
+**Logic.** The Logic-related topics that I'm interested are Categorical Logic and dualities, such as the so-called Stone-type dualities (e.g., Stone, Gelfand) and other algebro-geometric dualities.
 
 **Philosophy of Science.** My main philosophical area of research. I focus on the history and nuances of the debate on the logical foundations of scientific theories, covering topics such as the Vienna Circle's received view, the linguistic _vs_. model-theoretic views of theories debate, the relation between Philosophy of Science and scientific practice, and theoretical equivalence.
 
 **Foundations of Physics.** In this interdisciplinary field, I combine Mathematical Physics, History of Physics, and Philosophy of Physics, to conduct mathematical and philosophical inquiry into physical theories.
 
-**Artificial Intelligence.** Here, my primary goal is to help make sense of a world increasingly shaped by data and algorithms through the Philosophy of Artificial Intelligence. Related to it, I have a growing interest in the mathematical foundations of Machine Learning and its applications. Lastly, regarding quantum technologies, I have a strong background in Quantum Physics, Quantum Computation and Quantum Information, and I'm also very interested in where quantum stuff and Artificial Intelligence meet.
+**Quantum Physics.** Here, my interest is twofold: foundations and applications. On one hand, since my degree in Mathematics, I've been studying mathematical foundations of (algebraic) Quantum Mechanics, i.e., operator-theoretic techniques, and Quantum Logic. On the other hand, I took many _quantum courses_, namely Quantum Mechanics, Quantum Chemistry, Quantum Computing and Quantum Information, with the aim of developing a profile capable of translating clarifications and advances on the foundations into applications.
