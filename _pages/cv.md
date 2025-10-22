@@ -33,23 +33,19 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 
 * **Undergraduate Research Project in Philosophy, UFSC (2021-2025)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
-  * Periods: 2021-2022, 2022-2023, 2023-2024, 2024-2025
+  * Periods: 2021-2022*, 2022-2023, 2023-2024, 2024-2025
   * Subjects: scientific theories, equivalence, formulations of Classical Mechanics
-  * Supervisor: Prof. Jonas R. Becker Arenhart
+  * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
 
 * **Undergraduate Research Project in Mathematics, UFSC (2020-2023)**
-  * Periods: 2020-2021, 2021-2022, 2022-2023, tba
+  * Periods: 2020-2021*, 2021-2022, 2022-2023, tba
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
-  * Supervisor: Prof. Luiz G. Cordeiro
+  * Supervisor: Prof. Luiz G. Cordeiro, *Prof. Paulo M. de Carvalho Neto
 
 ## other
 
 * **Reading Group on Logic and Foundations of Science, UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
-
-* **Supervised Reading on Mathematics, UFSC (2019-2020)**
-  * Reading: Topology by Munkres
-  * Supervisor: Prof. Paulo M. de Carvalho Neto
 
 * **Supervised Reading on Philosophy, UFSC (2018-2019)**
   * Reading: An Introduction to Non-Classical Logic by Priest 
