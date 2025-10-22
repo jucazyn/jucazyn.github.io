@@ -24,5 +24,5 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 **Foundations of Physics.** In this interdisciplinary field, I combine Mathematical Physics, History of Physics, and Philosophy of Physics, to conduct mathematical and philosophical inquiry into physical theories.
 
-**Quantum Physics.** Here the focus is twofold: foundations and applications. Since I joined the academia, I've been studying mathematical foundations of (algebraic) Quantum Mechanics, i.e., operator-theoretic techniques. At the same time, I took many _quantum courses_, namely Quantum Mechanics, Quantum Chemistry, Quantum Computing and Quantum Information, with the aim of developing a profile capable of translating clarifications and advances on the foundations into applications.
+**Quantum Physics.** As long as I can remember, I've been studying mathematical foundations of (algebraic) Quantum Mechanics, i.e., operator-theoretic aspects of the quantum formalism. At the same time, I took many _quantum courses_, namely Quantum Mechanics, Quantum Chemistry, Quantum Computing and Quantum Information, with the aim of translating clarifications and advances on the foundations into applications.
 
