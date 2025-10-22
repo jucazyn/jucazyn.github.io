@@ -35,4 +35,4 @@ My foundational and applied interests lie in the following areas:
 
 **Foundations of Physics.** In this interdisciplinary field, I combine Mathematical Physics, History of Physics, and Philosophy of Physics, to conduct mathematical and philosophical inquiry into physical theories.
 
-**Artificial Intelligence.** Here, my primary goal is to help make sense of a world increasingly shaped by data and algorithms through the Philosophy of Artificial Intelligence. Related to it, I have a growing interest in the mathematical foundations of Machine Learning and its applications.
+**Artificial Intelligence.** Here, my primary goal is to help make sense of a world increasingly shaped by data and algorithms through the Philosophy of Artificial Intelligence. Related to it, I have a growing interest in the mathematical foundations of Machine Learning and its applications. Finally, I have a strong background in Quantum Theory, Quantum Computing and Quantum Information, and where the quantum technologies and AI meets, I'm very interested too.
