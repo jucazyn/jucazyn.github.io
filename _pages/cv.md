@@ -40,7 +40,7 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 * **Undergraduate Research Project in Mathematics, UFSC (2020-2023)**
   * Periods: 2019-2020*, 2020-2021, 2021-2022, 2022-2023
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
-  * Supervisor: Prof. Luiz G. Cordeiro, *Prof. Paulo M. de Carvalho Neto
+  * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Paulo M. de Carvalho Neto
 
 ## other
 
