@@ -37,7 +37,7 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
   * Subjects: scientific theories, equivalence, formulations of Classical Mechanics
   * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
 
-* **Undergraduate Research Project in Mathematics, UFSC (2020-2023)**
+* **Undergraduate Research Project in Mathematics, UFSC (2019-2023)**
   * Periods: 2019-2020*, 2020-2021, 2021-2022, 2022-2023
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
   * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Paulo M. de Carvalho Neto
@@ -48,5 +48,4 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Supervised Reading on Philosophy, UFSC (2018-2019)**
-  * Reading: An Introduction to Non-Classical Logic by Priest 
   * Supervisor: Prof. Jonas R. Becker Arenhart
