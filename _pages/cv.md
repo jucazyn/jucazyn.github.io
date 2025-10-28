@@ -25,9 +25,9 @@ This is an academic-oriented cv. For an industry-oriented perspective, please se
 
 ## teaching
 
-* **Undergraduate Teaching Assistant in Fundamentals of Arithmetic, UFSC (2019-2021)**
+* **Undergraduate Teaching Assistant in Mathematics, UFSC (2019-2021)**
   * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
-  * Subjects: Peano axioms, elements of Number Theory, basic proof technics
+  * Subjects: Peano axioms, elements of Number Theory, basic proof techniques
 
 ## research
 
