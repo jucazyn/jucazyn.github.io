@@ -24,5 +24,5 @@ As an aspiring [mathematical philosopher](https://onlinelibrary.wiley.com/doi/ab
 
 **Foundations of Physics.** In this interdisciplinary field, I combine Mathematical Physics, History of Physics, and Philosophy of Physics, to conduct mathematical and philosophical inquiry into physical theories.
 
-**Artificial Intelligence.** I have a growing interest in applying mathematical methods to explore foundational problems in Machine Learning and, more generally, Artificial Intelligence.
+**Artificial Intelligence.** I have a growing interest in applying mathematical methods to explore philosophical problems in Machine Learning and, more generally, Artificial Intelligence.
 
