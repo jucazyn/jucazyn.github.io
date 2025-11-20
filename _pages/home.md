@@ -16,4 +16,4 @@ My academic background combines a bachelor's degree in Mathematics (UFSC, 2023) 
 
 Along with my academic activities, I'm also an aspiring data scientist, open to part-time, internship or junior opportunities in Data Science during mornings (BRT). My industry-oriented cv can be found [here](https://jucazyn.github.io/files/cv.pdf). 
 
-I'm also committed to education and social causes. Viewing teaching as a way of giving back to the community, whenever possible, [I engage in projects](https://www.instagram.com/p/BM7lKcsArOW/) aimed at disseminating science to a general audience through a philosophical lens. I'm particularly passionate about teaching Category Theory.
+I'm also committed to education and social causes. Viewing teaching as a way of giving back to the community, whenever possible, [I engage in projects](https://www.instagram.com/p/BM7lKcsArOW/) aimed at disseminating science to a general audience through a philosophical lens. I'm particularly enthusiastic about using Category Theory as a pedagogical tool, empowering students to structure their understanding of Mathematics from elementary to graduate levels.
