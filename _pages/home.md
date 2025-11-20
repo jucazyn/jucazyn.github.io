@@ -14,4 +14,4 @@ I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in
 
 ## research interests
 
-I'm trained as a mathematical philosopher, i.e., I'm interested in exploring problems of philosophical nature where mathematical methods are needed. The philosophical topics that I'm interested mainly center around Philosophy of Science and Philosophy of Technology, but I'm also interested in foundational science and technology problems. Specifically, I'm interested in the philosophical and mathematical foundations of Physics and Artificial Intelligence.
+I'm trained as a mathematical philosopher, i.e., I'm interested in exploring problems of philosophical nature where mathematical methods are needed. The research topics that I'm interested mainly center around Logic, Philosophy of Science and Philosophy of Technology, including foundational science and technology problems. Specifically, I'm interested in the philosophical and mathematical foundations of Physics and Artificial Intelligence.
