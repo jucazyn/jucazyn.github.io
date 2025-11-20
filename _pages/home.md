@@ -12,6 +12,10 @@ I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in
 
 **I'm open to part-time opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
+## style of research
+
+Trained both as mathematician and philosopher, I'm interested in exploring problems of philosophical nature where mathematical methods are needed. This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029). Among the mathematical methods I use most, Category Theory stands out.
+
 ## research interests
 
-I'm trained as a mathematical philosopher, i.e., I'm interested in exploring problems of philosophical nature where mathematical methods are needed. The research topics that I'm interested mainly center around Logic, Philosophy of Science and Philosophy of Technology, including foundational science and technology problems. Specifically, I'm interested in the philosophical and mathematical foundations of Physics and Artificial Intelligence.
+The research topics that I'm interested mainly center around Logic, Philosophy of Science and Philosophy of Technology, including foundational science and technology problems. Specifically, I'm interested in the philosophical and mathematical foundations of Physics and Artificial Intelligence.
