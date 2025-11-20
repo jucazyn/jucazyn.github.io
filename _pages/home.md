@@ -8,12 +8,12 @@ redirect_from:
   - /home.html
 ---
   
-I'm a [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029) concerned with the foundations of science and technology. At present, I'm investigating when and why two physical theories could be considered **equivalent**, and how this helps the broader debate about the nature of scientific theories. The research is conducted under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0).
+I'm a [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029) concerned with the foundations of science and technology. At present, I'm investigating when and why two physical theories could be considered **equivalent**, and how this helps the broader debate about the nature of scientific theories. The research is conducted under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at [UFSC](https://en.ufsc.br/).
 
 My academic background combines a bachelor's degree in Mathematics (UFSC, 2023) with ongoing studies in Philosophy at UFSC. I have been awarded four [PIBIC/CNPq undergraduate research fellowships](https://www.gov.br/jbrj/en/subjects/education/programa-institucional-de-bolsas-de-iniciacao-cientifica-pibic), from 2021 to 2025, and am an incoming master's student in Philosophy, starting next year.
 
 ## outside academia
 
-Along with my academic activities, I'm also an aspiring data scientist, open to part-time, internship or junior opportunities in Data Science during mornings (BRT). My industry-oriented cv can be found [here](https://jucazyn.github.io/files/cv.pdf). 
+Along with my academic activities, I'm also an aspiring data scientist, **open to part-time, internship or junior opportunities in Data Science during mornings (BRT)**. My industry-oriented cv can be found [here](https://jucazyn.github.io/files/cv.pdf). 
 
-I'm also committed to education and social causes. Viewing teaching as a way of giving back to the community, whenever possible, [I engage in projects](https://www.instagram.com/p/BM7lKcsArOW/) aimed at disseminating science to a general audience through a philosophical lens. I'm particularly enthusiastic about using Category Theory as a pedagogical tool, empowering students to structure their understanding of Mathematics.
+I'm also committed to education and social causes. Viewing teaching as a way of giving back to the community, whenever possible, [I engage in projects](https://www.instagram.com/p/BM7lKcsArOW/) aimed at disseminating science to a general audience through a philosophical lens. I'm particularly enthusiastic about using Category Theory as a pedagogical tool, empowering students to structure their understanding of Mathematics from very early.
