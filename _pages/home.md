@@ -8,8 +8,10 @@ redirect_from:
   - /home.html
 ---
   
-I'm a mathematical philosopher concerned with the foundations of science and technology. At present, I'm investigating when and why two physical theories could be considered **equivalent**, and how this helps the broader debate about the nature of scientific theories. The research is conducted under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at [UFSC](https://ufsc.br/).
+I'm a [mathematical philosopher](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029) concerned with the foundations of science and technology. At present, I'm investigating when and why two physical theories could be considered **equivalent**, and how this helps the broader debate about the nature of scientific theories. The research is conducted under the supervision of [Prof. Jonas R. Becker Arenhart](https://scholar.google.com/citations?user=INalU8cAAAAJ&hl=pt-BR) in the [Research Group in Logic and Foundations of Science](https://sites.google.com/view/logicandfoundationsofscience/home?authuser=0) at [UFSC](https://ufsc.br/).
+
+My academic background combines a bachelor's degree in Mathematics (UFSC, 2023), earned through a [756-hour special honors track](http://pam.mtm.ufsc.br/), with ongoing undergraduate studies in Philosophy. I have been awarded four [PIBIC/CNPq undergraduate research fellowships](https://pibic.ufsc.br/) and am an incoming master's student in Philosophy at UFSC.
 
 ## outside academia
 
-Along with my academic activities, I'm also an aspiring data scientist, open to part-timem internship or junior opportunities in Data Science during mornings (BRT). My cv can be found [here](https://jucazyn.github.io/cv).
+Along with my academic activities, I'm also an aspiring data scientist, open to part-timem internship or junior opportunities in Data Science during mornings (BRT). My industry-oriented cv can be found [here](https://jucazyn.github.io/files/cv.pdf).
