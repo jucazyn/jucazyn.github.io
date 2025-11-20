@@ -12,13 +12,6 @@ I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in
 
 **I'm open to part-time opportunities**. My cv can be found [here](https://jucazyn.github.io/cv/). Feel free to contact me.
 
-## main interests
+## research interests
 
-**Logic.** The Logic-related topics that I'm interested are Categorical Logic and dualities, such as the so-called Stone-type dualities (e.g., Stone, Gelfand) and other algebro-geometric dualities.
-
-**Philosophy of Science.** My main philosophical area of research. I focus on the history and nuances of the debate on the logical foundations of scientific theories, covering topics such as the Vienna Circle's received view, the linguistic _vs_. model-theoretic views of theories debate, the relation between Philosophy of Science and scientific practice, and theoretical equivalence.
-
-**Foundations of Physics.** In this interdisciplinary field, I combine Mathematical Physics, History of Physics, and Philosophy of Physics, to conduct mathematical and philosophical inquiry into physical theories.
-
-**Artificial Intelligence.** I have a growing interest in applying mathematical methods to explore philosophical issues related to Machine Learning and, more generally, Artificial Intelligence.
-
+I'm trained as a mathematical philosopher, i.e., I'm interested in exploring problems of philosophical nature where mathematical methods are needed. The philosophical topics that I'm interested mainly center around Philosophy of Science and Philosophy of Technology, but I'm also interested in foundational science and technology problems. Specifically, I'm interested in the philosophical and mathematical foundations of Physics and Artificial Intelligence.
