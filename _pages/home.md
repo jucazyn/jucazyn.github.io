@@ -16,7 +16,7 @@ I'm a Philosophy student at [UFSC](https://ufsc.br/) with a bachelor's degree in
 
 Trained both as a mathematician and a philosopher, I'm interested in exploring problems of philosophical nature where mathematical methods can provide some insight. This approach is sometimes referred to as [Mathematical Philosophy](https://onlinelibrary.wiley.com/doi/abs/10.1111/meta.12029). Among the mathematical methods I use most, Category Theory stands out.
 
-My research interests mainly center around Logic, Philosophy of Science and Philosophy of Technology, including foundational science and technology problems. Specifically, I'm interested in the philosophical and mathematical foundations of Physics and Artificial Intelligence.
+My research interests mainly center around **Logic**, **Philosophy of Science** and **Philosophy of Technology**, including foundational science and technology problems. Specifically, I'm interested in the philosophical and mathematical foundations of Physics and Artificial Intelligence.
 
 ## outside academia
 
