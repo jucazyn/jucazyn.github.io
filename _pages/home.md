@@ -16,4 +16,4 @@ My academic background combines a bachelor's degree in Mathematics (UFSC, 2023) 
 
 Along with my academic activities, I'm also an aspiring data scientist, open to part-time, internship or junior opportunities in Data Science during mornings (BRT). My industry-oriented cv can be found [here](https://jucazyn.github.io/files/cv.pdf). 
 
-It's worth to mention that I'm very worried about animal and social causes. Whenever possible, I get involved in projects aimed at disseminating science, to a general audience, with a philosophical twist.
+Further, I'm very worried about animal and social causes and I believe I can contribute to them through education. Therefore, whenever possible, [I get involved in projects](https://www.instagram.com/p/BM7lKcsArOW/) aimed at disseminating science, to a general audience, with a philosophical twist.
