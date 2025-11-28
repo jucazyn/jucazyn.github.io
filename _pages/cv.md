@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is an academic-oriented cv. For an industry-oriented perspective, please see the [pdf version](https://jucazyn.github.io/files/cv.pdf).
+
 
 ## education
 
