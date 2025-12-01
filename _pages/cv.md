@@ -13,12 +13,12 @@ redirect_from:
 
 ## education
 
-* **Bachelor's degree in Philosophy, UFSC (2024-current)**
+* **Bachelor's degree in Philosophy @ UFSC (2024-current)**
   * Pursued with a ["tailor-made" applied track](https://jucazyn.github.io/applied-track/)
   * Final project: tba
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Bachelor's degree in Mathematics, UFSC (2018-2023)**
+* **Bachelor's degree in Mathematics @ UFSC (2018-2023)**
   * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
@@ -38,18 +38,20 @@ redirect_from:
   * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
 
 * **Undergraduate Research Project @ UFSC (2019-2023)**
+  * Filliated via [PIBIC volunteering research program](https://voluntario-ufsc-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
   * Periods: 2020-2021*, 2021-2022, 2022-2023, ?
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
   * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate Research Project @ UFSC (2018-2019)**
+  * Filliated via [PIBIC volunteering research program](https://voluntario-ufsc-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
   * Subjects: the category **Top**, product and weak topology, quotient topology
   * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
 
 ## other
 
-* **Reading Group on Logic and Foundations of Science, UFSC (2023-current)**
+* **Reading Group on Logic and Foundations of Science @ UFSC (2023-current)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
-* **Supervised Reading on Philosophy, UFSC (2018-2019)**
+* **Supervised Reading on Philosophy @ UFSC (2018-2019)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
