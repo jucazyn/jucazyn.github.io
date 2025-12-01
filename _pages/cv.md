@@ -39,15 +39,13 @@ redirect_from:
   * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
 
 * **Undergraduate Research Project @ UFSC (2019-2023)**
-  * Periods: 2020-2021*, 2021-2022, 2022-2023
+  * Periods: 2019-2020*, 2020-2021, 2021-2022, 2022-2023
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
-  * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Jonas R. Becker Arenhart
+  * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Paulo M. de Carvalho Neto
 
-* **Undergraduate Research Project @ UFSC (2019-2020)**
-  * Subjects: the category **Top**, product topology, ultrafilters, Tychonoff’s theorem
-  * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
+## other
 
-* **Undergraduate Research Project @ UFSC (2018-2019)**
+* **Supervised Reading @ UFSC (2018-2019)**
   * Subjects: propositional non-classical logics, modal logics, many-valued logics
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
