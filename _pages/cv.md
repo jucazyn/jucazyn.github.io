@@ -38,13 +38,11 @@ redirect_from:
   * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
 
 * **Undergraduate Research Project @ UFSC (2019-2023)**
-  * Filliated via [PIBIC volunteering research program](https://voluntario-ufsc-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
-  * Periods: 2020-2021*, 2021-2022, 2022-2023, ?
+  * Periods: 2020-2021*, 2021-2022, 2022-2023
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
   * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate Research Project @ UFSC (2018-2019)**
-  * Filliated via [PIBIC volunteering research program](https://voluntario-ufsc-br.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
   * Subjects: the category **Top**, product and weak topology, quotient topology
   * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
 
