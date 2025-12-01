@@ -27,7 +27,7 @@ redirect_from:
 
 * **Undergraduate Teaching Assistant @ UFSC (2019-2021)**
   * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
-  * Course: MTM3450 Fundamentals of Arithmetic [pdf](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)
+  * Course: MTM3450 Fundamentals of Arithmetic [[pdf](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)]
   * Subjects: Peano axioms, elements of Number Theory, basic proof techniques
 
 ## research
