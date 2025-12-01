@@ -27,6 +27,7 @@ redirect_from:
 
 * **Undergraduate Teaching Assistant @ UFSC (2019-2021)**
   * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
+  * Course: MTM3450 Fundamentals of Arithmetic [pdf](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)
   * Subjects: Peano axioms, elements of Number Theory, basic proof techniques
 
 ## research
@@ -43,7 +44,7 @@ redirect_from:
   * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate Research Project @ UFSC (2018-2019)**
-  * Subjects: the category **Top**, product and weak topology, quotient topology
+  * Subjects: the category **Top**, weak and quotient topology, Tychonoff's theorem
   * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
 
 ## other
