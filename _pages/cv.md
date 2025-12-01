@@ -43,14 +43,11 @@ redirect_from:
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
   * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Jonas R. Becker Arenhart
 
-* **Undergraduate Research Project @ UFSC (2018-2019)**
+* **Undergraduate Research Project @ UFSC (2019-2020)**
   * Subjects: the category **Top**, weak and quotient topology, Tychonoff's theorem
   * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
 
 ## other
-
-* **Reading Group on Logic and Foundations of Science @ UFSC (2023-current)**
-  * Supervisor: Prof. Jonas R. Becker Arenhart
 
 * **Supervised Reading on Philosophy @ UFSC (2018-2019)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
