@@ -44,10 +44,9 @@ redirect_from:
   * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Jonas R. Becker Arenhart
 
 * **Undergraduate Research Project @ UFSC (2019-2020)**
-  * Subjects: the category **Top**, weak and quotient topology, Tychonoff's theorem
+  * Subjects: the category **Top**, product topology, ultrafilters, Tychonoff’s theorem
   * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
 
-## other
-
-* **Supervised Reading on Philosophy @ UFSC (2018-2019)**
+* **Undergraduate Research Project @ UFSC (2018-2019)**
   * Supervisor: Prof. Jonas R. Becker Arenhart
+
