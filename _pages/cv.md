@@ -25,22 +25,26 @@ redirect_from:
 
 ## teaching
 
-* **Undergraduate Teaching Assistant in Mathematics, UFSC (2019-2021)**
+* **Undergraduate Teaching Assistant @ UFSC (2019-2021)**
   * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
   * Subjects: Peano axioms, elements of Number Theory, basic proof techniques
 
 ## research
 
-* **Undergraduate Research Project in Philosophy, UFSC (2021-2025)**
+* **Undergraduate Research Project @ UFSC (2021-2025)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Periods: 2021-2022*, 2022-2023, 2023-2024, 2024-2025
   * Subjects: scientific theories, equivalence, formulations of Classical Mechanics
   * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
 
-* **Undergraduate Research Project in Mathematics, UFSC (2019-2023)**
-  * Periods: 2019-2020*, 2020-2021, 2021-2022, 2022-2023
+* **Undergraduate Research Project @ UFSC (2019-2023)**
+  * Periods: 2020-2021*, 2021-2022, 2022-2023, ?
   * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
-  * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Paulo M. de Carvalho Neto
+  * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Jonas R. Becker Arenhart
+
+* **Undergraduate Research Project @ UFSC (2018-2019)**
+  * Subjects: the category **Top**, product and weak topology, quotient topology
+  * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
 
 ## other
 
