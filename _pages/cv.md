@@ -48,5 +48,6 @@ redirect_from:
   * Supervisors: Prof. Paulo M. de Carvalho Neto, Prof. Luiz G. Cordeiro
 
 * **Undergraduate Research Project @ UFSC (2018-2019)**
+  * Subjects: propositional non-classical logics, modal logics, many-valued logics
   * Supervisor: Prof. Jonas R. Becker Arenhart
 
