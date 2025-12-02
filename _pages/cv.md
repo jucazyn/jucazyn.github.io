@@ -26,9 +26,8 @@ redirect_from:
 ## teaching
 
 * **Undergraduate Teaching Assistant @ UFSC (2019-2021)**
-  * Funded by the [UFSC undergraduate tutoring program](https://monitoria.ufsc.br/)
-  * Course: MTM3450 Fundamentals of Arithmetic [[pdf](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)]
-  * Subjects: Peano axioms, elements of Number Theory, basic proof techniques
+  * Courses: [MTM3400](http://www.mtm.ufsc.br/programasMTM/MTM3400_-_Introducao_ao_calculo_assinado.pdf) and [MTM3450](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)
+  * Subjects: basic proof techniques, sets, functions, elements of Number Theory
 
 ## research
 
@@ -40,7 +39,7 @@ redirect_from:
 
 * **Undergraduate Research Project @ UFSC (2019-2023)**
   * Periods: 2019-2020*, 2020-2021, 2021-2022, 2022-2023
-  * Subjects: Stone-type dualities, mathematical aspects of Quantum Mechanics
+  * Subjects: Stone-type dualities, mathematical methods of Quantum Mechanics
   * Supervisors: Prof. Luiz G. Cordeiro, *Prof. Paulo M. de Carvalho Neto
 
 ## other
