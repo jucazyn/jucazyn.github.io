@@ -14,11 +14,9 @@ redirect_from:
 ## education
 
 * **Master's degree in Philosophy @ UFSC (begins 2026)**
-
 * **Bachelor's degree in Philosophy @ UFSC (2024-2027)**
   * Final project: tba
   * Supervisor: Prof. Jonas R. Becker Arenhart
-
 * **Bachelor's degree in Mathematics @ UFSC (2018-2023)**
   * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
@@ -27,13 +25,11 @@ redirect_from:
 ## research
 
 * **Graduate Research Project @ UFSC (begins 2026)**
-
 * **Undergraduate Research Project @ UFSC (2021-2025)**
   * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
   * Periods: 2021-2022*, 2022-2023, 2023-2024, 2024-2025
   * Subjects: scientific theories, equivalence, formulations of Classical Mechanics
   * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
-
 * **Undergraduate Research Project @ UFSC (2019-2023)**
   * Periods: 2019-2020*, 2020-2021, 2021-2022, 2022-2023
   * Subjects: Stone-type dualities, mathematical methods of Quantum Mechanics
@@ -42,7 +38,6 @@ redirect_from:
 ## teaching
 
 * **Graduate Teaching Assistant @ UFSC (begins 2026)**
-
 * **Undergraduate Teaching Assistant @ UFSC (2019-2021)**
   * Courses: [MTM3400](http://www.mtm.ufsc.br/programasMTM/MTM3400_-_Introducao_ao_calculo_assinado.pdf) and [MTM3450](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)
   * Subjects: basic proof techniques, sets, functions, elements of Number Theory
