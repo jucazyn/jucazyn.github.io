@@ -26,7 +26,7 @@ redirect_from:
 
 * **Graduate Research Project @ UFSC (begins 2026)**
 * **Undergraduate Research Project @ UFSC (2021-2025)**
-  * Funded by the [PIBIC/CNPq undergraduate research program](http://pibic.propesq.ufsc.br/)
+  * Funded by the [PIBIC/CNPq fellowship program](http://pibic.propesq.ufsc.br/)
   * Periods: 2021-2022*, 2022-2023, 2023-2024, 2024-2025
   * Subjects: scientific theories, equivalence, formulations of Classical Mechanics
   * Supervisors: Prof. Jonas R. Becker Arenhart, *Prof. Luiz G. Cordeiro
