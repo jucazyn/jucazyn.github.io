@@ -39,7 +39,7 @@ redirect_from:
 
 * **Graduate Teaching Assistant @ UFSC (begins 2026)**
 * **Undergraduate Teaching Assistant @ UFSC (2019-2021)**
-  * Courses: [MTM3400](http://www.mtm.ufsc.br/programasMTM/MTM3400_-_Introducao_ao_calculo_assinado.pdf) and [MTM3450](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)
+  * Course: [MTM3450](http://www.mtm.ufsc.br/programasMTM/MTM3450_-_Fundamentos_de_Aritimetica_assinado.pdf)
   * Subjects: basic proof techniques, sets, functions, elements of Number Theory
 
 ## other
