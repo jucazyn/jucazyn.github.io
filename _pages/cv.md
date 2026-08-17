@@ -18,7 +18,7 @@ redirect_from:
   * Final project: tba
   * Supervisor: Prof. Jonas R. Becker Arenhart
 * **Bachelor's degree in Mathematics @ UFSC (2018-2023)**
-  * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
+  * Completed the [756-hour PAM honors track](http://pam.mtm.ufsc.br/)
   * Final project: "Dualidade de Stone: uma odisseia lógico-matemática" [[pdf](https://repositorio.ufsc.br/bitstream/handle/123456789/255148/tcc_julio%20candido%20veloso%20barczyszyn.pdf?sequence=1&isAllowed=y)]
   * Supervisors: Prof. Luiz G. Cordeiro, Prof. Jonas R. Becker Arenhart
 
