@@ -14,4 +14,4 @@ My academic background combines a bachelor's degree in Mathematics (UFSC, 2023) 
 
 ## outside academia
 
-I'm also committed to education and social causes. Viewing teaching as a way of giving back to the community, whenever possible [I engage in projects](https://www.instagram.com/p/BM7lKcsArOW/) aimed at disseminating science to a general audience through a philosophical lens. I'm particularly enthusiastic about using [Category Theory](https://youtu.be/eXBwU9ieLL0) as a pedagogical tool, empowering students to structure their understanding of Mathematics from very early.
+I'm also committed to education and social causes. Viewing teaching as a way of giving back to the community, whenever possible [I engage in projects](https://www.instagram.com/p/BM7lKcsArOW/) aimed at disseminating science to a general audience through a philosophical lens. I'm particularly enthusiastic about using [Category Theory](https://youtu.be/eXBwU9ieLL0) as a pedagogical tool, empowering students to structure their understanding of Mathematics from very early.
